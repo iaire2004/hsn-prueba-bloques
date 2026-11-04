@@ -1,0 +1,57 @@
+name: Actualizar páginas por bloque
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-bloques
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout de este repo
+        uses: actions/checkout@v4
+
+      - name: Checkout de los datos (repo del sistema legislativo)
+        uses: actions/checkout@v4
+        with:
+          repository: bonifaciomariano/hsn-sistema-legislativo
+          path: source
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias del scraper de votaciones
+        run: pip install requests beautifulsoup4
+
+      - name: Actualizar votaciones
+        continue-on-error: true
+        run: python scripts/scraper_votaciones.py
+
+      - name: Generar páginas por bloque
+        env:
+          HSN_SOURCE: source
+          HSN_OUT: .
+        run: python scripts/generar_bloques.py
+
+      - name: Commit y push si hay cambios
+        run: |
+          fallo() { echo "::error::$1: $(echo "$2" | tr '\n' ' ' | cut -c1-900)"; exit 1; }
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          r=$(git add -A 2>&1) || fallo "git add" "$r"
+          git reset -q -- source 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Sin cambios; nada que commitear."
+            exit 0
+          fi
+          r=$(git commit -m "Actualización automática $(date -u '+%Y-%m-%d %H:%M UTC')" 2>&1) || fallo "git commit" "$r"
+          r=$(git pull --rebase origin "${GITHUB_REF_NAME}" 2>&1) || fallo "git pull" "$r"
+          r=$(git push origin "HEAD:${GITHUB_REF_NAME}" 2>&1) || fallo "git push" "$r"
