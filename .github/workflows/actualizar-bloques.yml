@@ -31,6 +31,8 @@ jobs:
       - name: Instalar dependencias del scraper de votaciones
         run: pip install requests beautifulsoup4
 
+      # Si falla (sitio caído o limitando acceso) no frena la generación:
+      # las páginas se arman con lo que ya está guardado.
       - name: Actualizar votaciones
         continue-on-error: true
         run: python scripts/scraper_votaciones.py
@@ -41,11 +43,17 @@ jobs:
           HSN_OUT: .
         run: python scripts/generar_bloques.py
 
+      # Chequeos de cordura: si hay algo grave (bloque sin senadores, caída fuerte de proyectos,
+      # aprobados listados como por caducar...) el job falla ACÁ y no se publica nada.
+      - name: Verificar páginas generadas
+        run: python scripts/verificar_paginas.py .
+
       - name: Commit y push si hay cambios
         run: |
           fallo() { echo "::error::$1: $(echo "$2" | tr '\n' ' ' | cut -c1-900)"; exit 1; }
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 'source/' es el checkout de datos: no se publica ni se commitea.
           r=$(git add -A 2>&1) || fallo "git add" "$r"
           git reset -q -- source 2>/dev/null || true
           if git diff --cached --quiet; then
