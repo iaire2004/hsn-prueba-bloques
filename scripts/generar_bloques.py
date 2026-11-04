@@ -76,7 +76,11 @@ COLORES_BLOQUE = {
 # (`sanciones_trazabilidad`). Poner en False para volver a depender sólo del Boletín.
 USAR_AP_TRAZABILIDAD = True
 
-MINUSCULAS = {"de", "del", "la", "las", "los", "el", "y", "por", "en", "a", "e", "o"}
+MINUSCULAS = {"de", "del", "di", "la", "las", "los", "el", "y", "por", "en", "a", "e", "o"}
+# Grafía oficial de apellidos (listado del Senado): sin tilde / partículas en minúscula.
+GRAFIA = {"Royón": "Royon", "Moisés": "Moises", "Ávila": "Avila"}
+# Apellidos cuya grafía oficial lleva la partícula en minúscula (Tomás, informe 21/10).
+PARTICULAS_OFICIALES = {"De Pedro": "de Pedro", "Di Tullio": "di Tullio", "Monte De Oca": "Monte de Oca", "Del Carmen": "del Carmen"}
 SIGLAS = {"PRO", "UCR", "PJ", "PE", "HSN"}
 
 
@@ -104,15 +108,20 @@ def titulo(s):
         elif i > 0 and w in MINUSCULAS:
             out.append(w)
         else:
-            out.append(w[:1].upper() + w[1:])
+            w = w[:1].upper() + w[1:]
+            out.append(GRAFIA.get(w, w))
     return " ".join(out)
 
 
 def nombre_persona(s):
-    """'GOERLING LARA, ENRIQUE MARTÍN' -> 'Enrique Martín Goerling Lara'."""
+    """'GOERLING LARA, ENRIQUE MARTÍN' -> 'Enrique Martín Goerling Lara'.
+    Grafía oficial (Royon, Moises, Avila)."""
     apellido, _, nombre = (s or "").partition(",")
     partes = (nombre.strip() + " " + apellido.strip()).strip().lower().split()
-    return " ".join(p[:1].upper() + p[1:] for p in partes)
+    out = " ".join(GRAFIA.get(p[:1].upper() + p[1:], p[:1].upper() + p[1:]) for p in partes)
+    for k, v in PARTICULAS_OFICIALES.items():
+        out = out.replace(k, v)
+    return out
 
 
 def slug_de(nombre_visible):
@@ -883,6 +892,7 @@ def construir_bloque(ctx, bloque, hoy):
         "autoridades": autoridades,
         "ods": ods,
         "preferencias": preferencias,
+        "preferencias_distintas": len({x["id"] for x in preferencias}),
         "por_caducar": por_caducar,
         "pc_con_avance": sum(1 for x in por_caducar if x["od"] or x["preferencia"] or x["reunion"]),
         "pc_mandato": sum(1 for x in por_caducar if x["mandato_cumplido"]),
@@ -923,9 +933,10 @@ def construir_sintesis(d):
     if m["preferencia"]:
         avances.append(f"{m['preferencia']} con preferencia")
     if m["aprobado"]:
-        avances.append(f"{m['aprobado']} aprobados por el Senado")
+        avances.append(f"{m['aprobado']} {'aprobado' if m['aprobado'] == 1 else 'aprobados'} por el Senado")
     if m["con_movimiento"]:
-        frases.append(f"{m['con_movimiento']} de ellos registran algún avance: {_lista_es(avances)}.")
+        n = m['con_movimiento']
+        frases.append(f"{n} de ellos {'registra' if n == 1 else 'registran'} algún avance: {_lista_es(avances)}.")
     if d["aprobados"]:
         n = len(d["aprobados"])
         frases.append(f"El Senado aprobó {n} {'proyecto' if n == 1 else 'proyectos'} del bloque en sesiones de {t}.")
@@ -933,7 +944,8 @@ def construir_sintesis(d):
     if d["ods"]:
         extra.append(f"{len(d['ods'])} {'orden del día' if len(d['ods']) == 1 else 'órdenes del día'} con proyectos del bloque en la Ayuda Memoria")
     if d["preferencias"]:
-        extra.append(f"{len(d['preferencias'])} {'preferencia' if len(d['preferencias']) == 1 else 'preferencias'} en sesiones de {t}")
+        npf = d["preferencias_distintas"]
+        extra.append(f"{npf} {'proyecto con preferencia' if npf == 1 else 'proyectos con preferencia'} en sesiones de {t}")
     if extra:
         frases.append("Hay " + _lista_es(extra) + ".")
     if d["por_caducar"]:

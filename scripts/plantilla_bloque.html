@@ -481,7 +481,7 @@ function renderResumen(){
   h+='<h2>Panorama del bloque</h2><div class="grid g5" style="margin-top:12px">'
     +datosKpis().map(function(k){return kpi(k[0],k[1],k[2]);}).join('')+'</div>';
   h+='<p class="seg-linea"><span><b>'+num(B.ods.length)+'</b> '+plural(B.ods.length,'orden del día con proyectos del bloque','órdenes del día con proyectos del bloque')+'</span><span class="sep">|</span>'
-    +'<span><b>'+num(B.preferencias.length)+'</b> '+plural(B.preferencias.length,'preferencia vigente','preferencias vigentes')+'</span>'
+    +'<span><b>'+num(B.preferencias_distintas)+'</b> '+plural(B.preferencias_distintas,'proyecto con preferencia','proyectos con preferencia')+'</span>'
     +'<button type="button" class="lnk" data-ir="seguimiento">Ver Seguimiento →</button></p>';
   h+='<div class="callout"><p>'+sintesisHtml(B.sintesis)+'</p><div class="cf">Síntesis generada automáticamente con IA a partir de las cifras de esta página · Datos al '+esc(B.datos_al)+'</div></div>';
 
@@ -700,7 +700,7 @@ function pnSlides(){
     return '<div style="flex:1;display:flex;flex-direction:column;gap:36px;justify-content:center"><h2 class="pn-h2">Seguimiento</h2>'
       +pnTarjetas([
         [B.ods.length,plural(B.ods.length,'orden del día con proyectos del bloque','órdenes del día con proyectos del bloque')],
-        [B.preferencias.length,plural(B.preferencias.length,'preferencia vigente','preferencias vigentes')],
+        [B.preferencias_distintas,plural(B.preferencias_distintas,'proyecto con preferencia','proyectos con preferencia')],
         [B.aprobados.length,plural(B.aprobados.length,'proyecto aprobado por el Senado en '+B.anio,'proyectos aprobados por el Senado en '+B.anio)],
         [B.por_caducar.length,plural(B.por_caducar.length,'proyecto de ley de '+(B.anio-1)+' por caducar','proyectos de ley de '+(B.anio-1)+' por caducar'),B.pc_mandato?B.pc_mandato+' de autores con mandato cumplido':'']
       ],true)
