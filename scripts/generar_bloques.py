@@ -1096,6 +1096,45 @@ main{border-left:6px solid #1B5EA2;padding:8px 24px}h1{color:#1B5EA2;margin:0 0 
 """
 
 
+def _texto_sobre(color):
+    """Color de texto legible (oscuro o blanco) sobre un fondo hexadecimal."""
+    h = color.lstrip("#")
+    r, g, b = (int(h[i:i + 2], 16) for i in (0, 2, 4))
+    return "#1B2A3A" if (0.299 * r + 0.587 * g + 0.114 * b) > 150 else "#FFFFFF"
+
+
+def render_portada(bloques):
+    """Página de entrada: un botón por bloque, con su color. Al elegir uno se abre su página y no
+    queda enlace de vuelta (cada bloque ve sólo lo suyo). `location.replace` saca la portada del
+    historial del navegador. Lista de (slug, nombre, color)."""
+    botones = "\n".join(
+        '<a class="bt" href="%s/" onclick="location.replace(this.href);return false" '
+        'style="background:%s;color:%s">%s</a>' % (slug, color, _texto_sobre(color), nombre)
+        for slug, nombre, color in bloques)
+    return """<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Seguimiento legislativo por bloque</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:Poppins,Calibri,'Segoe UI',sans-serif;background:#F5F7FA;color:#4A4A4A;margin:0;min-height:100vh}
+header{background:#1B5EA2;color:#fff;padding:28px 24px}
+header h1{margin:0 0 4px;font-size:24px}header p{margin:0;font-size:14px;opacity:.9}
+main{max-width:980px;margin:0 auto;padding:28px 20px 48px}
+h2{color:#1B5EA2;font-size:18px;margin:0 0 18px;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.bt{display:flex;align-items:center;justify-content:center;text-align:center;min-height:84px;padding:14px 16px;border-radius:10px;
+font-weight:600;font-size:16px;line-height:1.3;text-decoration:none;box-shadow:0 1px 3px rgba(0,0,0,.18);transition:transform .12s,box-shadow .12s}
+.bt:hover,.bt:focus{transform:translateY(-2px);box-shadow:0 4px 10px rgba(0,0,0,.25);outline:none}
+footer{text-align:center;font-size:12px;color:#7a7a7a;padding:0 20px 28px}
+</style></head>
+<body><header><h1>Seguimiento legislativo por bloque</h1><p>Prosecretaría Parlamentaria · Senado de la Nación Argentina</p></header>
+<main><h2>Elegí tu bloque</h2><div class="grid">
+""" + botones + """
+</div></main>
+<footer>Información pública del Senado de la Nación, procesada automáticamente.</footer></body></html>
+"""
+
+
 def main():
     gw = cargar_gw()
     ctx = construir_contexto(gw)
@@ -1111,6 +1150,7 @@ def main():
         f.write("User-agent: *\nDisallow: /\n")
 
     resumen = []
+    portada = []
     for bloque in bloques:
         slug = slug_de(titulo(bloque))
         if pedidos and slug not in pedidos:
@@ -1121,10 +1161,13 @@ def main():
         os.makedirs(carpeta, exist_ok=True)
         with open(os.path.join(carpeta, "index.html"), "w", encoding="utf-8") as f:
             f.write(html)
+        portada.append((slug, datos["bloque"], datos["color"]))
         resumen.append((slug, len(datos["senadores"]), datos["total"],
                         datos["movimiento"]["con_movimiento"], len(html) / 1024))
 
     if not pedidos:
+        with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
+            f.write(render_portada(portada))
         carpeta_datos = os.path.join(OUT, "data")
         os.makedirs(carpeta_datos, exist_ok=True)
         lista = sorted(ctx["rastrear"].values(), key=lambda e: e["id"])
