@@ -1,0 +1,567 @@
+[
+  {
+    "id": "S-1023/26",
+    "bloques": [
+      "Independencia"
+    ],
+    "orden_del_dia": [
+      "230/2026"
+    ],
+    "fecha_dictamen": "16/07/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1028/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "193/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1031/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "194/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1070/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "195/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1076/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "196/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-108/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "182/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-109/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "183/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1090/26",
+    "bloques": [
+      "Justicialista",
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "197/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-110/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "184/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-115/26",
+    "bloques": [
+      "Movimiento por Misiones"
+    ],
+    "orden_del_dia": [
+      "327/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-160/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "185/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-209/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "225/2026"
+    ],
+    "fecha_dictamen": "02/07/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-214/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "328/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-227/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "186/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-242/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "170/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-272/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "187/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-29/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "325/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-297/25",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "455/2025"
+    ],
+    "fecha_dictamen": "26/08/2025",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-316/25",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [
+      "140/2025"
+    ],
+    "fecha_dictamen": "22/05/2025",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-320/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "152/2026"
+    ],
+    "fecha_dictamen": "25/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-351/25",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "527/2025"
+    ],
+    "fecha_dictamen": "28/08/2025",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-357/26",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [
+      "171/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-398/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "188/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-413/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "329/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-429/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "330/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-457/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "323/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-465/26",
+    "bloques": [
+      "Frente PRO",
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "137/2026"
+    ],
+    "fecha_dictamen": "18/06/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-492/26",
+    "bloques": [
+      "Movere por Santa Cruz"
+    ],
+    "orden_del_dia": [
+      "331/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-50/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "181/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-522/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "189/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-535/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "332/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-545/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "190/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-556/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "229/2026"
+    ],
+    "fecha_dictamen": "16/07/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-557/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "172/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-560/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "333/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-564/26",
+    "bloques": [
+      "Independencia"
+    ],
+    "orden_del_dia": [
+      "152/2026"
+    ],
+    "fecha_dictamen": "25/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-574/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "228/2026"
+    ],
+    "fecha_dictamen": "15/07/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-575/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "334/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-579/25",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "571/2025"
+    ],
+    "fecha_dictamen": "18/09/2025",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-588/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "173/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-608/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "174/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-612/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [
+      "335/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-613/26",
+    "bloques": [
+      "Despierta Chubut"
+    ],
+    "orden_del_dia": [
+      "332/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-620/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "336/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-623/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "333/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-657/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "175/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-693/26",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [
+      "191/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-884/25",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "137/2026",
+      "291/2025"
+    ],
+    "fecha_dictamen": "18/06/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-897/26",
+    "bloques": [
+      "La Libertad Avanza",
+      "Movere por Santa Cruz"
+    ],
+    "orden_del_dia": [
+      "192/2026"
+    ],
+    "fecha_dictamen": "26/06/2026",
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-92/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "326/2026"
+    ],
+    "fecha_dictamen": "25/08/2026",
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-926/25",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [
+      "582/2025"
+    ],
+    "fecha_dictamen": "01/10/2025",
+    "aprobado_por_el_senado_con_od": false
+  }
+]

@@ -1,0 +1,812 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>__TITULO__ · Seguimiento legislativo</title>
+<style>
+@font-face{font-family:'Poppins';font-weight:400;font-style:normal;src:url(data:font/ttf;base64,__FONT_REGULAR__) format('truetype')}
+@font-face{font-family:'Poppins';font-weight:600 700;font-style:normal;src:url(data:font/ttf;base64,__FONT_BOLD__) format('truetype')}
+:root{--azul:#1B5EA2;--azul2:#2E75B6;--azul3:#D6E4F0;--txt:#4A4A4A;--bg:#F5F7FA;--blanco:#FFFFFF;--nota:#6B6B6B}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:'Poppins',Calibri,sans-serif;color:var(--txt);background:var(--bg);line-height:1.5;font-size:15px}
+a{color:var(--azul2)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+
+/* Identidad sin logo */
+.hdr{background:var(--blanco);border-top:2px solid var(--azul);border-bottom:1px solid var(--azul3)}
+.hdr .wrap{display:flex;justify-content:space-between;gap:12px;padding-top:10px;padding-bottom:10px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--azul)}
+.hdr .der{font-weight:700;text-align:right}
+.portada{padding:28px 0 12px}
+.portada .bloque-titulo{border-left:6px solid var(--azul);padding:2px 0 2px 16px}
+.punto-bloque{display:inline-block;width:.5em;height:.5em;border-radius:50%;background:var(--bloque,var(--azul));box-shadow:0 0 0 1px rgba(0,0,0,.25);margin-left:.4em;vertical-align:.08em}
+.etq{font-size:13px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--azul2)}
+h1{margin:2px 0 4px;font-size:30px;line-height:1.15;color:var(--azul);font-weight:700}
+.sub{font-size:13px}
+
+/* Navegación */
+.tabs{position:sticky;top:0;z-index:5;background:var(--blanco);border-bottom:1px solid var(--azul3);box-shadow:0 1px 0 rgba(0,0,0,.02)}
+.tabs .wrap{display:flex;gap:4px;overflow-x:auto}
+.tab{appearance:none;border:0;background:none;font:inherit;font-size:14px;font-weight:600;color:var(--txt);padding:12px 14px;cursor:pointer;border-bottom:3px solid transparent;white-space:nowrap}
+.tab[aria-selected="true"]{color:var(--azul);border-bottom-color:var(--azul)}
+.tab:focus-visible{outline:2px solid var(--azul2);outline-offset:-2px}
+main{padding:20px 0 48px}
+.panel[hidden]{display:none}
+
+/* Tipografía de contenido */
+h2{font-size:20px;font-weight:700;color:var(--azul);margin:28px 0 4px;padding-bottom:6px;border-bottom:1px solid var(--azul)}
+h2:first-child{margin-top:4px}
+h3{font-size:14px;font-weight:600;color:var(--azul2);margin:20px 0 6px}
+p{margin:0 0 10px}
+.nota{font-size:11px;font-style:italic;font-weight:300;color:var(--nota);margin-top:8px}
+.callout{background:var(--azul3);border-left:3px solid var(--azul2);color:var(--azul);font-style:italic;padding:12px 16px;margin:14px 0;border-radius:0 6px 6px 0}
+.callout p:last-child{margin-bottom:0}
+.callout .cf{font-size:11px;font-style:italic;font-weight:300;color:var(--azul);opacity:.8;margin-top:6px}
+
+/* Tarjetas */
+.grid{display:grid;gap:12px}
+.g4{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+.g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.g3{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.card{background:var(--blanco);border:1px solid var(--azul3);border-radius:8px;padding:14px 16px}
+.kpi-card{border-top:4px solid var(--azul)}
+.kpi-v{font-size:40px;font-weight:700;color:var(--azul);line-height:1.1}
+.kpi-l{font-size:14px;margin-top:6px;line-height:1.35}
+
+/* Barras horizontales */
+.hb{display:grid;grid-template-columns:minmax(110px,190px) 1fr 40px;gap:10px;align-items:center;margin:7px 0;font-size:13px}
+.hb .pista{background:var(--bg);border-radius:4px;height:14px;overflow:hidden}
+.hb .barra{background:var(--azul2);height:100%;border-radius:4px}
+.hb .barra.alt{background:var(--azul)}
+.hb .v{font-weight:700;color:var(--azul);text-align:right}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 0}
+.chip{display:inline-block;font-size:12px;padding:3px 10px;border-radius:999px;background:var(--azul3);color:var(--azul);font-weight:600}
+.chip.suave{background:var(--bg);color:var(--txt);font-weight:400;border:1px solid var(--azul3)}
+.pbd{display:inline-block;width:.6em;height:.6em;border-radius:50%;background:var(--c,var(--azul));box-shadow:0 0 0 1px rgba(0,0,0,.25);margin:0 .35em 0 .1em;vertical-align:.02em}
+
+/* Senadores */
+.sen{display:flex;gap:12px;align-items:center}
+.avatar{width:56px;height:56px;border-radius:50%;object-fit:cover;background:var(--azul3);color:var(--azul);display:grid;place-items:center;font-weight:700;flex:none}
+.sen .nom{font-weight:600;color:var(--azul);line-height:1.2}
+.sen .prov{font-size:12px}
+
+/* Proyectos */
+.filtros{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));margin:10px 0 6px}
+.filtros input,.filtros select{font:inherit;font-size:14px;padding:9px 10px;border:1px solid var(--azul3);border-radius:6px;background:var(--blanco);color:var(--txt);width:100%}
+.filtros input:focus,.filtros select:focus{outline:2px solid var(--azul2);outline-offset:0}
+.proy{background:var(--blanco);border:1px solid var(--azul3);border-radius:8px;padding:12px 16px;margin:10px 0}
+.proy .cab{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12px;margin-bottom:6px}
+.proy .id{font-weight:700;color:var(--azul)}
+.proy .ext{font-size:13px;letter-spacing:.01em;margin:0 0 6px}
+.proy .meta{font-size:12px}
+.proy .meta b{font-weight:600}
+.btn{appearance:none;border:1px solid var(--azul);background:var(--blanco);color:var(--azul);font:inherit;font-size:14px;font-weight:600;padding:9px 18px;border-radius:6px;cursor:pointer}
+.btn:hover{background:var(--azul3)}
+.vacio{padding:18px;text-align:center;font-size:14px}
+
+/* Tablas */
+table{width:100%;border-collapse:collapse;font-size:13px;background:var(--blanco)}
+th{text-align:left;font-size:12px;font-weight:600;color:var(--azul);border-bottom:2px solid var(--azul);padding:8px 10px}
+td{padding:8px 10px;border-bottom:1px solid var(--azul3)}
+tr:nth-child(even) td{background:var(--bg)}
+td.num,th.num{text-align:right}
+
+/* Gráfico mensual */
+.meses text{font-family:inherit;font-size:11px;fill:var(--txt)}
+.meses .val{font-weight:700;fill:var(--azul)}
+
+
+/* Votos por bloque */
+.vbar{display:flex;height:14px;border-radius:4px;overflow:hidden;background:var(--bg);margin:8px 0 4px}
+.vbar span{display:block;height:100%}
+.vbar .a{background:#1E7B45}.vbar .n{background:#C23030}.vbar .b{background:#E8B923}
+.vleyenda{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:12px}
+.vleyenda i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.vleyenda .a i{background:#1E7B45}.vleyenda .n i{background:#C23030}.vleyenda .b i{background:#E8B923}
+.vleyenda b{font-weight:700;color:var(--azul)}
+.cols{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
+.mas-link{margin:12px 0 0;font-size:13px}
+.mas-link button{appearance:none;border:0;background:none;color:var(--azul2);font:inherit;font-weight:600;cursor:pointer;padding:0;text-decoration:underline}
+
+/* Listas compactas (Resumen) */
+.fila{display:flex;gap:10px;align-items:baseline;padding:8px 0;border-top:1px solid var(--azul3);font-size:13px}
+.fila:first-of-type{border-top:0}
+.fila .k{font-weight:700;color:var(--azul);white-space:nowrap}
+.fila .t{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fila .f{font-size:12px;white-space:nowrap}
+@media (max-width:560px){.fila{flex-wrap:wrap}.fila .t{flex-basis:100%;white-space:normal}}
+
+/* ── v2: Resumen compacto, Seguimiento, filtros, modo pantalla ── */
+.g5{grid-template-columns:repeat(5,minmax(0,1fr))}
+@media (max-width:900px){.g5{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}}
+.callout{font-size:16px;line-height:1.65;padding:18px 24px;border-left-width:4px}
+.callout b{font-weight:700}
+.seg-linea{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;font-size:14px;margin:14px 0 0}
+.seg-linea b{color:var(--azul);font-weight:700}
+.seg-linea .sep{color:var(--azul3)}
+.lnk{appearance:none;border:0;background:none;color:var(--azul);font:inherit;font-weight:700;cursor:pointer;padding:0;text-decoration:underline}
+.lnk:focus-visible,.pill:focus-visible,.btn-pill:focus-visible,.modo-btn:focus-visible{outline:3px solid var(--azul2);outline-offset:2px}
+.btn-pill{display:inline-flex;align-items:center;gap:8px;appearance:none;background:var(--azul3);color:var(--azul);border:1px solid var(--azul2);font:inherit;font-size:15px;font-weight:600;padding:9px 18px;border-radius:999px;cursor:pointer}
+.btn-pill b{font-size:19px;font-weight:700}
+.btn-pill:hover{background:var(--azul);color:#fff}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 4px;align-items:center}
+.pill{display:inline-flex;align-items:center;gap:10px;appearance:none;background:var(--blanco);border:1px solid var(--azul3);color:var(--txt);font:inherit;font-size:14px;font-weight:600;padding:8px 16px;border-radius:999px;cursor:pointer}
+.pill b{color:var(--azul);font-weight:700}
+.pill:hover{border-color:var(--azul2)}
+.pill[aria-pressed="true"]{background:var(--azul);border-color:var(--azul);color:#fff}
+.pill[aria-pressed="true"] b{color:#fff}
+.ir-a{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--azul2);margin-right:4px}
+.sec{scroll-margin-top:64px;margin-top:8px}
+.portada-flex{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:16px}
+.modo-btn{display:inline-flex;align-items:center;gap:10px;background:var(--azul);color:#fff;border:0;font:inherit;font-size:14px;font-weight:700;padding:11px 18px;border-radius:8px;cursor:pointer}
+.modo-btn:hover{background:var(--azul2)}
+
+/* Gráfico apilado por mes y tipo */
+.apilado{display:flex;align-items:flex-end;gap:10px;height:250px;padding-top:12px}
+.apilado .col{flex:1 1 0;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:5px}
+.apilado .tot{font-size:13px;font-weight:700;color:var(--azul)}
+.apilado .pila{display:flex;flex-direction:column-reverse;gap:1px;width:100%;max-width:56px;border-radius:5px 5px 2px 2px;overflow:hidden}
+.apilado .pila span{display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600}
+.apilado .mes{font-size:12px}
+.leyenda{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:16px;padding-top:12px;border-top:1px solid var(--azul3);font-size:13px}
+.leyenda i{display:inline-block;width:14px;height:14px;border-radius:3px;margin-right:7px;vertical-align:-2px}
+.leyenda b{color:var(--azul);font-weight:700}
+.apilado.big{height:520px;gap:22px;padding-top:0}
+.apilado.big .tot{font-size:30px}
+.apilado.big .pila{max-width:120px;border-radius:8px 8px 3px 3px;gap:2px}
+.apilado.big .pila span{font-size:22px}
+.apilado.big .mes{font-size:24px}
+.apilado.big+.leyenda{font-size:26px;gap:12px 34px;margin-top:18px}
+.apilado.big+.leyenda i{width:24px;height:24px}
+
+/* Votaciones */
+.vcab{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px 20px}
+.vtit{flex:1 1 360px;font-size:15px;font-weight:700;color:var(--azul);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vmeta{font-size:12px;color:#6B6B6B}
+.vg{display:flex;height:34px;margin:10px 0 2px;border-radius:6px;overflow:hidden;background:var(--bg)}
+.vg span{display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px}
+.vg .a{background:#1E7B45;color:#fff}.vg .n{background:#C23030;color:#fff}.vg .b{background:#E8B923;color:#4A4A4A}
+
+/* Modo pantalla */
+#pantalla{position:fixed;inset:0;z-index:100;background:#F5F7FA;overflow:hidden}
+#pantalla[hidden]{display:none}
+#stage{position:absolute;left:0;top:0;width:1920px;height:1080px;transform-origin:0 0;display:flex;flex-direction:column;background:#F5F7FA;font-size:24px;line-height:1.4}
+.pn-top{background:#fff;border-top:5px solid var(--azul);border-bottom:1px solid var(--azul3);display:flex;justify-content:space-between;padding:18px 96px;font-size:18px;letter-spacing:.16em;text-transform:uppercase;color:var(--azul)}
+.pn-body{flex:1;min-height:0;padding:40px 96px 20px;display:flex;flex-direction:column;gap:26px;overflow:hidden}
+h2.pn-h2{margin:0;padding:0;border:0;font-size:58px;line-height:1.1;font-weight:700;color:var(--azul)}
+.pn-foot{display:flex;justify-content:space-between;align-items:center;gap:30px;padding:14px 96px 24px;border-top:1px solid var(--azul3);background:#fff}
+.pn-ia{font-size:18px;font-style:italic;max-width:700px;line-height:1.4}
+.pn-ctrl{display:flex;align-items:center;gap:20px}
+.pn-nav{font:inherit;font-size:24px;font-weight:700;color:#fff;background:var(--azul);border:2px solid var(--azul);border-radius:12px;padding:10px 26px;cursor:pointer}
+.pn-nav.sec2{background:#fff;color:var(--azul)}
+.pn-nav:hover:not(:disabled){background:var(--azul2);border-color:var(--azul2);color:#fff}
+.pn-nav:disabled{opacity:.4;cursor:default}
+.pn-nav:focus-visible,.pn-dot:focus-visible{outline:4px solid var(--azul3);outline-offset:3px}
+.pn-dot{width:18px;height:18px;border-radius:50%;border:2px solid var(--azul);padding:0;cursor:pointer;background:#fff}
+.pn-dot[aria-current="true"]{background:var(--azul)}
+.pn-pos{font-size:24px;font-weight:700;color:var(--azul);min-width:84px;text-align:center}
+.pn-card{flex:1 1 0;min-width:0;background:#fff;border:1px solid var(--azul3);border-top:8px solid var(--azul);border-radius:16px;padding:32px 28px 26px}
+.pn-n{font-size:112px;line-height:1;font-weight:700;color:var(--azul)}
+.pn-n.peq{font-size:96px}
+.pn-l{margin-top:16px;font-size:26px;line-height:1.3}
+.pn-fila{display:flex;gap:28px;align-items:center;background:#fff;border:1px solid var(--azul3);border-radius:12px;padding:16px 28px}
+.pn-fila .k{flex:0 0 210px;font-size:30px;font-weight:700;color:var(--azul)}
+.pn-fila .t{flex:1;min-width:0;font-size:25px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.pn-chip{flex:0 0 auto;background:var(--azul3);color:var(--azul);font-weight:700;font-size:22px;padding:8px 18px;border-radius:999px}
+#stage .punto-bloque{margin-left:.35em}
+
+/* Aviso de IA */
+.ia{background:var(--azul3);border-top:1px solid var(--azul2);padding:14px 0;font-size:12px;color:var(--azul)}
+.ia b{font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:11px;margin-right:8px}
+footer{border-top:1px solid var(--azul3);background:var(--blanco);padding:14px 0;font-size:11px;font-style:italic;font-weight:300;color:var(--txt)}
+footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+
+@media (max-width:560px){
+  h1{font-size:24px}
+  .hb{grid-template-columns:100px 1fr 32px}
+  .hdr .wrap{font-size:10px}
+}
+@media print{
+  .tabs,.filtros,.btn,.modo-btn,.pills,#pantalla{display:none}
+  .panel[hidden]{display:block}
+  body{background:#fff}
+}
+</style>
+</head>
+<body>
+<header class="hdr"><div class="wrap"><span>Senado de la Nación Argentina</span><span class="der">Prosecretaría Parlamentaria</span></div></header>
+
+<section class="portada"><div class="wrap portada-flex"><div class="bloque-titulo">
+  <div class="etq">Seguimiento legislativo</div>
+  <h1 id="h-bloque"></h1>
+  <div class="sub" id="h-sub"></div>
+</div>
+<button type="button" class="modo-btn" id="b-pantalla"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg>Modo pantalla</button>
+</div></section>
+
+<nav class="tabs" aria-label="Secciones"><div class="wrap" role="tablist" id="tabs"></div></nav>
+
+<main><div class="wrap">
+  <section class="panel" id="p-resumen" role="tabpanel"></section>
+  <section class="panel" id="p-seguimiento" role="tabpanel" hidden></section>
+  <section class="panel" id="p-proyectos" role="tabpanel" hidden></section>
+  <section class="panel" id="p-votaciones" role="tabpanel" hidden></section>
+  <section class="panel" id="p-sencom" role="tabpanel" hidden><div id="p-senadores"></div><div id="p-comisiones"></div></section>
+  <section class="panel" id="p-metodo" role="tabpanel" hidden></section>
+</div></main>
+
+<div id="pantalla" hidden role="dialog" aria-modal="true" aria-label="Modo pantalla"></div>
+<aside class="ia" aria-label="Aviso sobre el uso de inteligencia artificial"><div class="wrap"><b>Aviso</b>Esta página fue generada con inteligencia artificial a partir de información pública del Senado de la Nación y se actualiza automáticamente dos veces por día. Los textos de síntesis y las cifras las produce el sistema; ante cualquier duda, consultar la fuente oficial.</div></aside>
+<footer><div class="wrap"><span>Prosecretaría Parlamentaria · Senado de la Nación Argentina</span><span id="f-datos"></span></div></footer>
+
+<script>
+(function(){
+"use strict";
+var B = /*__DATA__*/null;
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]});}
+function num(x){return (x||0).toLocaleString('es-AR');}
+function norm(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+function iniciales(nombre){var p=String(nombre).split(' ').filter(Boolean);return ((p[0]||'')[0]||'')+((p[p.length-1]||'')[0]||'');}
+function url(u){return /^https?:\/\//.test(u||'')?u:'';}
+function plural(n,uno,varios){return n===1?uno:varios;}
+function $(id){return document.getElementById(id);}
+
+var MESES=['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic'];
+var TIPOS_PRINCIPALES=['PL','PR','PD','PC'];
+var TAM=20;
+
+/* ── Piezas ─────────────────────────────────────────────── */
+function kpi(v,l,sub){return '<div class="card kpi-card"><div class="kpi-v">'+num(v)+'</div><div class="kpi-l">'+esc(l)+'</div>'+(sub?'<div class="kpi-l" style="font-size:12px;margin-top:2px">'+esc(sub)+'</div>':'')+'</div>';}
+function chips(lista,suave){return lista.length?'<div class="chips">'+lista.map(function(c){return '<span class="chip'+(suave?' suave':'')+'">'+esc(c)+'</span>'}).join('')+'</div>':'';}
+function okColor(c){return /^#[0-9A-Fa-f]{6}$/.test(c||'')?c:'#1B5EA2';}
+function etqTambien(ob){
+  return ob&&ob.length?'<span class="chip">También figura en: '+ob.map(function(b){return '<i class="pbd" style="--c:'+okColor(b.color)+'"></i>'+esc(b.nombre);}).join(', ')+'</span>':'';
+}
+function etqMandato(m){return m&&m.length?'<span class="chip">Autor/a con mandato cumplido: '+esc(m.join(', '))+'</span>':'';}
+function chipsPie(lista,ob,mandato){
+  var h=lista.map(function(c){return '<span class="chip">'+esc(c)+'</span>';}).join('')+etqTambien(ob)+etqMandato(mandato);
+  return h?'<div class="chips">'+h+'</div>':'';
+}
+function vacio(txt){return '<div class="vacio card">'+esc(txt)+'</div>';}
+function enlace(u,txt){return url(u)?'<div class="meta" style="margin-top:8px"><a href="'+esc(url(u))+'" target="_blank" rel="noopener">'+esc(txt)+'</a></div>':'';}
+function verTodos(id,txt){return '<p class="mas-link"><button type="button" data-ir="'+id+'">'+esc(txt)+' →</button></p>';}
+
+function barrasH(items,max,alt){
+  return items.map(function(it){
+    var w=max>0?Math.round(it.n/max*100):0;
+    return '<div class="hb"><div>'+esc(it.label)+'</div><div class="pista"><div class="barra'+(alt?' alt':'')+'" style="width:'+w+'%"></div></div><div class="v">'+num(it.n)+'</div></div>';
+  }).join('');
+}
+
+var GRUPOS=[['PL','de ley','#1B5EA2','#FFFFFF'],['PD','de declaración','#5B9BD5','#10253B'],['PC','de comunicación','#B4D0EA','#10253B'],['PR','de resolución','#4A4A4A','#FFFFFF'],['OTROS','otros','#A6A6A6','#1F1F1F']];
+function matrizMensual(){
+  var m=[],i;
+  for(i=0;i<12;i++)m.push([0,0,0,0,0]);
+  B.proyectos.forEach(function(p){
+    var mes=parseInt(String(p.fecha).split('-')[1],10)-1;
+    if(!(mes>=0&&mes<12))return;
+    var k=['PL','PD','PC','PR'].indexOf(p.tipo);
+    m[mes][k<0?4:k]++;
+  });
+  return m;
+}
+function graficoApilado(big){
+  if(!B.meses.length)return vacio('Todavía no hay proyectos presentados en '+B.anio+'.');
+  var mat=matrizMensual(), ALTO=big?400:170, LBL=big?26:16, max=1, tot=[0,0,0,0,0];
+  var cols=B.meses.map(function(m){
+    var r=mat[m.mes-1], t=0;
+    r.forEach(function(v,k){t+=v;tot[k]+=v;});
+    if(t>max)max=t;
+    return {mes:m.mes,r:r,t:t};
+  });
+  var h='<div class="apilado'+(big?' big':'')+'" role="img" aria-label="Proyectos presentados por mes, apilados por tipo de proyecto">';
+  cols.forEach(function(c){
+    h+='<div class="col"><span class="tot">'+c.t+'</span><div class="pila">';
+    c.r.forEach(function(v,k){
+      if(!v)return;
+      var alto=Math.max(4,Math.round(v/max*ALTO)), g=GRUPOS[k];
+      h+='<span title="'+MESES[c.mes-1]+' · '+g[1]+': '+v+'" style="height:'+alto+'px;background:'+g[2]+';color:'+g[3]+'">'+(alto>=LBL?v:'')+'</span>';
+    });
+    h+='</div><span class="mes">'+MESES[c.mes-1]+'</span></div>';
+  });
+  h+='</div><div class="leyenda">'+GRUPOS.map(function(g,k){
+    return tot[k]?'<span><i style="background:'+g[2]+'"></i><b>'+num(tot[k])+'</b> '+g[1]+'</span>':'';
+  }).join('')+'</div>';
+  return h;
+}
+function sintesisHtml(t){
+  return esc(t).replace(/\b(\d+)\b/g,function(x){return /^20\d\d$/.test(x)?x:'<b>'+x+'</b>';});
+}
+function fechaKey(s){var p=String(s||'').split('-');return p.length===3?p[2]+p[1]+p[0]:'';}
+function nPcAvance(){return Array.isArray(B.pc_con_avance)?B.pc_con_avance.length:(B.pc_con_avance||0);}
+
+/* Datos compartidos entre el Resumen y el modo pantalla */
+function datosKpis(){
+  var m=B.movimiento, n=B.senadores.length, np=B.provincias;
+  return [
+    [n,plural(n,'Senador/a','Senadores/as')+' de '+np+' '+plural(np,'provincia','provincias')],
+    [B.total,'Proyectos presentados en '+B.anio],
+    [m.con_movimiento,'Proyectos de '+B.anio+' con movimiento'],
+    [B.aprobados.length,plural(B.aprobados.length,'Proyecto aprobado por el Senado en '+B.anio,'Proyectos aprobados por el Senado en '+B.anio)],
+    [B.por_caducar.length,plural(B.por_caducar.length,'Proyecto de ley de '+(B.anio-1)+' por caducar','Proyectos de ley de '+(B.anio-1)+' por caducar'),B.pc_mandato?B.pc_mandato+' de autores con mandato cumplido':'']
+  ];
+}
+function datosQuePaso(){
+  var m=B.movimiento, r=[];
+  if(m.reunion)r.push({ir:'proyectos',sub:'reunion',n:m.reunion,t:'con reunión de comisión'});
+  if(m.od)r.push({ir:'proyectos',sub:'od',n:m.od,t:'con orden del día'});
+  if(m.preferencia)r.push({ir:'proyectos',sub:'preferencia',n:m.preferencia,t:'con preferencia aprobada'});
+  if(m.aprobado)r.push({ir:'proyectos',sub:'aprobado',n:m.aprobado,t:plural(m.aprobado,'aprobado por el Senado','aprobados por el Senado')});
+  if(m.ley)r.push({ir:'proyectos',sub:'ley',n:m.ley,t:plural(m.ley,'convertido en ley','convertidos en ley')});
+  return r;
+}
+
+function barraVotos(v){
+  var t=v.a+v.n+v.b; if(!t)return '';
+  var seg=function(c,n){return n?'<span class="'+c+'" style="width:'+(n/t*100).toFixed(2)+'%"></span>':'';};
+  return '<div class="vbar" role="img" aria-label="'+v.a+' afirmativos, '+v.n+' negativos, '+v.b+' abstenciones">'+seg('a',v.a)+seg('n',v.n)+seg('b',v.b)+'</div>'
+    +'<div class="vleyenda"><span class="a"><i></i><b>'+v.a+'</b> '+plural(v.a,'afirmativo','afirmativos')+'</span>'
+    +'<span class="n"><i></i><b>'+v.n+'</b> '+plural(v.n,'negativo','negativos')+'</span>'
+    +'<span class="b"><i></i><b>'+v.b+'</b> '+plural(v.b,'abstención','abstenciones')+'</span></div>';
+}
+function barraVotosGrande(v){
+  if(!(v.a+v.n+v.b))return '';
+  var seg=function(c,n){return n?'<span class="'+c+'" style="flex:'+n+' 1 0">'+n+'</span>':'';};
+  return '<div class="vg" role="img" aria-label="'+v.a+' afirmativos, '+v.n+' negativos, '+v.b+' abstenciones">'+seg('a',v.a)+seg('n',v.n)+seg('b',v.b)+'</div>';
+}
+
+/* ── Tarjetas ───────────────────────────────────────────── */
+function tarjetaOD(o,compacta){
+  var v=o.votacion;
+  var h='<div class="proy"><div class="cab"><span class="id">Orden del día '+esc(o.nro)+'/'+esc(o.anio)+'</span><span class="chip suave">'+esc(o.categoria)+'</span>'
+    +(o.comision?'<span>'+esc(o.comision)+'</span>':'')+'</div>'
+    +'<p class="ext" style="font-weight:600;color:var(--azul)">'+esc(o.descripcion)+'</p>';
+  o.expedientes.forEach(function(e){
+    h+='<div class="meta" style="margin-top:6px"><b>'+esc(e.id)+'</b>'+(e.extracto?' · '+esc(e.extracto):'')+(e.autores.length?'<br>'+esc(e.autores.join(', ')):'')
+      +(url(e.url)?' · <a href="'+esc(url(e.url))+'" target="_blank" rel="noopener">Ver expediente</a>':'')+chipsPie([],e.otros_bloques)+'</div>';
+  });
+  if(v){
+    h+='<div class="meta" style="margin-top:8px"><b>Tratada en el recinto el '+esc(v.fecha)+'</b> (votación en general'+(v.resultado?' · '+esc(v.resultado.toLowerCase()):'')+')</div>'+(v.bloque?barraVotos(v.bloque):'');
+  }
+  if(!compacta&&url(o.pdf))h+='<div class="meta" style="margin-top:8px"><a href="'+esc(url(o.pdf))+'" target="_blank" rel="noopener">Ver el Orden del Día (PDF)</a></div>';
+  return h+'</div>';
+}
+
+function tarjetaPreferencia(p){
+  return '<div class="proy"><div class="cab"><span class="id">'+esc(p.id)+'</span>'+(p.tipo_label?'<span class="chip suave">'+esc(p.tipo_label)+'</span>':'')
+    +'<span>Sesión del '+esc(p.sesion)+'</span></div>'
+    +'<p class="ext">'+(p.extracto?esc(p.extracto):'<i>Detalle del expediente no disponible en la base del sistema.</i>')+'</p>'
+    +(p.autores.length?'<div class="meta"><b>Autores:</b> '+esc(p.autores.join(', '))+'</div>':'')
+    +'<div class="meta"><b>'+esc(p.motivo)+'</b></div>'
+    +chipsPie(['Preferencia aprobada'].concat(p.dictamen?['Con dictamen de comisión']:(p.observaciones?[p.observaciones]:[])),p.otros_bloques)
+    +enlace(p.url,'Ver expediente en el Senado')+'</div>';
+}
+
+function tarjetaAprobado(p){
+  return '<div class="proy"><div class="cab"><span class="id">'+esc(p.id)+'</span><span class="chip suave">'+esc(p.tipo_label)+'</span><span>Aprobado el '+esc(p.fecha_aprobacion)+'</span>'
+    +(p.ley_numero?'<span class="chip">'+esc(p.ley_numero)+'</span>':'')+(p.diputados?'<span class="chip">Enviado a Diputados</span>':'')+'</div>'
+    +'<p class="ext">'+esc(p.extracto)+'</p>'
+    +'<div class="meta"><b>Autores:</b> '+esc(p.autores.join(', ')||'—')+'</div>'
+    +chipsPie([],p.otros_bloques)
+    +enlace(p.url,'Ver expediente en el Senado')+'</div>';
+}
+
+function etiquetasProyecto(p){
+  var b=[];
+  if(p.reunion)b.push('Reunión de comisión'+(p.fecha_reunion?' · '+p.fecha_reunion:''));
+  if(p.od)b.push('Orden del día '+p.od);
+  if(p.preferencia)b.push('Preferencia aprobada');
+  if(p.aprobado)b.push('Aprobado por el Senado');
+  if(p.ley)b.push('Ley');
+  if(p.diputados)b.push('Enviado a Diputados');
+  return b;
+}
+
+function tarjetaProyecto(p){
+  return '<div class="proy"><div class="cab"><span class="id">'+esc(p.id)+'</span><span class="chip suave">'+esc(p.tipo_label)+'</span><span>'+esc(p.fecha)+'</span></div>'
+    +'<p class="ext">'+esc(p.extracto)+'</p>'
+    +'<div class="meta"><b>Autores:</b> '+esc(p.autores.join(', ')||'—')+'</div>'
+    +(p.comisiones.length?'<div class="meta"><b>Giro:</b> '+esc(p.comisiones.join(' · '))+'</div>':'')
+    +(p.conocimiento&&p.conocimiento.length?'<div class="meta"><b>Para conocimiento:</b> '+esc(p.conocimiento.join(' · '))+'</div>':'')
+    +chipsPie(etiquetasProyecto(p),p.otros_bloques,p.mandato_cumplido)
+    +enlace(p.url,'Ver expediente en el Senado')+'</div>';
+}
+
+function tarjetaVotacion(v){
+  var ods=v.ods.length?'Orden del día '+v.ods.join(', ')+(v.n_ods>v.ods.length?' y '+(v.n_ods-v.ods.length)+' más':''):'';
+  return '<div class="proy"><div class="vcab"><div class="vtit">'+esc(v.titulo)+'</div>'
+    +'<div class="vmeta">'+esc(v.fecha)+' · '+esc(v.tipo)+' · Resultado: '+esc(v.resultado)+'</div></div>'
+    +(ods?'<div class="meta" style="margin-top:4px">'+esc(ods)+' · Acta '+esc(v.nro_acta)+'</div>':'<div class="meta" style="margin-top:4px">Acta '+esc(v.nro_acta)+'</div>')
+    +barraVotosGrande(v)+'</div>';
+}
+
+/* ── Lista con filtros, búsqueda y "mostrar más" ────────── */
+var LISTAS={};
+function listaPaginada(cfg){
+  /* cfg: {panel, titulo, intro, items, tarjeta, texto(item), vacio, nota, filtros:[{id,label,fn}], ayuda(f), tam, paso, placeholder} */
+  var paso=cfg.paso||TAM, est={q:'',n:cfg.tam||paso,f:'todos'};
+  var filtros=(cfg.filtros||[]).map(function(f){return {id:f.id,label:f.label,fn:f.fn,n:cfg.items.filter(f.fn).length};}).filter(function(f){return f.n>0;});
+  var h='<h2>'+esc(cfg.titulo)+'</h2>'+(cfg.intro?'<p style="margin-top:10px">'+cfg.intro+'</p>':'');
+  if(cfg.resumenHtml)h+=cfg.resumenHtml;
+  if(filtros.length)h+='<div class="pills" id="f-'+cfg.panel+'" role="group" aria-label="Filtrar proyectos"></div><div id="a-'+cfg.panel+'"></div>';
+  if(cfg.items.length>(cfg.tam||paso)||(cfg.buscador&&cfg.items.length))h+='<div class="filtros"><input id="q-'+cfg.panel+'" type="search" placeholder="'+esc(cfg.placeholder||'Buscar por tema, autor o número')+'" aria-label="Buscar"></div>';
+  h+='<div id="l-'+cfg.panel+'"></div><div class="nota">'+(cfg.nota?cfg.nota+' ':'')+'Datos al '+esc(B.datos_al)+'.</div>';
+  $('p-'+cfg.panel).innerHTML=h;
+  function base(){
+    if(est.f==='todos')return cfg.items;
+    var d=filtros.filter(function(x){return x.id===est.f;})[0];
+    return d?cfg.items.filter(d.fn):cfg.items;
+  }
+  function pintarFiltros(){
+    var c=$('f-'+cfg.panel); if(!c)return;
+    c.innerHTML=[{id:'todos',label:'Todos',n:cfg.items.length}].concat(filtros).map(function(f){
+      return '<button type="button" class="pill" data-f="'+f.id+'" aria-pressed="'+(est.f===f.id)+'"><span>'+esc(f.label)+'</span><b>'+num(f.n)+'</b></button>';
+    }).join('');
+    var a=$('a-'+cfg.panel); if(a)a.innerHTML=cfg.ayuda?cfg.ayuda(est.f):'';
+  }
+  function pintar(){
+    var q=norm(est.q).replace(/\//g,'-').trim();
+    var r=base().filter(function(it){return !q||norm(cfg.texto(it)).indexOf(q)>=0;});
+    var vis=r.slice(0,est.n);
+    var o='';
+    if(!cfg.items.length)o=vacio(cfg.vacio);
+    else{
+      o='<div class="nota" style="margin:6px 0">'+num(r.length)+' '+(r.length===1?cfg.uno:cfg.varios)+'</div>';
+      if(!r.length)o+=vacio('No hay resultados para esa búsqueda.');
+      o+=vis.map(cfg.tarjeta).join('');
+      if(r.length>vis.length)o+='<div style="text-align:center;margin:14px 0"><button class="btn" id="m-'+cfg.panel+'">Mostrar más ('+num(r.length-vis.length)+' restantes)</button></div>';
+    }
+    $('l-'+cfg.panel).innerHTML=o;
+    var m=$('m-'+cfg.panel); if(m)m.onclick=function(){est.n+=paso;pintar();};
+  }
+  var qi=$('q-'+cfg.panel); if(qi)qi.oninput=function(){est.q=this.value;est.n=cfg.tam||paso;pintar();};
+  var fc=$('f-'+cfg.panel);
+  if(fc)fc.addEventListener('click',function(e){
+    var b=e.target.closest?e.target.closest('[data-f]'):null; if(!b)return;
+    LISTAS[cfg.panel].setFiltro(b.getAttribute('data-f'));
+  });
+  LISTAS[cfg.panel]={setFiltro:function(f){
+    est.f=(f==='todos'||filtros.some(function(x){return x.id===f;}))?f:'todos';
+    est.n=cfg.tam||paso; pintarFiltros(); pintar();
+  }};
+  pintarFiltros(); pintar();
+}
+
+/* ── Resumen ────────────────────────────────────────────── */
+function renderResumen(){
+  var h='';
+  h+='<h2>Panorama del bloque</h2><div class="grid g5" style="margin-top:12px">'
+    +datosKpis().map(function(k){return kpi(k[0],k[1],k[2]);}).join('')+'</div>';
+  h+='<p class="seg-linea"><span><b>'+num(B.ods.length)+'</b> '+plural(B.ods.length,'orden del día con proyectos del bloque','órdenes del día con proyectos del bloque')+'</span><span class="sep">|</span>'
+    +'<span><b>'+num(B.preferencias.length)+'</b> '+plural(B.preferencias.length,'preferencia vigente','preferencias vigentes')+'</span>'
+    +'<button type="button" class="lnk" data-ir="seguimiento">Ver Seguimiento →</button></p>';
+  h+='<div class="callout"><p>'+sintesisHtml(B.sintesis)+'</p><div class="cf">Síntesis generada automáticamente con IA a partir de las cifras de esta página · Datos al '+esc(B.datos_al)+'</div></div>';
+
+  h+='<h2>Qué presentó el bloque en '+B.anio+'</h2><div class="card" style="margin-top:12px"><h3 style="margin-top:0">Proyectos presentados por mes, según tipo de proyecto</h3>'+graficoApilado(false)+'</div>'
+    +'<div class="nota">Fuente: Boletín de Novedades del Senado · Datos al '+esc(B.datos_al)+'</div>';
+
+  h+='<h2>Qué pasó con los proyectos de '+B.anio+'</h2><div class="card" style="margin-top:12px">';
+  var qp=datosQuePaso();
+  h+=qp.length?'<div class="chips" style="margin-top:0;gap:10px">'+qp.map(function(b){
+      return '<button type="button" class="btn-pill" data-ir="'+b.ir+'" data-sub="'+b.sub+'"><b>'+num(b.n)+'</b> '+esc(b.t)+' <span aria-hidden="true">→</span></button>';
+    }).join('')+'</div>'
+    :'<p style="margin:0">Los proyectos del año están en etapa inicial de trámite.</p>';
+  h+='<div class="nota">'+(qp.length?'Tocá un número para ver esos proyectos, ya filtrados, en la pestaña Proyectos '+B.anio+'. ':'')+'Un mismo proyecto puede aparecer en más de una categoría. Fuentes: agenda de comisiones, Ayuda Memoria (órdenes del día) y Boletín de Novedades del Senado · Datos al '+esc(B.datos_al)+'.</div></div>';
+
+  var top=B.comisiones.slice(0,6);
+  if(top.length){
+    var maxC=Math.max.apply(null,top.map(function(c){return c.giros}));
+    h+='<h2>Comisiones con más proyectos del bloque</h2><div class="card" style="margin-top:12px">'
+      +barrasH(top.map(function(c){return {label:c.nombre,n:c.giros}}),maxC)
+      +'<div class="nota">Cantidad de proyectos del bloque girados a cada comisión. Un proyecto puede girarse a más de una. El detalle completo está en Senadores y comisiones. Fuente: Boletín de Novedades del Senado · Datos al '+esc(B.datos_al)+'.</div></div>';
+  }
+  if(B.autoridades.length){
+    h+='<h2>Autoridades de comisión</h2><div class="card" style="margin-top:12px"><div class="chips" style="margin-top:0">'
+      +B.autoridades.map(function(a){return '<span class="chip suave"><b>'+esc(a.rol)+'</b> · '+esc(a.comision)+' · '+esc(a.apellido)+'</span>';}).join('')
+      +'</div><div class="nota">Cargos que ocupan senadores del bloque en las comisiones permanentes.</div></div>';
+  }
+  $('p-resumen').innerHTML=h;
+}
+
+/* ── Seguimiento (órdenes del día, preferencias, aprobados, por caducar) ── */
+function renderSeguimiento(){
+  var SUB=[['ods','Órdenes del día',B.ods.length],['preferencias','Preferencias',B.preferencias.length],['aprobados','Aprobados',B.aprobados.length],['caducar','Por caducar',B.por_caducar.length]];
+  var h='<div class="pills" style="margin-top:4px"><span class="ir-a">Ir a</span>'
+    +SUB.map(function(s){return '<button type="button" class="pill" data-ir="seguimiento" data-sub="'+s[0]+'"><span>'+s[1]+'</span><b>'+num(s[2])+'</b></button>';}).join('')+'</div>';
+  h+=SUB.map(function(s){return '<section class="sec" id="s-'+s[0]+'"><div id="p-'+s[0]+'"></div></section>';}).join('');
+  $('p-seguimiento').innerHTML=h;
+  renderODs();renderPreferencias();renderAprobados();renderCaducar();
+}
+function renderODs(){
+  var proy=0; B.ods.forEach(function(o){proy+=o.expedientes.length;});
+  listaPaginada({panel:'ods',titulo:'Órdenes del día',tam:5,paso:10,
+    intro:'Órdenes del día de la Ayuda Memoria que incluyen proyectos del bloque'+(B.ods.length?' ('+num(B.ods.length)+' '+plural(B.ods.length,'orden del día','órdenes del día')+', '+num(proy)+' '+plural(proy,'proyecto','proyectos')+' del bloque)':'')+'.',
+    items:B.ods,tarjeta:function(o){return tarjetaOD(o,false)},
+    texto:function(o){return 'OD '+o.nro+'/'+o.anio+' '+o.descripcion+' '+o.comision+' '+o.expedientes.map(function(e){return e.id+' '+e.extracto+' '+e.autores.join(' ')}).join(' ');},
+    uno:'orden del día',varios:'órdenes del día',vacio:'En este momento no hay órdenes del día con proyectos del bloque en la Ayuda Memoria.',
+    nota:'Fuente: Ayuda Memoria del Senado. Se asigna cada orden del día al bloque de los autores nombrados en la carátula del proyecto. Si un dictamen reúne proyectos de distintos bloques, aparece en cada uno de ellos. Las órdenes del día de proyectos del Poder Ejecutivo o de la Cámara de Diputados no se asignan a ningún bloque.'});
+}
+function renderPreferencias(){
+  listaPaginada({panel:'preferencias',titulo:'Preferencias vigentes',tam:5,paso:10,
+    intro:'Preferencias aprobadas en las sesiones de '+B.anio+' para proyectos del bloque o solicitadas por sus senadores y senadoras.',
+    items:B.preferencias,tarjeta:tarjetaPreferencia,
+    texto:function(p){return p.id+' '+p.extracto+' '+p.autores.join(' ')+' '+p.motivo;},
+    uno:'preferencia',varios:'preferencias',vacio:'El bloque no registra preferencias vigentes. Cuando haya proyectos con preferencia solicitada o aprobada para una sesión, van a aparecer acá.',
+    nota:'Fuente: Boletín de Novedades del Senado. Una preferencia puede corresponder a un proyecto de años anteriores.'});
+}
+function renderAprobados(){
+  listaPaginada({panel:'aprobados',titulo:'Proyectos aprobados por el Senado',tam:5,paso:10,
+    intro:'Proyectos del bloque aprobados en sesiones de '+B.anio+', sin importar el año en que se presentaron.',
+    items:B.aprobados,tarjeta:tarjetaAprobado,
+    texto:function(p){return p.id+' '+p.extracto+' '+p.autores.join(' ');},
+    uno:'proyecto aprobado',varios:'proyectos aprobados',vacio:'Todavía no hay proyectos del bloque aprobados en sesiones de '+B.anio+'.',
+    nota:'Fuente: Boletín de Novedades del Senado.'});
+}
+function renderCaducar(){
+  listaPaginada({panel:'caducar',titulo:'Proyectos de ley próximos a caducar',tam:5,paso:10,
+    intro:'Proyectos de ley presentados en '+(B.anio-1)+' por senadores y senadoras actuales del bloque que no fueron sancionados ni archivados. Los proyectos de ley de '+(B.anio-1)+' caducan, salvo los que ya tienen media sanción (enviados a Diputados), que cuentan con un año más de vigencia y por eso no se incluyen.',
+    resumenHtml:B.por_caducar.length&&B.pc_mandato?'<p style="margin:10px 0 0"><b>'+num(B.por_caducar.length)+'</b> '+plural(B.por_caducar.length,'proyecto de ley de '+(B.anio-1)+' próximo a caducar','proyectos de ley de '+(B.anio-1)+' próximos a caducar')+', <b>'+num(B.pc_mandato)+'</b> de ellos de autores con mandato cumplido.</p>':'',
+    items:B.por_caducar,tarjeta:tarjetaProyecto,buscador:true,
+    filtros:[{id:'mandato',label:'De autores con mandato cumplido',fn:function(p){return !!(p.mandato_cumplido&&p.mandato_cumplido.length);}}],
+    texto:function(p){return p.id+' '+p.extracto+' '+p.autores.join(' ')+' '+p.comisiones.join(' ');},
+    uno:'proyecto de ley',varios:'proyectos de ley',vacio:'No hay proyectos de ley de '+(B.anio-1)+' de senadores y senadoras actuales del bloque pendientes de trámite.',
+    nota:'Se listan primero los proyectos con orden del día o preferencia, luego los que tuvieron reunión de comisión y después el resto, del más nuevo al más antiguo. Cada proyecto se atribuye al bloque actual de los autores nombrados en la carátula, si siguen siendo senadores. Fuente: Boletín de Novedades y agenda de comisiones del Senado.'});
+}
+function renderProyectos(){
+  var link=function(sub,txt){return '<p class="nota" style="margin:8px 0 0">'+txt+' <button type="button" class="lnk" data-ir="seguimiento" data-sub="'+sub+'">Ver en Seguimiento →</button></p>';};
+  listaPaginada({panel:'proyectos',titulo:'Proyectos del bloque en '+B.anio,buscador:true,
+    items:B.proyectos,tarjeta:tarjetaProyecto,
+    filtros:[
+      {id:'reunion',label:'Con reunión de comisión',fn:function(p){return !!p.reunion;}},
+      {id:'od',label:'Con orden del día',fn:function(p){return !!p.od;}},
+      {id:'preferencia',label:'Con preferencia aprobada',fn:function(p){return !!p.preferencia;}},
+      {id:'aprobado',label:'Aprobados por el Senado',fn:function(p){return !!p.aprobado;}},
+      {id:'ley',label:'Convertidos en ley',fn:function(p){return !!p.ley;}}
+    ],
+    ayuda:function(f){
+      if(f==='od')return link('ods','Para ver las órdenes del día completas, con el detalle de cada dictamen:');
+      if(f==='preferencia')return link('preferencias','Para ver cada preferencia con su motivo:');
+      if(f==='aprobado')return link('aprobados','Para ver todos los proyectos aprobados en '+B.anio+', de cualquier año:');
+      return '';
+    },
+    texto:function(p){return p.id+' '+p.extracto+' '+p.autores.join(' ')+' '+p.tipo_label;},
+    uno:'proyecto',varios:'proyectos',vacio:'El bloque no registra proyectos presentados en '+B.anio+' hasta la fecha.',
+    nota:'Cada proyecto se cuenta para el bloque de los autores nombrados en la carátula. Fuente: Boletín de Novedades y agenda de comisiones del Senado.'});
+}
+function renderVotaciones(){
+  var V=B.votaciones;
+  var parcial=V.incorporadas<V.total;
+  listaPaginada({panel:'votaciones',titulo:'Votaciones en general de '+B.anio,tam:8,paso:10,
+    intro:'Cómo votaron los senadores y senadoras del bloque en cada votación en general (incluye las votaciones en general y en particular a la vez).',
+    resumenHtml:'<div class="vleyenda" style="margin:12px 0 6px;font-size:13px"><span class="a"><i></i>Afirmativos</span><span class="n"><i></i>Negativos</span><span class="b"><i></i>Abstenciones</span><span style="font-style:italic">Los ausentes no se muestran.</span></div>',
+    items:V.items,tarjeta:tarjetaVotacion,buscador:true,
+    placeholder:'Buscar por palabra clave o fecha (ej.: tratado, acuerdo, 17-09-2026, 04-2026)',
+    texto:function(v){return v.titulo+' '+v.fecha+' '+v.ods.join(' ');},
+    uno:'votación',varios:'votaciones',vacio:'Todavía no hay votaciones en general de '+B.anio+' incorporadas.',
+    nota:'Fuente: actas de votación del Senado'+(V.actualizado?' · actualizado al '+esc(V.actualizado):'')+'. No se incluyen las votaciones en particular.'
+      +(parcial?' Se incorporaron '+num(V.incorporadas)+' de las '+num(V.total)+' votaciones en general del año; el resto se va sumando en las próximas actualizaciones.':'')});
+}
+
+/* ── Senadores ──────────────────────────────────────────── */
+function renderSenadores(){
+  var h='<h2>Senadores y senadoras del bloque</h2><div class="grid g3" style="margin-top:12px">';
+  B.senadores.forEach(function(s){
+    var av=s.foto?'<img class="avatar" alt="" src="'+esc(s.foto)+'">':'<div class="avatar">'+esc(iniciales(s.nombre))+'</div>';
+    var cs=[];
+    var nom={PL:'ley',PR:'resolución',PD:'declaración',PC:'comunicación'};
+    TIPOS_PRINCIPALES.forEach(function(t){if(s.tipos[t])cs.push('<span class="chip">'+num(s.tipos[t])+' '+nom[t]+'</span>');});
+    if(s.otros)cs.push('<span class="chip suave">'+num(s.otros)+' otros</span>');
+    h+='<div class="card"><div class="sen">'+av+'<div><div class="nom">'+esc(s.nombre)+'</div><div class="prov">'+esc(s.provincia)+'</div></div></div>'
+      +'<div style="margin-top:12px"><div class="kpi-v" style="font-size:24px">'+num(s.total)+'</div><div class="kpi-l">proyectos en '+B.anio+'</div></div>'
+      +(cs.length?'<div class="chips">'+cs.join('')+'</div>':'')+'</div>';
+  });
+  h+='</div><div class="nota">Se cuentan los proyectos del año en los que la persona figura entre los autores. Un proyecto con varios autores suma a cada uno.</div>';
+  $('p-senadores').innerHTML=h;
+}
+
+/* ── Comisiones ─────────────────────────────────────────── */
+function renderComisiones(){
+  var h='<h2>Comisiones a las que se giraron proyectos del bloque</h2>';
+  if(!B.comisiones.length){h+='<p style="margin-top:10px">Todavía no hay giros registrados.</p>';}
+  else{
+    h+='<div style="overflow-x:auto;margin-top:12px"><table><thead><tr><th>Comisión</th><th class="num">Proyectos girados</th><th class="num">Con reunión registrada</th></tr></thead><tbody>'
+      +B.comisiones.map(function(c){return '<tr><td>'+esc(c.nombre)+'</td><td class="num">'+num(c.giros)+'</td><td class="num">'+num(c.con_reunion)+'</td></tr>'}).join('')
+      +'</tbody></table></div><div class="nota">Un proyecto girado a más de una comisión se cuenta en cada una. «Con reunión registrada» indica que el proyecto figuró en el temario de una reunión de esa comisión.</div>';
+  }
+  if(B.autoridades.length){
+    h+='<h2>Autoridades de comisión que ocupa el bloque</h2><div style="overflow-x:auto;margin-top:12px"><table><thead><tr><th>Comisión</th><th>Cargo</th><th>Senador/a</th></tr></thead><tbody>'
+      +B.autoridades.map(function(a){return '<tr><td>'+esc(a.comision)+'</td><td>'+esc(a.rol)+'</td><td>'+esc(a.senador)+'</td></tr>'}).join('')
+      +'</tbody></table></div>';
+  }
+  $('p-comisiones').innerHTML=h;
+}
+
+/* ── Cómo lo hacemos ────────────────────────────────────── */
+function renderMetodo(){
+  var h='<h2>Cómo hacemos este seguimiento</h2>'
+  +'<p style="margin-top:10px">Esta página forma parte del Sistema Legislativo de la Prosecretaría Parlamentaria, que monitorea todos los días la actividad del Senado y la organiza para que sea fácil de consultar.</p>'
+  +'<h3>Qué datos usamos</h3>'
+  +'<p>Información pública del sitio oficial del Senado: expedientes y proyectos ingresados, integración de comisiones, boletines de agenda de comisiones, órdenes del día y Ayuda Memoria, Boletín de Novedades y actas de votación.</p>'
+  +'<h3>Cada cuánto se actualiza</h3>'
+  +'<p>Dos veces por día, de forma automática. La fecha y hora de la última actualización figuran al pie de cada página.</p>'
+  +'<h3>Cómo se asignan los proyectos al bloque</h3>'
+  +'<p>La autoría se toma del encabezado de la carátula del expediente (el nombre que figura antes de los dos puntos). Un proyecto se cuenta para cada senador o senadora nombrado y para el bloque de cada uno, una sola vez por bloque; si dice «y otros», cuentan solo los nombrados. Se usa siempre el bloque actual de cada autor: si un senador cambia de bloque, sus proyectos pasan al nuevo. Si el autor ya no es senador o senadora no aporta bloque; si todos los autores nombrados dejaron el Senado, el proyecto cuenta para el bloque de los demás firmantes que siguen en el cargo. Si lo firman integrantes de otros bloques, la ficha indica «También figura en».</p>'
+  +'<h3>Cuándo un proyecto figura con reunión de comisión</h3>'
+  +'<p>Cuando la agenda de comisiones registra una reunión con el proyecto en el temario o, si no la registra, cuando el proyecto tiene orden del día o fecha de dictamen, porque el dictamen se firma en una reunión de comisión. En ese caso la ficha dice «Reunión de comisión» sin fecha.</p>'
+  +'<h3>Qué votaciones se muestran</h3>'
+  +'<p>Las votaciones en general de '+B.anio+', con los votos afirmativos, negativos y abstenciones del bloque. No se incluyen las votaciones en particular.</p>'
+  +'<h3>Dónde interviene la inteligencia artificial</h3>'
+  +'<p>Esta página fue generada con inteligencia artificial. La Prosecretaría desarrolló, con asistencia de IA, las herramientas que recolectan, cruzan y ordenan la información pública del Senado, y el texto de síntesis del Resumen se redacta automáticamente a partir de las cifras. Ante cualquier duda, se recomienda consultar la fuente oficial.</p>'
+  +'<div class="nota">Prosecretaría Parlamentaria · Senado de la Nación Argentina.</div>';
+  $('p-metodo').innerHTML=h;
+}
+
+/* ── Modo pantalla (láminas) ────────────────────────────── */
+var PN={i:0,slides:null,abierto:false};
+function pnFila(k,t,chip){return '<div class="pn-fila"><div class="k">'+esc(k)+'</div><div class="t">'+esc(t)+'</div>'+(chip?'<span class="pn-chip">'+esc(chip)+'</span>':'')+'</div>';}
+function pnTarjetas(lista,peq){
+  return '<div style="display:flex;gap:28px">'+lista.map(function(k){
+    return '<div class="pn-card"><div class="pn-n'+(peq?' peq':'')+'">'+num(k[0])+'</div><div class="pn-l">'+esc(k[1])+'</div>'+(k[2]?'<div class="pn-l" style="font-size:22px;margin-top:6px">'+esc(k[2])+'</div>':'')+'</div>';
+  }).join('')+'</div>';
+}
+function pnSlides(){
+  var S=[];
+  /* 1. Portada */
+  S.push(function(){
+    return '<div style="display:flex;justify-content:space-between;align-items:flex-end;margin-top:8px"><div style="border-left:10px solid var(--azul);padding:4px 0 4px 28px">'
+      +'<div style="font-size:22px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--azul2)">Seguimiento legislativo</div>'
+      +'<h1 style="margin:6px 0 0;font-size:'+(B.bloque.length>30?66:80)+'px;line-height:1.1;color:var(--azul)">'+esc(B.bloque)+'<span class="punto-bloque" aria-hidden="true"></span></h1></div>'
+      +'<div style="font-size:22px;text-align:right;line-height:1.5">'+B.senadores.length+' '+plural(B.senadores.length,'senador o senadora','senadores y senadoras')+' · '+B.provincias+' '+plural(B.provincias,'provincia','provincias')+'<br>Datos al '+esc(B.datos_al)+'</div></div>'
+      +'<div style="margin-top:36px">'+pnTarjetas(datosKpis())+'</div>';
+  });
+  /* 2. Síntesis */
+  S.push(function(){
+    var tam=B.sintesis.length>760?30:(B.sintesis.length>560?34:40);
+    return '<div style="flex:1;display:flex;flex-direction:column;gap:30px;justify-content:center"><h2 class="pn-h2">En síntesis</h2>'
+      +'<div style="background:var(--azul3);border-left:10px solid var(--azul2);border-radius:0 18px 18px 0;padding:44px 60px">'
+      +'<p style="margin:0;font-size:'+tam+'px;line-height:1.5;color:var(--azul);font-style:italic">'+sintesisHtml(B.sintesis)+'</p>'
+      +'<p style="margin:26px 0 0;font-size:20px;font-style:italic;color:var(--azul)">Síntesis generada automáticamente con IA a partir de las cifras de la página · Datos al '+esc(B.datos_al)+'</p></div></div>';
+  });
+  /* 3. Mes a mes */
+  if(B.meses.length)S.push(function(){
+    return '<h2 class="pn-h2">Qué presentó el bloque, mes a mes</h2><div style="flex:1;background:#fff;border:1px solid var(--azul3);border-radius:16px;padding:24px 40px 20px">'+graficoApilado(true)+'</div>';
+  });
+  /* 4. Qué pasó */
+  var qp=datosQuePaso();
+  if(qp.length)S.push(function(){
+    return '<div style="flex:1;display:flex;flex-direction:column;gap:36px;justify-content:center"><h2 class="pn-h2">Qué pasó con los proyectos de '+B.anio+'</h2>'
+      +pnTarjetas(qp.map(function(b){return [b.n,b.t];}),qp.length>3)
+      +'<p style="margin:0;font-size:22px;font-style:italic">Un mismo proyecto puede aparecer en más de una categoría.</p></div>';
+  });
+  /* 5. Comisiones */
+  if(B.comisiones.length)S.push(function(){
+    var top=B.comisiones.slice(0,6), mx=Math.max.apply(null,top.map(function(c){return c.giros;}).concat([1]));
+    return '<h2 class="pn-h2">Comisiones con más proyectos del bloque</h2><div style="flex:1;background:#fff;border:1px solid var(--azul3);border-radius:16px;padding:30px 44px;display:flex;flex-direction:column;justify-content:space-around">'
+      +top.map(function(c){return '<div style="display:flex;align-items:center;gap:28px"><div style="flex:0 0 560px;font-size:28px;line-height:1.25">'+esc(c.nombre)+'</div><div style="flex:1;background:var(--bg);border-radius:8px;height:40px"><div style="width:'+Math.round(c.giros/mx*100)+'%;height:100%;background:var(--azul2);border-radius:8px"></div></div><div style="flex:0 0 80px;text-align:right;font-size:36px;font-weight:700;color:var(--azul)">'+num(c.giros)+'</div></div>';}).join('')+'</div>';
+  });
+  /* 6. Autoridades */
+  if(B.autoridades.length)S.push(function(){
+    var a=B.autoridades.slice(0,12), resto=B.autoridades.length-a.length;
+    return '<h2 class="pn-h2">Autoridades de comisión</h2><div style="display:flex;flex-wrap:wrap;gap:16px;align-content:flex-start">'
+      +a.map(function(x){return '<div style="width:calc(33.333% - 11px);background:#fff;border:1px solid var(--azul3);border-left:8px solid var(--azul2);border-radius:12px;padding:16px 24px"><div style="font-size:19px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--azul2)">'+esc(x.rol)+'</div><div style="font-size:26px;line-height:1.25;margin-top:4px">'+esc(x.comision)+'</div><div style="font-size:28px;font-weight:700;color:var(--azul)">'+esc(x.apellido)+'</div></div>';}).join('')
+      +'</div>'+(resto>0?'<p style="margin:0;font-size:22px;font-style:italic">y '+resto+' más en la pestaña Senadores y comisiones.</p>':'');
+  });
+  /* 7. Seguimiento */
+  S.push(function(){
+    var pca=nPcAvance();
+    return '<div style="flex:1;display:flex;flex-direction:column;gap:36px;justify-content:center"><h2 class="pn-h2">Seguimiento</h2>'
+      +pnTarjetas([
+        [B.ods.length,plural(B.ods.length,'orden del día con proyectos del bloque','órdenes del día con proyectos del bloque')],
+        [B.preferencias.length,plural(B.preferencias.length,'preferencia vigente','preferencias vigentes')],
+        [B.aprobados.length,plural(B.aprobados.length,'proyecto aprobado por el Senado en '+B.anio,'proyectos aprobados por el Senado en '+B.anio)],
+        [B.por_caducar.length,plural(B.por_caducar.length,'proyecto de ley de '+(B.anio-1)+' por caducar','proyectos de ley de '+(B.anio-1)+' por caducar'),B.pc_mandato?B.pc_mandato+' de autores con mandato cumplido':'']
+      ],true)
+      +(B.por_caducar.length&&pca?'<p style="margin:0;font-size:26px">De los '+num(B.por_caducar.length)+' proyectos por caducar, <b style="color:var(--azul)">'+num(pca)+'</b> '+plural(pca,'ya tuvo','ya tuvieron')+' reunión de comisión u orden del día.</p>':'')+'</div>';
+  });
+  /* 8. Últimos aprobados */
+  if(B.aprobados.length)S.push(function(){
+    var ap=B.aprobados.slice().sort(function(a,b){return fechaKey(b.fecha_aprobacion)<fechaKey(a.fecha_aprobacion)?-1:(fechaKey(b.fecha_aprobacion)>fechaKey(a.fecha_aprobacion)?1:0);}).slice(0,5);
+    return '<h2 class="pn-h2">Últimos proyectos aprobados por el Senado</h2><p style="margin:0;font-size:24px">'+num(B.aprobados.length)+' en total en sesiones de '+B.anio+' · se muestran los 5 más recientes.</p>'
+      +'<div style="display:flex;flex-direction:column;gap:14px">'+ap.map(function(p){return pnFila(p.id,p.extracto,'Aprobado el '+p.fecha_aprobacion);}).join('')+'</div>';
+  });
+  /* 9. Por caducar con avance */
+  var pcav=B.por_caducar.filter(function(p){return p.reunion||p.od||p.preferencia;});
+  if(pcav.length)S.push(function(){
+    return '<h2 class="pn-h2">Próximos a caducar, con avance</h2><p style="margin:0;font-size:24px">'+num(pcav.length)+' de los '+num(B.por_caducar.length)+' proyectos de ley de '+(B.anio-1)+' por caducar ya registran movimiento'+(pcav.length>5?' · se muestran 5':'')+'.</p>'
+      +'<div style="display:flex;flex-direction:column;gap:14px">'+pcav.slice(0,5).map(function(p){
+        return pnFila(p.id,p.extracto,p.preferencia?'Con preferencia':(p.od?'Con orden del día '+p.od:'Con reunión de comisión'));
+      }).join('')+'</div>';
+  });
+  return S;
+}
+function pnFit(){
+  var st=$('stage'); if(!st)return;
+  var s=Math.min(window.innerWidth/1920,window.innerHeight/1080);
+  st.style.transform='translate('+((window.innerWidth-1920*s)/2)+'px,'+((window.innerHeight-1080*s)/2)+'px) scale('+s+')';
+}
+function pnIr(k){
+  var N=PN.slides.length;
+  PN.i=Math.max(0,Math.min(N-1,k));
+  $('pn-body').innerHTML=PN.slides[PN.i]();
+  $('pn-pos').textContent=(PN.i+1)+' / '+N;
+  $('pn-dots').innerHTML=PN.slides.map(function(_,j){return '<button type="button" class="pn-dot" data-j="'+j+'" aria-label="Ir a la lámina '+(j+1)+'"'+(j===PN.i?' aria-current="true"':'')+'></button>';}).join('');
+  $('pn-prev').disabled=PN.i===0; $('pn-next').disabled=PN.i===N-1;
+}
+function abrirPantalla(){
+  var p=$('pantalla');
+  if(!PN.slides){
+    PN.slides=pnSlides();
+    p.innerHTML='<div id="stage"><div class="pn-top"><span>Senado de la Nación Argentina</span><span style="font-weight:700">'+esc(B.bloque)+'<span class="punto-bloque" aria-hidden="true"></span></span><b>Prosecretaría Parlamentaria</b></div>'
+      +'<div class="pn-body" id="pn-body"></div>'
+      +'<div class="pn-foot"><span class="pn-ia">Generado con inteligencia artificial a partir de datos públicos del Senado de la Nación. Se actualiza dos veces por día.</span>'
+      +'<div class="pn-ctrl"><button type="button" class="pn-nav sec2" id="pn-salir">Salir ✕</button><button type="button" class="pn-nav" id="pn-prev">← Anterior</button><span id="pn-dots" style="display:flex;gap:12px;align-items:center"></span><span id="pn-pos" class="pn-pos"></span><button type="button" class="pn-nav" id="pn-next">Siguiente →</button></div></div></div>';
+    $('pn-prev').onclick=function(){pnIr(PN.i-1);};
+    $('pn-next').onclick=function(){pnIr(PN.i+1);};
+    $('pn-salir').onclick=cerrarPantalla;
+    $('pn-dots').addEventListener('click',function(e){var b=e.target.closest?e.target.closest('[data-j]'):null;if(b)pnIr(parseInt(b.getAttribute('data-j'),10));});
+  }
+  p.hidden=false; PN.abierto=true;
+  document.body.style.overflow='hidden';
+  pnFit(); pnIr(0);
+  try{var u=new URL(location.href);u.searchParams.set('pantalla','1');history.replaceState(null,'',u.pathname+u.search+u.hash);}catch(e){}
+  var nx=$('pn-next'); if(nx)nx.focus();
+}
+function cerrarPantalla(){
+  $('pantalla').hidden=true; PN.abierto=false;
+  document.body.style.overflow='';
+  try{var u=new URL(location.href);u.searchParams.delete('pantalla');history.replaceState(null,'',u.pathname+u.search+u.hash);}catch(e){}
+  var b=$('b-pantalla'); if(b)b.focus();
+}
+
+/* ── Senadores y comisiones ─────────────────────────────── */
+function renderSenCom(){renderSenadores();renderComisiones();}
+
+/* ── Arranque ───────────────────────────────────────────── */
+var SECCIONES=[['resumen','Resumen'],['seguimiento','Seguimiento'],['proyectos','Proyectos '+B.anio],['votaciones','Votaciones'],['sencom','Senadores y comisiones'],['metodo','Cómo lo hacemos']];
+var ALIAS={ods:['seguimiento','ods'],preferencias:['seguimiento','preferencias'],aprobados:['seguimiento','aprobados'],caducar:['seguimiento','caducar'],senadores:['sencom',''],comisiones:['sencom','']};
+var hechos={};
+var render={resumen:renderResumen,seguimiento:renderSeguimiento,proyectos:renderProyectos,votaciones:renderVotaciones,sencom:renderSenCom,metodo:renderMetodo};
+function mostrar(id,sub){
+  SECCIONES.forEach(function(s){
+    var activo=s[0]===id;
+    $('p-'+s[0]).hidden=!activo;
+    $('t-'+s[0]).setAttribute('aria-selected',activo?'true':'false');
+  });
+  if(!hechos[id]){render[id]();hechos[id]=true;}
+  try{var u=new URL(location.href);history.replaceState(null,'',u.pathname+u.search+'#'+id+(sub?'/'+sub:''));}catch(e){}
+  window.scrollTo({top:0});
+  if(sub){
+    if(id==='proyectos'&&LISTAS.proyectos)LISTAS.proyectos.setFiltro(sub);
+    if(id==='seguimiento'){var el=$('s-'+sub);if(el&&el.scrollIntoView)el.scrollIntoView({behavior:'smooth',block:'start'});}
+  }
+}
+document.documentElement.setAttribute('data-bloque',B.slug);
+if(/^#[0-9A-Fa-f]{6}$/.test(B.color||''))document.documentElement.style.setProperty('--bloque',B.color);
+$('h-bloque').textContent=B.bloque;{var pb=document.createElement('span');pb.className='punto-bloque';pb.setAttribute('aria-hidden','true');$('h-bloque').appendChild(pb);}
+$('h-sub').textContent='Senado de la Nación Argentina · Datos al '+B.datos_al;
+$('f-datos').textContent='Datos al '+B.datos_al;
+$('tabs').innerHTML=SECCIONES.map(function(s){return '<button class="tab" role="tab" id="t-'+s[0]+'" aria-selected="false" data-id="'+s[0]+'">'+esc(s[1])+'</button>'}).join('');
+Array.prototype.forEach.call(document.querySelectorAll('.tab'),function(b){b.addEventListener('click',function(){mostrar(b.getAttribute('data-id'));});});
+document.addEventListener('click',function(e){
+  var b=e.target.closest?e.target.closest('[data-ir]'):null; if(!b)return;
+  mostrar(b.getAttribute('data-ir'),b.getAttribute('data-sub')||'');
+});
+$('b-pantalla').addEventListener('click',abrirPantalla);
+window.addEventListener('resize',pnFit);
+document.addEventListener('keydown',function(e){
+  if(!PN.abierto)return;
+  if(e.key==='Escape')cerrarPantalla();
+  else if(e.key==='ArrowRight'||e.key==='PageDown')pnIr(PN.i+1);
+  else if(e.key==='ArrowLeft'||e.key==='PageUp')pnIr(PN.i-1);
+});
+var hs=(location.hash||'').replace('#','').split('/'), inicial=hs[0], subi=hs[1]||'';
+if(ALIAS[inicial]){subi=ALIAS[inicial][1];inicial=ALIAS[inicial][0];}
+mostrar(render[inicial]?inicial:'resumen',render[inicial]?subi:'');
+if(/[?&]pantalla(=|&|$)/.test(location.search))abrirPantalla();
+})();
+</script>
+</body>
+</html>
