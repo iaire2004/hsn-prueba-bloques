@@ -53,6 +53,11 @@ jobs:
           HSN_SOURCE: source
         run: python scripts/comisiones_senado.py
 
+      # Comisiones bicamerales (apartado aparte en cada página). 22 consultas con pausa.
+      - name: Actualizar comisiones bicamerales
+        continue-on-error: true
+        run: python scripts/bicamerales_senado.py
+
       - name: Generar páginas por bloque
         env:
           HSN_SOURCE: source
