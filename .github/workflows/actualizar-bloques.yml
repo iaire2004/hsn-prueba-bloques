@@ -45,6 +45,14 @@ jobs:
           HSN_SOURCE: source
         run: python scripts/padron_senadores.py
 
+      # Comisiones propias leídas del Senado (MODO SOMBRA: las páginas aún usan las de la fuente;
+      # el verificador compara). Si el Senado no responde, conserva lo anterior.
+      - name: Actualizar comisiones (modo sombra)
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+        run: python scripts/comisiones_senado.py
+
       - name: Generar páginas por bloque
         env:
           HSN_SOURCE: source
