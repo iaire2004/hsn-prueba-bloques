@@ -43,6 +43,7 @@ p{margin:0 0 10px}
 .nota{font-size:11px;font-style:italic;font-weight:300;color:var(--nota);margin-top:8px}
 .callout{background:var(--azul3);border-left:3px solid var(--azul2);color:var(--azul);font-style:italic;padding:12px 16px;margin:14px 0;border-radius:0 6px 6px 0}
 .callout p:last-child{margin-bottom:0}
+.callout ul.sint{margin:0;padding-left:20px}.callout ul.sint li{margin:0 0 7px}.callout ul.sint li:last-child{margin-bottom:0}
 .callout .cf{font-size:11px;font-style:italic;font-weight:300;color:var(--azul);opacity:.8;margin-top:6px}
 
 /* Tarjetas */
@@ -320,6 +321,10 @@ function graficoApilado(big){
 function sintesisHtml(t){
   return esc(t).replace(/\b(\d+)\b/g,function(x){return /^20\d\d$/.test(x)?x:'<b>'+x+'</b>';}).replace(/\n\n/g,'<span style="display:block;height:10px"></span>');
 }
+function sintesisLista(tx){
+  var items=String(tx||'').split(/\n\n/).join(' ').split(/(?<=\.)\s+/).filter(function(x){return x.trim();});
+  return '<ul class="sint">'+items.map(function(x){return '<li>'+sintesisHtml(x)+'</li>';}).join('')+'</ul>';
+}
 function fechaKey(s){var p=String(s||'').split('-');return p.length===3?p[2]+p[1]+p[0]:'';}
 function nPcAvance(){return Array.isArray(B.pc_con_avance)?B.pc_con_avance.length:(B.pc_con_avance||0);}
 
@@ -483,7 +488,7 @@ function renderResumen(){
   h+='<p class="seg-linea"><span><b>'+num(B.ods.length)+'</b> '+plural(B.ods.length,'orden del día con proyectos del bloque','órdenes del día con proyectos del bloque')+'</span><span class="sep">|</span>'
     +'<span><b>'+num(B.preferencias_distintas)+'</b> '+plural(B.preferencias_distintas,'proyecto con preferencia','proyectos con preferencia')+'</span>'
     +'<button type="button" class="lnk" data-ir="seguimiento">Ver Seguimiento →</button></p>';
-  h+='<div class="callout"><p>'+sintesisHtml(B.sintesis)+'</p><div class="cf">Síntesis generada automáticamente con IA a partir de las cifras de esta página · Datos al '+esc(B.datos_al)+'</div></div>';
+  h+='<div class="callout">'+sintesisLista(B.sintesis)+'<div class="cf">Síntesis generada automáticamente con IA a partir de las cifras de esta página · Datos al '+esc(B.datos_al)+'</div></div>';
 
   h+='<h2>Qué presentó el bloque en '+B.anio+'</h2><div class="card" style="margin-top:12px"><h3 style="margin-top:0">Proyectos presentados por mes, según tipo de proyecto</h3>'+graficoApilado(false)+'</div>'
     +'<div class="nota">Fuente: Boletín de Novedades del Senado · Datos al '+esc(B.datos_al)+'</div>';

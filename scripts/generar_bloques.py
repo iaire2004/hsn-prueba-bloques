@@ -985,7 +985,7 @@ def construir_sintesis(d):
         avances.append(f"{m['aprobado']} {'aprobado' if m['aprobado'] == 1 else 'aprobados'} por el Senado")
     if m["con_movimiento"]:
         n = m['con_movimiento']
-        frases.append(f"{n} de ellos {'registra' if n == 1 else 'registran'} algún avance: {_lista_es(avances)}.")
+        frases.append(f"{n} de esos proyectos {'registra' if n == 1 else 'registran'} algún avance: {_lista_es(avances)}.")
     frases.append(_PARRAFO)
     if d["aprobados"]:
         n = len(d["aprobados"])
