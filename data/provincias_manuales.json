@@ -1,0 +1,4 @@
+{
+  "_nota": "Provincia de senadores que el listado por bloque del Senado no trae. Clave: nombre como figura en senadores.json (APELLIDO, NOMBRE). Se aplica sólo si la provincia está vacía.",
+  "LOPEZ, CLAUDIA CECILIA": "LA RIOJA"
+}
