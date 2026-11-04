@@ -629,6 +629,11 @@ function renderComisiones(){
       +B.autoridades.map(function(a){return '<tr><td>'+esc(a.comision)+'</td><td>'+esc(a.rol)+'</td><td>'+esc(a.senador)+'</td></tr>'}).join('')
       +'</tbody></table></div>';
   }
+  if(B.bicamerales&&B.bicamerales.length){
+    h+='<h2>Comisiones bicamerales</h2><div style="overflow-x:auto;margin-top:12px"><table><thead><tr><th>Comisión bicameral</th><th>Cargo</th><th>Senador/a</th></tr></thead><tbody>'
+      +B.bicamerales.map(function(a){return '<tr><td>'+esc(a.comision)+'</td><td>'+esc(a.rol)+'</td><td>'+esc(a.senador)+'</td></tr>'}).join('')
+      +'</tbody></table></div><div class="nota">Las comisiones bicamerales están integradas por senadores y diputados. Se muestran los cargos que ocupan senadores del bloque. Fuente: senado.gob.ar.</div>';
+  }
   $('p-comisiones').innerHTML=h;
 }
 

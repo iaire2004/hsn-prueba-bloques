@@ -98,6 +98,41 @@ def cargar_padron(gw):
     return gw._cargar("senadores.json", {})
 
 
+COMISIONES_EXTRA = ("Banca de la Mujer",)
+
+
+def cargar_comisiones_extra():
+    """Comisiones leídas directo del Senado por comisiones_senado.py que la fuente no incluye."""
+    try:
+        coms = json.load(open(os.path.join(ROOT, "data", "comisiones.json"), encoding="utf-8"))
+    except Exception:
+        return []
+    return [c for c in coms if c.get("nombre") in COMISIONES_EXTRA and c.get("miembros")]
+
+
+def cargar_bicamerales():
+    """Comisiones bicamerales leídas del Senado por bicamerales_senado.py (data/bicamerales.json)."""
+    try:
+        return json.load(open(os.path.join(ROOT, "data", "bicamerales.json"), encoding="utf-8"))
+    except Exception:
+        return []
+
+
+def construir_bicamerales(ctx, bloque):
+    """Cargos (presidente, vicepresidente, secretario) que ocupan senadores del bloque en las
+    comisiones bicamerales. Apartado aparte: la integran también diputados."""
+    out = []
+    for com in ctx.get("bicamerales", []):
+        for m in com.get("miembros", []):
+            rol = m.get("cargo") or ""
+            if (m.get("camara") == "SENADO" and not m.get("vacante") and rol
+                    and norm_bloque(m.get("bloque")) == norm_bloque(bloque)):
+                out.append({"comision": com["nombre"], "rol": rol, "senador": nombre_persona(m["nombre"]),
+                            "tipo": com.get("tipo", "")})
+    out.sort(key=lambda a: (a["rol"].split(" ")[0] != "Presidente", a["comision"]))
+    return out
+
+
 def cargar_gw():
     ruta = os.path.join(SOURCE, "scripts", "generar_web.py")
     spec = importlib.util.spec_from_file_location("generar_web", ruta)
@@ -466,6 +501,8 @@ def construir_contexto(gw):
         "senador_por_apellido": senador_por_apellido,
         "pertenece": pertenece,
         "aprobados_con_od": aprobados_con_od,
+        "comisiones_propias_extra": cargar_comisiones_extra(),
+        "bicamerales": cargar_bicamerales(),
         "rastrear": {},
         "sen_todos": sen_todos,
         "autor_sin_dato": set(),
@@ -909,6 +946,20 @@ def construir_bloque(ctx, bloque, hoy):
                     "senador": nombre_persona(it["nombre"]),
                     "apellido": titulo(it["nombre"].partition(",")[0].strip()),
                 })
+    # Comisiones que la fuente no trae pero leemos directo del Senado (data/comisiones.json propio):
+    # Banca de la Mujer. Sólo se suman las que NO están ya en la fuente.
+    ya = {c["nombre"] for c in ctx["comisiones"]}
+    for com in ctx.get("comisiones_propias_extra", []):
+        if com["nombre"] in ya:
+            continue
+        for it in com.get("miembros", []):
+            if norm_bloque(it.get("bloque")) == norm_bloque(bloque) and it.get("rol") in ("Presidente", "Vicepresidente", "Secretario"):
+                autoridades.append({
+                    "comision": sin_prefijo_de(com["nombre"]),
+                    "rol": it["rol"],
+                    "senador": nombre_persona(it["nombre"]),
+                    "apellido": titulo(it["nombre"].partition(",")[0].strip()),
+                })
     orden_rol = {"Presidente": 0, "Vicepresidente": 1, "Secretario": 2}
     autoridades.sort(key=lambda a: (orden_rol[a["rol"]], a["comision"]))
 
@@ -936,6 +987,7 @@ def construir_bloque(ctx, bloque, hoy):
         "meses": meses,
         "comisiones": comisiones_out,
         "autoridades": autoridades,
+        "bicamerales": construir_bicamerales(ctx, bloque),
         "ods": ods,
         "preferencias": preferencias,
         "preferencias_distintas": len({x["id"] for x in preferencias}),
