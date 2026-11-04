@@ -33,6 +33,42 @@ def previo(slug):
         return None
 
 
+def cruce_actas(avisos):
+    """Cruce de control: cada orden del día aprobada en un acta de votación (EN GENERAL) debe
+    tener sus proyectos del Senado marcados como aprobados. Sólo avisa."""
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fuente = os.environ.get("HSN_SOURCE", os.path.join(raiz, "source"))
+    try:
+        actas = json.load(open(os.path.join(raiz, "data", "votaciones.json"), encoding="utf-8"))["actas"]
+        proy = json.load(open(os.path.join(fuente, "data", "proyectos.json"), encoding="utf-8"))
+        proy = proy if isinstance(proy, list) else proy.get("proyectos", [])
+    except Exception as e:
+        avisos.append("Cruce con actas omitido (%s)" % e)
+        return 0
+    aprobadas = {}
+    for a in actas:
+        if a.get("resultado") != "AFIRMATIVO":
+            continue
+        for od in a.get("ods") or []:
+            aprobadas[(od.get("nro"), od.get("anio"))] = a.get("fecha")
+    n = 0
+    for p in proy:
+        if p.get("origen") != "S":
+            continue
+        for od in p.get("od_trazabilidad") or []:
+            k = (od.get("nro"), od.get("anio"))
+            if k not in aprobadas:
+                continue
+            aprobado = p.get("badge_sancionado") or any(
+                x.get("codigo") == "AP" for x in (p.get("sanciones_trazabilidad") or []))
+            if not aprobado:
+                avisos.append("Acta del %s aprobó la OD %s/%s pero S-%s/%s no figura como aprobado"
+                              % (aprobadas[k], k[0], k[1], p.get("nro"), p.get("anio")))
+            n += 1
+    print("Cruce con actas: %d proyectos del Senado en órdenes del día aprobadas revisados." % n)
+    return n
+
+
 def main():
     graves, avisos = [], []
     slugs = sorted(d for d in os.listdir(OUT) if os.path.isfile(os.path.join(OUT, d, "index.html"))
@@ -70,6 +106,7 @@ def main():
                 graves.append("%s: los proyectos bajaron de %s a %s (%.0f%%)" % (n, pv["total"], b["total"], caida * 100))
             if len(pv["senadores"]) != len(b["senadores"]):
                 avisos.append("%s: cambió la cantidad de senadores (%s → %s)" % (n, len(pv["senadores"]), len(b["senadores"])))
+    cruce_actas(avisos)
     for a in avisos:
         print("AVISO  " + a)
     for g in graves:
