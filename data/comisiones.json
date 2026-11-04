@@ -1,0 +1,2506 @@
+[
+  {
+    "nombre": "De Acuerdos",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARCE, Carlos Omar",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "ÁVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": ""
+      },
+      {
+        "nombre": "REJAL, Jesús Fernando",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Agricultura, Ganadería y Pesca",
+    "cupo": 19,
+    "miembros": [
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "PAOLTRONI, Francisco Manuel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "bloque": "DESPIERTA CHUBUT",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MAYANS, José Miguel Ángel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LINARES, Carlos Alberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MANZUR, Juan Luis",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Ambiente y Desarrollo Sustentable",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "bloque": "DESPIERTA CHUBUT",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": ""
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Asuntos Administrativos y Municipales",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "MARKS, Ana Inés",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "NEDER, José Emilio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "REJAL, Jesús Fernando",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "ZAMORA, Gerardo",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Asuntos Constitucionales",
+    "cupo": 19,
+    "miembros": [
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "LÓPEZ, María Florencia",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "JUEZ, Luis Alfredo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VIGO, Alejandra María",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "AVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "NEDER, José Emilio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Ciencia y Tecnología",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LINARES, Carlos Alberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Coparticipación Federal de Impuestos",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "PAOLTRONI, Francisco Manuel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "VIGO, Alejandra María",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MAYANS, José Miguel Ángel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "ZAMORA, Gerardo",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Defensa Nacional",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "JUEZ, Luis Alfredo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "LINARES, Carlos Alberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "NEDER, José Emilio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MAYANS, José Miguel Ángel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "ZAMORA, Gerardo",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Deporte",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "PAOLTRONI, Francisco Manuel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ÁVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARCE, Carlos Omar",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "UÑAC, Sergio Mauricio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MORENO, Elia Esther del Carmen",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Derechos y Garantías",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "bloque": "DESPIERTA CHUBUT",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LINARES, Carlos Alberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Economía Nacional e Inversión",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MAYANS, José Miguel Ángel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "REJAL, Jesús Fernando",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARCE, Carlos Omar",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "UÑAC, Sergio Mauricio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MARKS, Ana Inés",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "ZAMORA, Gerardo",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Educación y Cultura",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ÁVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Industria y Comercio",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DE PEDRO, Eduardo Enrique",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, María Florencia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Infraestructura, Vivienda y Transporte",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "ÁVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "PAOLTRONI, Francisco Manuel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": ""
+      },
+      {
+        "nombre": "CARAMBIA, José María",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "NEDER, José Emilio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "ZAMORA, Gerardo",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Justicia y Asuntos Penales",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTE DE OCA, Maria Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "JUEZ, Luis Alfredo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "ARCE, Carlos Omar",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "ÁVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, María Florencia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Legislación General",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "CARAMBIA, José María",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Minería, Energía y Combustibles",
+    "cupo": 19,
+    "miembros": [
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "CARAMBIA, José María",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Población y Desarrollo Humano",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MARKS, Ana Inés",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Presupuesto y Hacienda",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Secretario"
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "VIGO, Alejandra María",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "ÁVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Relaciones Exteriores y Culto",
+    "cupo": 19,
+    "miembros": [
+      {
+        "nombre": "PAOLTRONI, Francisco Manuel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "JUEZ, Luis Alfredo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MANZUR, Juan Luis",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DI TULLIO, Juliana",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Salud",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "ARCE, Carlos Omar",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "bloque": "DESPIERTA CHUBUT",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MANZUR, Juan Luis",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MORENO, Elia Esther del Carmen",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Seguridad Interior y Narcotráfico",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "PAOLTRONI, Francisco Manuel",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GUZMÁN CORAITA, Gonzalo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": ""
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LINARES, Carlos Alberto",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "NEDER, José Emilio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MAYANS, José Miguel Ángel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MORENO, Elia Esther del Carmen",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Trabajo y Previsión Social",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "CARAMBIA, José María",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISÉS, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "DI TULLIO, Juliana",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "De Turismo",
+    "cupo": 17,
+    "miembros": [
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "ARCE, Carlos Omar",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "VIGO, Alejandra María",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": ""
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "MARKS, Ana Inés",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "DI TULLIO, Juliana",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "ZAMORA, Gerardo",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  },
+  {
+    "nombre": "Banca de la Mujer",
+    "cupo": 34,
+    "miembros": [
+      {
+        "nombre": "MARKS, Ana Inés",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "AVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": ""
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "DI TULLIO, Juliana",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, María Florencia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISES, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MORENO, Elia Esther Del Carmen",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": ""
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "bloque": "DESPIERTA CHUBUT",
+        "rol": ""
+      },
+      {
+        "nombre": "VIGO, Alejandra María",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "LOPEZ, Claudia Cecilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
+  }
+]
