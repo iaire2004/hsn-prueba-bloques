@@ -603,7 +603,10 @@ function renderSenadores(){
       +'<div style="margin-top:12px"><div class="kpi-v" style="font-size:24px">'+num(s.total)+'</div><div class="kpi-l">proyectos en '+B.anio+'</div></div>'
       +(cs.length?'<div class="chips">'+cs.join('')+'</div>':'')+'</div>';
   });
-  h+='</div><div class="nota">Se cuentan los proyectos del año en los que la persona figura entre los autores. Un proyecto con varios autores suma a cada uno.</div>';
+  var suma=0;B.senadores.forEach(function(s){suma+=s.total;});
+  h+='</div>';
+  if(suma!==B.total)h+='<div class="callout" style="margin-top:14px"><p>Las tarjetas suman <b>'+num(suma)+'</b> proyectos y el bloque presentó <b>'+num(B.total)+'</b>: un proyecto firmado por varios senadores se cuenta una vez en la tarjeta de cada uno, y una sola vez en el total del bloque.</p></div>';
+  h+='<div class="nota">Se cuentan los proyectos del año en los que la persona figura entre los autores. Un proyecto con varios autores suma a cada uno.</div>';
   $('p-senadores').innerHTML=h;
 }
 
@@ -704,7 +707,7 @@ function pnSlides(){
         [B.aprobados.length,plural(B.aprobados.length,'proyecto aprobado por el Senado en '+B.anio,'proyectos aprobados por el Senado en '+B.anio)],
         [B.por_caducar.length,plural(B.por_caducar.length,'proyecto de ley de '+(B.anio-1)+' por caducar','proyectos de ley de '+(B.anio-1)+' por caducar'),B.pc_mandato?B.pc_mandato+' de autores con mandato cumplido':'']
       ],true)
-      +(B.por_caducar.length&&pca?'<p style="margin:0;font-size:26px">De los '+num(B.por_caducar.length)+' proyectos por caducar, <b style="color:var(--azul)">'+num(pca)+'</b> '+plural(pca,'ya tuvo','ya tuvieron')+' reunión de comisión u orden del día.</p>':'')+'</div>';
+      +(B.por_caducar.length&&pca?'<p style="margin:0;font-size:26px">De los '+num(B.por_caducar.length)+' proyectos por caducar, <b style="color:var(--azul)">'+num(pca)+'</b> '+plural(pca,'ya tuvo','ya tuvieron')+' reunión de comisión, orden del día o preferencia.</p>':'')+'</div>';
   });
   /* 8. Últimos aprobados */
   if(B.aprobados.length)S.push(function(){
@@ -715,7 +718,7 @@ function pnSlides(){
   /* 9. Por caducar con avance */
   var pcav=B.por_caducar.filter(function(p){return p.reunion||p.od||p.preferencia;});
   if(pcav.length)S.push(function(){
-    return '<h2 class="pn-h2">Próximos a caducar, con avance</h2><p style="margin:0;font-size:24px">'+num(pcav.length)+' de los '+num(B.por_caducar.length)+' proyectos de ley de '+(B.anio-1)+' por caducar ya registran movimiento'+(pcav.length>5?' · se muestran 5':'')+'.</p>'
+    return '<h2 class="pn-h2">Próximos a caducar, con avance</h2><p style="margin:0;font-size:24px">'+num(pcav.length)+' de los '+num(B.por_caducar.length)+' proyectos de ley de '+(B.anio-1)+' por caducar ya registran movimiento (reunión de comisión, orden del día o preferencia)'+(pcav.length>5?' · se muestran 5':'')+'.</p>'
       +'<div style="display:flex;flex-direction:column;gap:14px">'+pcav.slice(0,5).map(function(p){
         return pnFila(p.id,p.extracto,p.preferencia?'Con preferencia':(p.od?'Con orden del día '+p.od:'Con reunión de comisión'));
       }).join('')+'</div>';
