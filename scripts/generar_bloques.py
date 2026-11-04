@@ -283,6 +283,39 @@ def cargar_votaciones():
         return {"anio": ANIO_ACTUAL, "actas": []}
 
 
+def completar_aprobacion_con_actas(proyectos, votaciones):
+    """Si un acta de votación aprobó una orden del día y la planilla de trazabilidad todavía no
+    marca aprobado a un proyecto del Senado de esa orden del día (sin AP, o AP sin fecha), se
+    agrega la aprobación con la fecha del acta. Fuente oficial: acta del Senado."""
+    aprobadas = {}
+    for a in votaciones.get("actas", []):
+        if a.get("resultado") != "AFIRMATIVO":
+            continue
+        for od in a.get("ods") or []:
+            aprobadas[(int(od.get("nro") or 0), int(od.get("anio") or 0))] = a.get("fecha")
+    n = 0
+    for p in proyectos:
+        if p.get("origen") != "S" or p.get("badge_sancionado"):
+            continue
+        if any(x.get("codigo") == "AP" and x.get("fecha") for x in (p.get("sanciones_trazabilidad") or [])):
+            continue
+        for od in p.get("od_trazabilidad") or []:
+            try:
+                k = (int(od.get("nro")), int(od.get("anio")))
+            except (TypeError, ValueError):
+                continue
+            f = aprobadas.get(k)
+            if f:
+                d, m, y = f.split("-")
+                p.setdefault("sanciones_trazabilidad", None)
+                p["sanciones_trazabilidad"] = (p["sanciones_trazabilidad"] or []) + [
+                    {"codigo": "AP", "fecha": f"{d}/{m}/{y}", "fuente": "acta"}]
+                n += 1
+                break
+    if n:
+        print(f"  Aprobaciones completadas con actas de votación: {n}")
+
+
 def agrupar_ayuda_memoria(am):
     """Una entrada por orden del día (la Ayuda Memoria repite la OD cuando tiene anexo)."""
     grupos = {}
@@ -348,6 +381,7 @@ def construir_contexto(gw):
     gw.cruzar_proyectos_od(proyectos, gw.construir_od())
     sanciones = gw.construir_sanciones()
     gw.cruzar_proyectos_sanciones(proyectos, sanciones)
+    completar_aprobacion_con_actas(proyectos, cargar_votaciones())
     gw.cruzar_proyectos_acuerdos(proyectos, gw._cargar("acuerdos.json", []))
     comisiones = gw.construir_comisiones(proyectos)
 

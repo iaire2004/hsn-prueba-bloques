@@ -33,7 +33,7 @@ def previo(slug):
         return None
 
 
-def cruce_actas(avisos):
+def cruce_actas(avisos, en_paginas, aprobados_pag):
     """Cruce de control: cada orden del día aprobada en un acta de votación (EN GENERAL) debe
     tener sus proyectos del Senado marcados como aprobados. Sólo avisa."""
     raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -59,9 +59,8 @@ def cruce_actas(avisos):
             k = (od.get("nro"), od.get("anio"))
             if k not in aprobadas:
                 continue
-            aprobado = p.get("badge_sancionado") or any(
-                x.get("codigo") == "AP" for x in (p.get("sanciones_trazabilidad") or []))
-            if not aprobado:
+            eid = "S-%s/%02d" % (p.get("nro"), int(p.get("anio")) % 100)
+            if eid in en_paginas and eid not in aprobados_pag:
                 avisos.append("Acta del %s aprobó la OD %s/%s pero S-%s/%s no figura como aprobado"
                               % (aprobadas[k], k[0], k[1], p.get("nro"), p.get("anio")))
             n += 1
@@ -106,7 +105,9 @@ def main():
                 graves.append("%s: los proyectos bajaron de %s a %s (%.0f%%)" % (n, pv["total"], b["total"], caida * 100))
             if len(pv["senadores"]) != len(b["senadores"]):
                 avisos.append("%s: cambió la cantidad de senadores (%s → %s)" % (n, len(pv["senadores"]), len(b["senadores"])))
-    cruce_actas(avisos)
+    en_pag = {x["id"] for b in paginas.values() for x in b["proyectos"]}
+    apr_pag = {x["id"] for b in paginas.values() for x in b["aprobados"]}
+    cruce_actas(avisos, en_pag, apr_pag)
     for a in avisos:
         print("AVISO  " + a)
     for g in graves:
