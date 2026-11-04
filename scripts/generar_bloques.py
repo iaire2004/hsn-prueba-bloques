@@ -956,6 +956,9 @@ def _lista_es(partes):
     return ", ".join(partes[:-1]) + " y " + partes[-1]
 
 
+_PARRAFO = "\u00b6"
+
+
 def construir_sintesis(d):
     """Texto de síntesis generado con las cifras de la página (se recalcula en cada actualización)."""
     t = d["anio"]
@@ -983,6 +986,7 @@ def construir_sintesis(d):
     if m["con_movimiento"]:
         n = m['con_movimiento']
         frases.append(f"{n} de ellos {'registra' if n == 1 else 'registran'} algún avance: {_lista_es(avances)}.")
+    frases.append(_PARRAFO)
     if d["aprobados"]:
         n = len(d["aprobados"])
         frases.append(f"El Senado aprobó {n} {'proyecto' if n == 1 else 'proyectos'} del bloque en sesiones de {t}.")
@@ -994,19 +998,26 @@ def construir_sintesis(d):
         extra.append(f"{npf} {'proyecto con preferencia' if npf == 1 else 'proyectos con preferencia'} en sesiones de {t}")
     if extra:
         frases.append("Hay " + _lista_es(extra) + ".")
+    frases.append(_PARRAFO)
     if d["por_caducar"]:
         n = len(d["por_caducar"])
         mc = d.get("pc_mandato", 0)
         frases.append(f"Además, hay {n} {'proyecto de ley de' if n == 1 else 'proyectos de ley de'} {t - 1} de senadores y senadoras del bloque "
                       f"{'próximo' if n == 1 else 'próximos'} a caducar"
                       + (f", {mc} de ellos de autores con mandato cumplido." if mc else "."))
+    frases.append(_PARRAFO)
     if d["comisiones"]:
         top = [c["nombre"] for c in d["comisiones"][:2]]
         frases.append(f"Los proyectos del año se giraron a {len(d['comisiones'])} comisiones, con mayor volumen en {_lista_es(top)}.")
     pres = [a["comision"] for a in d["autoridades"] if a["rol"] == "Presidente"]
     if pres:
         frases.append(f"El bloque preside {'la comisión' if len(pres) == 1 else 'las comisiones'} {_lista_es(pres)}.")
-    return " ".join(frases)
+    # párrafos: producción y avance / aprobados y seguimiento / por caducar / comisiones
+    texto = " ".join(frases)
+    while "  " in texto:
+        texto = texto.replace("  ", " ")
+    partes = [x.strip() for x in texto.split(_PARRAFO)]
+    return "\n\n".join(x for x in partes if x)
 
 
 

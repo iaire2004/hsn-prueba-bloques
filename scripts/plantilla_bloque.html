@@ -318,7 +318,7 @@ function graficoApilado(big){
   return h;
 }
 function sintesisHtml(t){
-  return esc(t).replace(/\b(\d+)\b/g,function(x){return /^20\d\d$/.test(x)?x:'<b>'+x+'</b>';});
+  return esc(t).replace(/\b(\d+)\b/g,function(x){return /^20\d\d$/.test(x)?x:'<b>'+x+'</b>';}).replace(/\n\n/g,'<span style="display:block;height:10px"></span>');
 }
 function fechaKey(s){var p=String(s||'').split('-');return p.length===3?p[2]+p[1]+p[0]:'';}
 function nPcAvance(){return Array.isArray(B.pc_con_avance)?B.pc_con_avance.length:(B.pc_con_avance||0);}
