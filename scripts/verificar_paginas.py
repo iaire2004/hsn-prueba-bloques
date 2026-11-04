@@ -68,6 +68,36 @@ def cruce_actas(avisos, en_paginas, aprobados_pag):
     return n
 
 
+def comparar_comisiones(avisos):
+    """Modo sombra: compara las comisiones propias (leídas del Senado) con las de la fuente.
+    Sólo avisa diferencias de presidencia o de integrantes."""
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fuente = os.environ.get("HSN_SOURCE", os.path.join(raiz, "source"))
+    try:
+        propias = json.load(open(os.path.join(raiz, "data", "comisiones.json"), encoding="utf-8"))
+        ajenas = json.load(open(os.path.join(fuente, "data", "comisiones.json"), encoding="utf-8"))
+    except Exception:
+        return
+    aj = {c["nombre"]: c for c in ajenas}
+
+    def pres(c):
+        return sorted(m["nombre"] for m in c.get("miembros", []) if m.get("rol") == "Presidente")
+
+    for c in propias:
+        o = aj.get(c["nombre"])
+        if o is None:
+            avisos.append("Comisión sólo en la lectura propia: %s (presidencia: %s)"
+                          % (c["nombre"], ", ".join(pres(c)) or "sin dato"))
+            continue
+        if pres(c) != pres(o):
+            avisos.append("%s: presidencia distinta (propia: %s / fuente: %s)"
+                          % (c["nombre"], ", ".join(pres(c)) or "-", ", ".join(pres(o)) or "-"))
+        a = {m["nombre"] for m in c.get("miembros", [])}
+        b = {m["nombre"] for m in o.get("miembros", [])}
+        if a != b:
+            avisos.append("%s: integrantes distintos (+%d / -%d)" % (c["nombre"], len(a - b), len(b - a)))
+
+
 def main():
     graves, avisos = [], []
     slugs = sorted(d for d in os.listdir(OUT) if os.path.isfile(os.path.join(OUT, d, "index.html"))
@@ -108,6 +138,7 @@ def main():
     en_pag = {x["id"] for b in paginas.values() for x in b["proyectos"]}
     apr_pag = {x["id"] for b in paginas.values() for x in b["aprobados"]}
     cruce_actas(avisos, en_pag, apr_pag)
+    comparar_comisiones(avisos)
     for a in avisos:
         print("AVISO  " + a)
     for g in graves:
