@@ -86,6 +86,18 @@ SIGLAS = {"PRO", "UCR", "PJ", "PE", "HSN"}
 
 # ── Utilidades ───────────────────────────────────────────────────────────────
 
+def cargar_padron(gw):
+    """Padrón propio (data/senadores.json de este repo, lo mantiene padron_senadores.py).
+    Si no existe o está vacío, se usa el del repo del sistema legislativo."""
+    try:
+        propio = json.load(open(os.path.join(ROOT, "data", "senadores.json"), encoding="utf-8"))
+        if sum(1 for v in propio.values() if v.get("vigente")) >= 60:
+            return propio
+    except Exception:
+        pass
+    return gw._cargar("senadores.json", {})
+
+
 def cargar_gw():
     ruta = os.path.join(SOURCE, "scripts", "generar_web.py")
     spec = importlib.util.spec_from_file_location("generar_web", ruta)
@@ -339,7 +351,7 @@ def construir_contexto(gw):
     gw.cruzar_proyectos_acuerdos(proyectos, gw._cargar("acuerdos.json", []))
     comisiones = gw.construir_comisiones(proyectos)
 
-    senadores = gw._cargar("senadores.json", {})
+    senadores = cargar_padron(gw)
     fotos = gw._cargar("fotos_senadores.json", {})
     fonts = gw._cargar("fonts_poppins.json", {})
 
