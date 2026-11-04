@@ -1,0 +1,2354 @@
+[
+  {
+    "id": 117,
+    "nombre": "Bicameral Asesora de la Federación Argentina de Municipios (Ley 24.807)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "nombre": "Bicameral de Control de los Fondos de la Seguridad Social (Ley 26.425)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "AGUIRRE, Hilda Clelia",
+        "cargo": "Vicepresidente",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "cargo": "Secretario",
+        "camara": "SENADO",
+        "bloque": "FRENTE PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GALARETTO, Eduardo Horacio",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "SORIA, Martin Ignacio",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "ALMIRÓN, Lisandro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ANSALONI, Pablo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "HUESEN, Gerardo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "QUINTAR, Manuel",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "PAROLA, María Graciela",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "nombre": "Bicameral de Reforma del Estado y del Seguimiento de las Privatizaciones (Ley 23.696)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "CERVI, Mario Pablo",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "IANNI, Ana María",
+        "cargo": "Vicepresidente",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "cargo": "Secretario",
+        "camara": "SENADO",
+        "bloque": "PROVINCIAS UNIDAS",
+        "vacante": false
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Joaquín Alberto",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "VISCHI, Eduardo Alejandro",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "CAPITANICH, Jorge Milton",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "ZAPATA, Carlos Raúl",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "CORREA LLANO, Facundo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MONTENEGRO, Guillermo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "PAULI, Santiago",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "CARIGNANO, Florencia",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "nombre": "Bicameral Permanente de Fiscalización de los Organismos y Actividades de Inteligencia (Ley 25.520)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "PAREJA, Sebastián",
+        "cargo": "Presidente",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "cargo": "Vicepresidente 1°",
+        "camara": "SENADO",
+        "bloque": "FRENTE PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "COTO, Agustín Pedro",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ABAD, Maximiliano",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "DESPIERTA CHUBUT",
+        "vacante": false
+      },
+      {
+        "nombre": "MOISES, María Carolina",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "BORNORONI, Gabriel",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "RITONDO, Cristian Adrian",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "TREFFINGER, César",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GUTIERREZ, Ramiro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "ROSSI, Agustin Oscar",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "TAILHADE, Luis Rodolfo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "nombre": "Bicameral Permanente de Fiscalización de los Órganos y Actividades de Seguridad Interior (Ley 24.059)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "PAULI, Santiago",
+        "cargo": "Presidente",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "cargo": "Vicepresidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "cargo": "Secretario",
+        "camara": "SENADO",
+        "bloque": "DESPIERTA CHUBUT",
+        "vacante": false
+      },
+      {
+        "nombre": "GLINSKI, José",
+        "cargo": "Secretario",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "ABDALA, Bartolomé Esteban",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "GOERLING LARA, Enrique Martín",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "FRENTE PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "BENSUSÁN, Daniel Pablo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "ARABIA, Damian",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GONZALES, Alfredo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MATZKIN, Martín",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ZAPATA, Carlos Raúl",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "FELIX, Emir",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "PROPATO, Agustina",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "nombre": "Bicameral Permanente de la Defensoría del Pueblo",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "SNOPEK, Guillermo",
+        "cargo": "Vicepresidente 1°",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "FULLONE, Enzo Paolo",
+        "cargo": "Vicepresidente 2°",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "FRENTE PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "AVILA, Beatriz Luisa",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "INDEPENDENCIA",
+        "vacante": false
+      },
+      {
+        "nombre": "MARKS, Ana Inés",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "BIANCHETTI, Emmanuel",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "LEMOINE, Lilia",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "OJEDA, Joaquín",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "CASTELNUOVO, Giselle",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MARTINEZ, Germán Pedro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "MOREAU, Cecilia",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "nombre": "Bicameral Permanente de Promoción y Seguimiento de la Comunicación Audiovisual, las Tecnologías de las Telecomunicaciones y la Digitalización (Ley 26.522)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "FRENTE PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "ESPÍNOLA, Carlos Mauricio",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "PROVINCIAS UNIDAS",
+        "vacante": false
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "LEWANDOWSKI, Marcelo Néstor",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "DI TULLIO, Juliana",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "AJMECHET, Sabrina",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "BONGIOVANNI, Alejandro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "BORNORONI, Gabriel",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GIUDICI, Silvana Myriam",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MACYSZYN, Lorena",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GRABOIS, Juan",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "TROTTA, Nicolás Alfredo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "VOLNOVICH, Luana",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "nombre": "Bicameral Permanente de Seguimiento de Contratos de Participación Público-Privada (Ley 27.328)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "nombre": "Bicameral Permanente de Seguimiento y Control de la Gestión de Contratación y de Pago de la Deuda Exterior de la Nación (Ley 27.249)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "CORREA LLANO, Facundo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MARTÍNEZ, Alvaro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MONTENEGRO, Guillermo Tristan",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "SÁNCHEZ WRBA, Javier",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "TREFFINGER, César",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "CASTAGNETO, Carlos Daniel",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "HAGMAN, Itai",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "PALAZZO, Sergio Omar",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "TAIANA, Jorge",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "nombre": "Bicameral Permanente de Seguimiento y Control del Ministerio Público de la Nación (Ley 24.946)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "GALMARINI, Sebastián",
+        "cargo": "Presidente",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "GODOY, Juan Cruz",
+        "cargo": "Vicepresidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "QUINTAR, Manuel",
+        "cargo": "Secretario",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "JUEZ, Luis Alfredo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "SUÁREZ, Rodolfo Alejandro",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA NEUQUINIDAD",
+        "vacante": false
+      },
+      {
+        "nombre": "LINARES, Carlos Alberto",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "BAHL, Adán Humberto",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "MARTÍNEZ, Alvaro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "PATIÑO BRIZUELA, Marcos",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GONZALES, Alfredo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "EMMA, Nicolás",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "BARBUR, Marcelo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "BORDET, Gustavo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "nombre": "Bicameral Permanente de Trámite Legislativo (Ley 26.122)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GARCIA, Maria Teresa",
+        "cargo": "Vicepresidente",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "cargo": "Secretario",
+        "camara": "SENADO",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "vacante": false
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "JUEZ, Luis Alfredo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "KRONEBERGER, Daniel Ricardo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "MOISES, María Carolina",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "ALMIRÓN, Lisandro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "PATIÑO BRIZUELA, Marcos",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "CASTELNUOVO, Giselle",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MAYORAZ, Nicolás",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "PETRI, Luis Alfonso",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "GIULIANO, Diego A.",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "SILEY, Vanesa",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "nombre": "Bicameral Permanente del Defensor de los Derechos de Niñas, Niños y Adolescentes (Ley 26.061)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MAYORAZ, Nicolás",
+        "cargo": "Vicepresidente",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "FRENTE PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "MONDACA, Soledad",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "SANTURIO, Santiago",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MOLINA, Juan Carlos",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "OSUNA, Blanca Ines",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "nombre": "Bicameral Permanente del Digesto Jurídico Argentino (Ley 26.939)",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "nombre": "Bicameral Permanente Interparlamentaria Argentino-Mexicana",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "nombre": "Bicameral Permanente Mixta Revisora de Cuentas",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "ATAUCHE, Ezequiel",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "DE LA ROSA, M. Graciela",
+        "cargo": "Vicepresidente",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "FAMA, Flavio Sergio",
+        "cargo": "Secretario",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "RECALDE, Mariano",
+        "cargo": "Secretario",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "OLIVERA LUCERO, Bruno Antonio",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ANDRADA, Guillermo Eduardo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "MAYANS, José Miguel Ángel",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIALISTA",
+        "vacante": false
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Bertie",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ALMIRÓN, Lisandro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MORENO OVALLE, Julio",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "LLUCH, Enrique",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "MICHEL, Guillermo",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "nombre": "Bicameral Permanente Parlamentaria Conjunta Argentino-Chilena",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "nombre": "De Integración Bilateral y Cooperación entre la República Argentina y la República Federativa del Brasil",
+    "tipo": "Permanente",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "nombre": "De Supervisión Parlamentaria de la Oficina de Presupuesto del Congreso (Ley 27.343)",
+    "tipo": "Especial",
+    "miembros": [
+      {
+        "nombre": "MONTEVERDE, Agustín Aníbal",
+        "cargo": "Presidente",
+        "camara": "SENADO",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "BENEGAS LYNCH, Bertie",
+        "cargo": "Secretario",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "SALINO, Fernando Aldo",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "JUSTICIA SOCIAL FEDERAL",
+        "vacante": false
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "CASTAGNETO, Carlos Daniel",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "FERNÁNDEZ MOLERO, Daiana",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "PRO",
+        "vacante": false
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "nombre": "Bicameral para la Reforma Tributaria (Ley 27.260)",
+    "tipo": "Especial",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "nombre": "Bicameral de Monitoreo e Implementación del Código Procesal Penal Federal (Ley 27.063)",
+    "tipo": "Especial",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "nombre": "Bicameral Ciudad de Buenos Aires (Ley 24.588)",
+    "tipo": "Especial",
+    "miembros": [
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      },
+      {
+        "nombre": "VACANTE",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "",
+        "vacante": true
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "nombre": "Administradora del «Edificio del Molino» (Ley 27.009)",
+    "tipo": "Especial",
+    "miembros": [
+      {
+        "nombre": "BRIZUELA, Adrián",
+        "cargo": "Presidente",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "VILLARUEL, Victoria Eugenia",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "",
+        "vacante": false
+      },
+      {
+        "nombre": "MENEM, Martín Alexis",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "vacante": false
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "cargo": "",
+        "camara": "SENADO",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "vacante": false
+      },
+      {
+        "nombre": "FINOCCHIARO, Alejandro",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "PRO",
+        "vacante": false
+      },
+      {
+        "nombre": "POKOIK, Lorena",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "UNION POR LA PATRIA",
+        "vacante": false
+      },
+      {
+        "nombre": "IBAÑEZ, María Cecilia",
+        "cargo": "",
+        "camara": "DIPUTADOS",
+        "bloque": "LA LIBERTAD AVANZA",
+        "vacante": false
+      }
+    ]
+  }
+]
