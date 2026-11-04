@@ -37,6 +37,14 @@ jobs:
         continue-on-error: true
         run: python scripts/scraper_votaciones.py
 
+      # Padrón de senadores propio (bloque, vigencia, provincia). Si el Senado no responde,
+      # conserva el anterior y no frena la generación.
+      - name: Actualizar padrón de senadores
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+        run: python scripts/padron_senadores.py
+
       - name: Generar páginas por bloque
         env:
           HSN_SOURCE: source
