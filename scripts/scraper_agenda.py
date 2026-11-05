@@ -212,6 +212,15 @@ def parsear_temario(texto):
     return items
 
 
+def _es_referencia(texto, pos):
+    """True si el expediente que empieza en `pos` es sólo una REFERENCIA dentro del extracto de otro,
+    p. ej. «... (REF. S-189/23)». Esos no son temas de la reunión y no se deben contar como tales."""
+    ini = texto.upper().rfind("(REF", 0, pos)
+    if ini != -1 and ")" not in texto[ini:pos]:
+        return True
+    return bool(re.search(r"\bREF\.?\s*$", texto[max(0, pos - 12):pos], re.IGNORECASE))
+
+
 def parsear_temario_texto_libre(texto):
     """Divide el texto de temario (formato texto libre, sin 'EXPTE.') en
     expedientes [{numero, extracto}], separando por el patrón S-123/25 /
@@ -219,7 +228,7 @@ def parsear_temario_texto_libre(texto):
     texto = _limpiar(texto)
     if not texto:
         return []
-    matches = list(RE_EXP_TOKEN.finditer(texto))
+    matches = [m for m in RE_EXP_TOKEN.finditer(texto) if not _es_referencia(texto, m.start())]
     if not matches:
         return [{"numero": "", "extracto": texto}]
     items = []

@@ -42,6 +42,27 @@ def sembrar(archivo):
     return True
 
 
+def limpiar_referencias():
+    """Quita de data/agenda.json los «temas» falsos que la lectura anterior generó a partir de referencias
+    como «(REF. S-189/23)»: quedaban con el extracto vacío o sólo «)». Los reales siempre tienen texto."""
+    import json
+    ruta = os.path.join(DATA, "agenda.json")
+    if not os.path.exists(ruta):
+        return
+    d = json.load(open(ruta, encoding="utf-8"))
+    lst = d.get("reuniones", []) if isinstance(d, dict) else d
+    quitados = 0
+    for r in lst:
+        t = r.get("temario") or []
+        buenos = [x for x in t if not (x.get("numero") and len((x.get("extracto") or "").strip(" )")) == 0)]
+        if len(buenos) != len(t):
+            quitados += len(t) - len(buenos)
+            r["temario"] = buenos
+    if quitados:
+        json.dump(d, open(ruta, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        print("Limpieza: %d temas falsos (referencias «REF.») quitados de la agenda propia." % quitados)
+
+
 def correr(nombre):
     p = PIEZAS[nombre]
     print("== %s ==" % nombre)
@@ -54,6 +75,8 @@ def correr(nombre):
         r = subprocess.run([sys.executable, os.path.join(HERE, p["script"])], cwd=ROOT)
         if r.returncode != 0:
             print("AVISO  %s terminó con código %d. Se conserva lo anterior." % (p["script"], r.returncode))
+        if nombre == "agenda":
+            limpiar_referencias()
     except Exception as e:
         print("AVISO  No se pudo correr %s (%s). Se conserva lo anterior." % (p["script"], e))
 
