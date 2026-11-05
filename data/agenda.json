@@ -9482,7 +9482,7 @@
       ],
       "expositores": null,
       "tipo": "bicameral",
-      "boletin_id": 2404,
+      "boletin_id": 144,
       "boletin_numero": "144/26"
     },
     {
@@ -9508,7 +9508,7 @@
         },
         {
           "numero": "S-190/25",
-          "extracto": "BENSUSÁN: REPRODUCE PROYECTO DE LEY QUE CREA EL REGISTRO NACIONAL DE PERSONAS DEUDORAS ALIMENTARIAS EN MORA. (REF"
+          "extracto": "BENSUSÁN: REPRODUCE PROYECTO DE LEY QUE CREA EL REGISTRO NACIONAL DE PERSONAS DEUDORAS ALIMENTARIAS EN MORA. (REF. S-9/23)"
         },
         {
           "numero": "S-1723/26",
@@ -9517,7 +9517,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2406,
+      "boletin_id": 145,
       "boletin_numero": "145/26"
     },
     {
@@ -9543,7 +9543,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2403,
+      "boletin_id": 143,
       "boletin_numero": "143/26"
     },
     {
@@ -9574,7 +9574,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2406,
+      "boletin_id": 145,
       "boletin_numero": "145/26"
     },
     {
@@ -9716,7 +9716,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2404,
+      "boletin_id": 144,
       "boletin_numero": "144/26"
     },
     {
@@ -9739,7 +9739,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2403,
+      "boletin_id": 143,
       "boletin_numero": "143/26",
       "suspendida": true
     },
@@ -9770,7 +9770,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2406,
+      "boletin_id": 145,
       "boletin_numero": "145/26"
     },
     {
@@ -9815,7 +9815,7 @@
         },
         {
           "numero": "S-313/25",
-          "extracto": "FAMA: REPRODUCE PROYECTO DE LEY QUE DECLARA CAPITAL NACIONAL DE LA NUEZ, AL CORREDOR CONOCIDO COMO \"RUTA DE LA NUEZ\", CONFORMADO POR DIVERSOS DPTOS. DE LA PROV. DE CATAMARCA. (REF"
+          "extracto": "FAMA: REPRODUCE PROYECTO DE LEY QUE DECLARA CAPITAL NACIONAL DE LA NUEZ, AL CORREDOR CONOCIDO COMO \"RUTA DE LA NUEZ\", CONFORMADO POR DIVERSOS DPTOS. DE LA PROV. DE CATAMARCA. (REF. S-189/23)"
         },
         {
           "numero": "S-116/26",
@@ -9875,7 +9875,7 @@
         },
         {
           "numero": "S-1042/26",
-          "extracto": "ABDALA: REPRODUCE PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERÉS LA PUESTA EN MARCHA DEL PROYECTO AUDIOVISUAL \"ME LLAMARON PANCHA\", IDEADO POR CARLOS J. ORTEGA, QUE SE BASA EN LA VIDA DE FRANCISCA \"PANCHA\" HERNÁNDEZ, DE LA PROV. DE SAN LUIS (REF"
+          "extracto": "ABDALA: REPRODUCE PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERÉS LA PUESTA EN MARCHA DEL PROYECTO AUDIOVISUAL \"ME LLAMARON PANCHA\", IDEADO POR CARLOS J. ORTEGA, QUE SE BASA EN LA VIDA DE FRANCISCA \"PANCHA\" HERNÁNDEZ, DE LA PROV. DE SAN LUIS (REF. S-2148/24)"
         },
         {
           "numero": "S-1066/26",
@@ -10132,7 +10132,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2406,
+      "boletin_id": 145,
       "boletin_numero": "145/26"
     },
     {
@@ -10155,7 +10155,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2404,
+      "boletin_id": 144,
       "boletin_numero": "144/26"
     },
     {
@@ -10182,7 +10182,7 @@
       ],
       "expositores": "ALEJANDRO CACACE – SECRETARIO DE DESREGULACIÓN DEL MINISTERIO DE DESREGULACIÓN Y TRANSFORMACIÓN DEL ESTADO. PABLO AGUSTÍN LAVIGNE – SECRETARIO DE COORDINACIÓN DE PRODUCCIÓN DEL MINISTERIO DE ECONOMÍA DE LA NACIÓN. MARIEL GABUR – MINISTRA DE INDUSTRIA, TRABAJO Y COMERCIO DE LA PROVINCIA DE CORRIENTES. JOSÉ PABLO ELVERDIN – EN REPRESENTACIÓN DE LA FEDERACIÓN DE EMPRESAS NAVIERAS ARGENTINAS (FENA). JORGE PABLO TIRAVASSI – EN REPRESENTACIÓN DE LA FEDERACIÓN SINDICAL MARÍTIMA Y FLUVIAL (FESIMAF). CLAUDIA PEIRANO – DIRECTORA DE DESARROLLO INSTITUCIONAL DE LA ASOCIACIÓN FORESTAL ARGENTINA (AFOA). SERGIO ESTEBAN BOCCADORO – DIRECTOR FINANCIERO (CFO) DE ACONTIMBER Y VICEPRESIDENTE DE LA SOCIEDAD. DIEGO AZQUETA SECCO – DIRECTOR DE INTERBARGE. ALEJANDRA ARANDA – RESPONSABLE DE ARPULP. ADOLFO ESCOBAR DAMUS – DIRECTOR DE TRANSPORTE FLUVIAL Y PUERTOS DE LA PROVINCIA DE CORRIENTES. (PARTICIPACIÓN POR ZOOM).",
       "tipo": "senadores",
-      "boletin_id": 2406,
+      "boletin_id": 145,
       "boletin_numero": "145/26"
     },
     {
@@ -10205,7 +10205,7 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2406,
+      "boletin_id": 145,
       "boletin_numero": "145/26"
     },
     {
@@ -10227,8 +10227,8 @@
       ],
       "expositores": null,
       "tipo": "bicameral",
-      "boletin_id": 2410,
-      "boletin_numero": "149/26"
+      "boletin_id": 150,
+      "boletin_numero": "150/26"
     },
     {
       "seccion": "senadores",
@@ -10305,8 +10305,8 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2410,
-      "boletin_numero": "149/26"
+      "boletin_id": 150,
+      "boletin_numero": "150/26"
     },
     {
       "seccion": "senadores",
@@ -10336,8 +10336,8 @@
       ],
       "expositores": null,
       "tipo": "senadores",
-      "boletin_id": 2410,
-      "boletin_numero": "149/26"
+      "boletin_id": 150,
+      "boletin_numero": "150/26"
     },
     {
       "seccion": "senadores",
@@ -10358,8 +10358,269 @@
       ],
       "expositores": null,
       "tipo": "bicameral",
-      "boletin_id": 2410,
-      "boletin_numero": "149/26"
+      "boletin_id": 151,
+      "boletin_numero": "151/26"
+    },
+    {
+      "seccion": "senadores",
+      "dia": "MIÉRCOLES",
+      "fecha": "04/11",
+      "hora": "14:00",
+      "modalidad": "",
+      "comisiones": [
+        "DEPORTE"
+      ],
+      "salon": "ILLIA",
+      "salon_completo": "SALÓN ILLIA",
+      "temario": [
+        {
+          "numero": "CD-17/26",
+          "extracto": "PROYECTO DE LEY EN REVISIÓN QUE DISPONE LA OBLIGATORIEDAD DE MEDIDAS DE SEGURIDAD EN DEPORTE Y ACTIVIDADES RECREATIVAS \"LEY JOAQUÍN\""
+        }
+      ],
+      "expositores": null,
+      "tipo": "senadores",
+      "boletin_id": 150,
+      "boletin_numero": "150/26"
+    },
+    {
+      "seccion": "senadores",
+      "dia": "JUEVES",
+      "fecha": "05/11",
+      "hora": "14:00",
+      "modalidad": "",
+      "comisiones": [
+        "BICAMERAL DE REFORMA DEL ESTADO Y DEL SEGUIMIENTO DE LAS",
+        "PRIVATIZACIONES - LEY 23.696"
+      ],
+      "salon": "MAYA",
+      "salon_completo": "SALÓN MAYA",
+      "temario": [
+        {
+          "numero": "",
+          "extracto": "COMUNICACIÓN DE NOTAS INGRESADAS A LA COMISIÓN Y DEFINICIÓN DE AGENDA DE TRABAJO."
+        }
+      ],
+      "expositores": null,
+      "tipo": "bicameral",
+      "boletin_id": 151,
+      "boletin_numero": "151/26"
+    },
+    {
+      "seccion": "senadores",
+      "dia": "MARTES",
+      "fecha": "17/11",
+      "hora": "14:00",
+      "modalidad": "",
+      "comisiones": [
+        "ACUERDOS - AUDIENCIA PÚBLICA"
+      ],
+      "salon": "AZUL",
+      "salon_completo": "SALÓN AZUL",
+      "temario": [
+        {
+          "numero": "PE-220/26",
+          "extracto": "MENSAJE N° 209/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DEL JUZGADO NACIONAL DE PRIMERA INSTANCIA EN LO CONTENCIOSO ADMINISTRATIVO FEDERAL N° 7 DE LA CAPITAL FEDERAL, AL DR. LEONARDO MARCO TOIA"
+        },
+        {
+          "numero": "PE-236/26",
+          "extracto": "MENSAJE N° 221/26 QUE SOLICITA ACUERDO PARA DESIGNAR CONJUECES DE LOS TRIBUNALES ORALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL: DR. MARTÍN JOSÉ ADROGUE. DRA. SOFÍA CHIAMBRETTO. DR. GUIDO DAMIÁN CRESTA. DRA. LUCÍA INÉS GALLAGHER CAMPOS. DR. DAVID GABRIEL MANGIAFICO. DR. FEDERICO MARTÍN MERCADER. DR. HORACIO ALFREDO PEIX. DRA. ANDREA PAOLA SANTOS"
+        },
+        {
+          "numero": "PE-248/26",
+          "extracto": "MENSAJE N° 227/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSORA PÚBLICA DE MENORES E INCAPACES ANTE LOS TRIBUNALES ORALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, DEFENSORÍA N° 3, A LA DRA. CAROLINA MORALES DEGANUT"
+        },
+        {
+          "numero": "PE-263/26",
+          "extracto": "MENSAJE N° 244/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSORA PÚBLICA OFICIAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL Y ANTE LA CÁMARA NACIONAL DE APELACIONES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, DEFENSORÍA N° 12, A LA DRA. MARÍA LUCRECIA SAMMARTINO"
+        },
+        {
+          "numero": "PE-264/26",
+          "extracto": "MENSAJE N° 245/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSORA AUXILIAR DE LA DEFENSORÍA GENERAL DE LA NACIÓN, A LA DRA. ROMINA SOLEDAD PARABONI"
+        },
+        {
+          "numero": "PE-265/26",
+          "extracto": "MENSAJE N° 246/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DE CÁMARA DEL TRIBUNAL ORAL EN LO PENAL ECONÓMICO N° 2 DE LA CAPITAL FEDERAL, AL DR. FEDERICO JOSÉ IUSPA"
+        },
+        {
+          "numero": "PE-266/26",
+          "extracto": "MENSAJE N° 247/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DE CÁMARA DEL TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL N° 30 DE LA CAPITAL FEDERAL, AL DR. ARIEL ALEJANDRO VILAR"
+        },
+        {
+          "numero": "PE-267/26",
+          "extracto": "MENSAJE N° 248/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZA DEL JUZGADO FEDERAL DE PRIMERA INSTANCIA DE LA SEGURIDAD SOCIAL N° 6 DE LA CAPITAL FEDERAL, A LA DRA. VALERIA ALICIA BERTOLINI"
+        },
+        {
+          "numero": "PE-268/26",
+          "extracto": "MENSAJE N° 249/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZA DEL JUZGADO FEDERAL DE PRIMERA INSTANCIA DE LA SEGURIDAD SOCIAL N° 8 DE LA CAPITAL FEDERAL, A LA DRA. MARÍA DE LOS ÁNGELES SAPIN"
+        },
+        {
+          "numero": "PE-277/26",
+          "extracto": "MENSAJE N° 253/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DE CÁMARA DEL TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL N° 5 DE LA CAPITAL FEDERAL, AL DR. JUAN CARLOS BERNIAL"
+        },
+        {
+          "numero": "PE-278/26",
+          "extracto": "MENSAJE N° 254/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZA DE CÁMARA DEL TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL N° 30 DE LA CAPITAL FEDERAL, A LA DRA. ROMINA MONTELEONE"
+        },
+        {
+          "numero": "PE-279/26",
+          "extracto": "MENSAJE N° 255/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DE CÁMARA DEL TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL N° 10 DE LA CAPITAL FEDERAL, AL DR. SIXTO MIHURA GRADIN"
+        },
+        {
+          "numero": "PE-282/26",
+          "extracto": "MENSAJE N° 256/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DEL JUZGADO FEDERAL DE PRIMERA INSTANCIA N° 1 DE SAN NICOLÁS, PROVINCIA DE BUENOS AIRES, AL DR. LUCIANO CRUZ SAVIGNANO"
+        },
+        {
+          "numero": "PE-283/26",
+          "extracto": "MENSAJE N° 257/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSORA PÚBLICA DE MENORES E INCAPACES ANTE LOS TRIBUNALES ORALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, DEFENSORÍA N° 2, A LA DRA. NATALIA EDA BONINO"
+        },
+        {
+          "numero": "PE-286/26",
+          "extracto": "MENSAJE N° 260/26 QUE SOLICITA ACUERDO PARA DESIGNAR VOCAL DE LA CÁMARA NACIONAL DE APELACIONES DEL TRABAJO DE LA CAPITAL FEDERAL, SALA IX, AL DR. MATÍAS SEBASTIÁN MORENO ESPEJA"
+        },
+        {
+          "numero": "PE-291/26",
+          "extracto": "MENSAJE N° 265/26 QUE SOLICITA ACUERDO PARA DESIGNAR VOCAL DE LA CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL DE LA CAPITAL FEDERAL, SALA III, A LA DRA. SOFÍA INÉS HERNÁNDEZ SAINT JEAN"
+        },
+        {
+          "numero": "PE-300/26",
+          "extracto": "MENSAJE N° 269/26 QUE SOLICITA ACUERDO PARA DESIGNAR VOCAL DE LA CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL DE LA CAPITAL FEDERAL, SALA II, AL DR. ALEJANDRO JORGE NOBILI"
+        },
+        {
+          "numero": "PE-301/26",
+          "extracto": "MENSAJE N° 270/26 QUE SOLICITA ACUERDO PARA DESIGNAR VOCAL DE LA CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL DE LA CAPITAL FEDERAL, SALA III, AL DR. CAMILO JORGE ALMEIDA PONS"
+        },
+        {
+          "numero": "PE-302/26",
+          "extracto": "MENSAJE N° 271/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DE CÁMARA DEL TRIBUNAL ORAL EN LO CRIMINAL Y CORRECCIONAL N° 26 DE LA CAPITAL FEDERAL, AL DR. EDUARDO ANÍBAL AGUAYO"
+        },
+        {
+          "numero": "PE-303/26",
+          "extracto": "MENSAJE N° 272/26 QUE SOLICITA ACUERDO PARA DESIGNAR VOCAL DE LA CÁMARA NACIONAL DE APELACIONES DEL TRABAJO DE LA CAPITAL FEDERAL, SALA VIII, A LA DRA. ROSALÍA ROMERO"
+        },
+        {
+          "numero": "PE-249/26",
+          "extracto": "MENSAJE N° 228/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSOR PÚBLICO DE VÍCTIMA CON ASIENTO EN LA PROVINCIA DE MENDOZA, AL DR. SANTIAGO BAHAMONDES"
+        },
+        {
+          "numero": "PE-250/26",
+          "extracto": "MENSAJE N° 229/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 18, AL DR. EDUARDO MIGUEL ROCCHI"
+        },
+        {
+          "numero": "PE-251/26",
+          "extracto": "MENSAJE N° 230/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 53, AL DR. FACUNDO JESÚS SORIANO"
+        },
+        {
+          "numero": "PE-252/26",
+          "extracto": "MENSAJE N° 231/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 38, AL DR. GUSTAVO AMELOTTI"
+        },
+        {
+          "numero": "PE-253/26",
+          "extracto": "MENSAJE N° 232/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 11, AL DR. SEBASTIÁN EDUARDO MARTÍNEZ"
+        },
+        {
+          "numero": "PE-254/26",
+          "extracto": "MENSAJE N° 233/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 60, AL DR. GABRIEL ESTEBAN PARAMOS"
+        },
+        {
+          "numero": "PE-255/26",
+          "extracto": "MENSAJE N° 234/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 55, A LA DRA. ALEJANDRA LEONOR PÉREZ"
+        },
+        {
+          "numero": "PE-256/26",
+          "extracto": "MENSAJE N° 235/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 49, A LA DRA. MARÍA NOEL FERNÁNDEZ RIVERA"
+        },
+        {
+          "numero": "PE-257/26",
+          "extracto": "MENSAJE N° 238/26 QUE SOLICITA ACUERDO PARA DESIGNAR VOCAL DE LA CÁMARA NACIONAL DE APELACIONES EN LO COMERCIAL DE LA CAPITAL FEDERAL, SALA E, AL DR. FERNANDO GABRIEL D’ALESSANDRO"
+        },
+        {
+          "numero": "PE-258/26",
+          "extracto": "MENSAJE N° 239/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE LOS JUZGADOS NACIONALES EN LO CRIMINAL Y CORRECCIONAL DE LA CAPITAL FEDERAL, FISCALÍA N° 45, A LA DRA. DANIELA ROMINA PART"
+        },
+        {
+          "numero": "PE-259/26",
+          "extracto": "MENSAJE N° 240/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL ANTE EL JUZGADO FEDERAL DE PRIMERA INSTANCIA EN LO CIVIL, COMERCIAL Y CONTENCIOSO ADMINISTRATIVO DE POSADAS, PROVINCIA DE MISIONES, FISCALÍA N° 2, AL DR. ARLINDO OTTO KURTZ"
+        },
+        {
+          "numero": "PE-261/26",
+          "extracto": "MENSAJE N° 242/26 QUE SOLICITA ACUERDO A FIN DE POSIBILITAR UN NUEVO NOMBRAMIENTO DEL FISCAL GENERAL ANTE LOS TRIBUNALES ORALES DE MENORES DE LA CAPITAL FEDERAL, FISCALÍA N° 2, A LA DRA. SUSANA MARTA PERNAS"
+        }
+      ],
+      "expositores": null,
+      "tipo": "senadores",
+      "boletin_id": 151,
+      "boletin_numero": "151/26"
+    },
+    {
+      "seccion": "senadores",
+      "dia": "MIÉRCOLES",
+      "fecha": "18/11",
+      "hora": "10:00",
+      "modalidad": "",
+      "comisiones": [
+        "ACUERDOS - AUDIENCIA PÚBLICA"
+      ],
+      "salon": "AZUL",
+      "salon_completo": "SALÓN AZUL",
+      "temario": [
+        {
+          "numero": "PE-237/26",
+          "extracto": "MENSAJE N° 222/26 QUE SOLICITA ACUERDO PARA DESIGNAR CONJUECES DE LOS JUZGADOS NACIONALES DE PRIMERA INSTANCIA DEL TRABAJO DE LA JURISDICCIÓN DE LA CÁMARA NACIONAL DE APELACIONES DEL TRABAJO DE LA CAPITAL FEDERAL: DRA. NATALIA BEATRIZ CAVIGLIA. DR. MARIANO GASTÓN PIACENTI. DRA. ALEJANDRA GARCIA. DR. ROBERTO OSCAR COPERTARI. DR. OSVALDO JAVIER DE UGARTE. DR. ALBERTO CÉSAR VEGA. DR. IGNACIO HERMIDA. DR. CHRISTIAN GABRIEL APARICIO. DR. PABLO ALBERTO GASQUET"
+        },
+        {
+          "numero": "PE-260/26",
+          "extracto": "MENSAJE N° 241/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL FEDERAL DE LA SEDE FISCAL DESCENTRALIZADA DE CALETA OLIVIA, PROVINCIA DE SANTA CRUZ, AL DR. LUCAS ALBERTO COLLA"
+        },
+        {
+          "numero": "PE-262/26",
+          "extracto": "MENSAJE N° 243/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ PENAL FEDERAL DEL JUZGADO FEDERAL DE GARANTÍAS CON ASIENTO EN LA CIUDAD DE SAN LORENZO, PROVINCIA DE SANTA FE, AL DR. EMILIANO PEDRO MÉNDEZ ORTIZ"
+        },
+        {
+          "numero": "PE-269/26",
+          "extracto": "MENSAJE N° 250/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ PENAL FEDERAL DEL JUZGADO FEDERAL DE GARANTÍAS CON ASIENTO EN LA CIUDAD DE ROSARIO, PROVINCIA DE SANTA FE, AL DR. FRANCO MARIANO CARBONE"
+        },
+        {
+          "numero": "PE-284/26",
+          "extracto": "MENSAJE N° 258/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZA PENAL FEDERAL DEL JUZGADO FEDERAL DE GARANTÍAS CON ASIENTO EN LA CIUDAD DE SANTA FE, PROVINCIA DE SANTA FE, A LA DRA. VANESA NATALIA DRUETTA"
+        },
+        {
+          "numero": "PE-285/26",
+          "extracto": "MENSAJE N° 259/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSORA PÚBLICA DE VÍCTIMA CON ASIENTO EN LA PROVINCIA DE CÓRDOBA, A LA DRA. BERENICE OLMEDO"
+        },
+        {
+          "numero": "PE-287/26",
+          "extracto": "MENSAJE N° 261/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DEL TRIBUNAL FEDERAL DE JUICIO DE RESISTENCIA, PROVINCIA DEL CHACO, AL DR. JUAN MATEO DIJOU"
+        },
+        {
+          "numero": "PE-288/26",
+          "extracto": "MENSAJE N° 262/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ PENAL FEDERAL DEL JUZGADO FEDERAL DE GARANTÍAS CON ASIENTO EN LA CIUDAD DE VENADO TUERTO, PROVINCIA DE SANTA FE, AL DR. MARIANO JAVIER CAMBLONG"
+        },
+        {
+          "numero": "PE-289/26",
+          "extracto": "MENSAJE N° 263/26 QUE SOLICITA ACUERDO PARA DESIGNAR FISCAL GENERAL DE LA UNIDAD FISCAL SAN LUIS, PROVINCIA DE SAN LUIS, AL DR. FEDERICO MIGUEL BAQUIONI"
+        },
+        {
+          "numero": "PE-290/26",
+          "extracto": "MENSAJE N° 264/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ DEL TRIBUNAL FEDERAL DE JUICIO DE NEUQUÉN, PROVINCIA DEL NEUQUÉN, AL DR. JUAN MANUEL KEES"
+        },
+        {
+          "numero": "PE-292/26",
+          "extracto": "MENSAJE N° 266/26 QUE SOLICITA ACUERDO PARA DESIGNAR DEFENSORA PÚBLICA DE VÍCTIMA CON ASIENTO EN LA PROVINCIA DE LA RIOJA, A LA DRA. MARÍA JULIETA IBÁÑEZ ARRIETA"
+        },
+        {
+          "numero": "PE-293/26",
+          "extracto": "MENSAJE N° 267/26 QUE SOLICITA ACUERDO PARA DESIGNAR CONJUECES DE LOS JUZGADOS NACIONALES DE PRIMERA INSTANCIA DEL TRABAJO DE LA JURISDICCIÓN DE LA CÁMARA NACIONAL DE APELACIONES DEL TRABAJO DE LA CAPITAL FEDERAL: DRA. NORMA ALEJANDRA BENÍTEZ. DRA. MARÍA VIRGINIA CHEDRESE. DRA. MARÍA VICTORIA COSENTINO. DR. ALEJANDRO ESTEBAN DANUSSI. DRA. GABRIELA ANDREA DONADIO. DRA. MARÍA XIMENA FERNÁNDEZ BARONE. DRA. MIRNA LORENA MARTÍNEZ. DR. JUAN MARTÍN SEGURA. DR. LUCIANO VIDAL MAURIZ. DR. LUCAS HERNÁN PALLA. DRA. MARÍA ROXANA HENRÍQUES. DR. FEDERICO PABLO AGÜERO URQUIZA. DR. FERNANDO GUZMÁN. DR. HÉCTOR DAVID RODRÍGUEZ"
+        },
+        {
+          "numero": "PE-304/26",
+          "extracto": "MENSAJE N° 273/26 QUE SOLICITA ACUERDO PARA DESIGNAR JUEZ PENAL FEDERAL DEL JUZGADO FEDERAL DE GARANTÍAS CON ASIENTO EN LA CIUDAD DE RAFAELA, PROVINCIA DE SANTA FE, AL DR. GUIDO YERCOVICH"
+        }
+      ],
+      "expositores": null,
+      "tipo": "senadores",
+      "boletin_id": 151,
+      "boletin_numero": "151/26"
     }
   ]
 }
