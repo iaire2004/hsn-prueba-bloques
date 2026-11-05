@@ -127,6 +127,30 @@ def comparar_agenda_od(avisos):
             avisos.append("Órdenes del día distintas (sólo propias: %d / sólo fuente: %d)" % (len(a - b), len(b - a)))
 
 
+def comparar_proyectos(avisos):
+    """Modo sombra: compara los proyectos propios (leídos del Senado) con los de la fuente.
+    Avisa los que están de un lado y no del otro, y diferencias de estado en los que están en ambos."""
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fuente = os.environ.get("HSN_SOURCE", os.path.join(raiz, "source"))
+    try:
+        propios = json.load(open(os.path.join(raiz, "data", "proyectos.json"), encoding="utf-8"))
+        ajenos = json.load(open(os.path.join(fuente, "data", "proyectos.json"), encoding="utf-8"))
+    except Exception:
+        return
+    k = lambda p: (p.get("origen"), p.get("nro"), p.get("anio"), p.get("tipo"))
+    a = {k(p): p for p in propios}
+    b = {k(p): p for p in ajenos}
+    solo_a, solo_b = set(a) - set(b), set(b) - set(a)
+    if solo_a or solo_b:
+        avisos.append("Proyectos: sólo en la lectura propia %d / sólo en la fuente %d" % (len(solo_a), len(solo_b)))
+        for x in sorted(solo_b, key=str)[:5]:
+            avisos.append("  falta en la lectura propia: %s %s/%s %s" % (x[0], x[1], x[2], x[3]))
+    for campo in ("archivado", "sancionado", "fecha", "bloques"):
+        n = sum(1 for x in set(a) & set(b) if a[x].get(campo) != b[x].get(campo))
+        if n:
+            avisos.append("Proyectos: %d con '%s' distinto entre la lectura propia y la fuente" % (n, campo))
+
+
 def main():
     graves, avisos = [], []
     slugs = sorted(d for d in os.listdir(OUT) if os.path.isfile(os.path.join(OUT, d, "index.html"))
@@ -169,6 +193,7 @@ def main():
     cruce_actas(avisos, en_pag, apr_pag)
     comparar_comisiones(avisos)
     comparar_agenda_od(avisos)
+    comparar_proyectos(avisos)
     for a in avisos:
         print("AVISO  " + a)
     for g in graves:
