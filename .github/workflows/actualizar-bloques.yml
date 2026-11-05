@@ -62,6 +62,7 @@ jobs:
         env:
           HSN_SOURCE: source
           HSN_OUT: .
+          BASE_URL: https://iaire2004.github.io/hsn-prueba-bloques/
         run: python scripts/generar_bloques.py
 
       # Chequeos de cordura: si hay algo grave (bloque sin senadores, caída fuerte de proyectos,
