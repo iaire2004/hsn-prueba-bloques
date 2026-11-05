@@ -2328,7 +2328,179 @@
   },
   {
     "nombre": "Banca de la Mujer",
-    "cupo": 0,
-    "miembros": []
+    "cupo": 34,
+    "miembros": [
+      {
+        "nombre": "MARKS, Ana Inés",
+        "bloque": "JUSTICIALISTA",
+        "rol": "Presidente"
+      },
+      {
+        "nombre": "VALENZUELA, Mercedes Gabriela",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": "Vicepresidente"
+      },
+      {
+        "nombre": "ALMEIDA, Romina María",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ALVAREZ RIVERO, Carmen",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ARRASCAETA, Ivanna Marcela",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "AVILA, Beatriz Luisa",
+        "bloque": "INDEPENDENCIA",
+        "rol": ""
+      },
+      {
+        "nombre": "BEDIA, Vilma Facunda",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "BULLRICH, Patricia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORPACCI, Lucía Benigna",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "CORROZA, Julieta",
+        "bloque": "LA NEUQUINIDAD",
+        "rol": ""
+      },
+      {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "DI TULLIO, Juliana",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "FERNÁNDEZ SAGASTI, Anabel",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GADANO, Natalia Elena",
+        "bloque": "MOVERE POR SANTA CRUZ",
+        "rol": ""
+      },
+      {
+        "nombre": "GIMÉNEZ NAVARRO, María Celeste",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "GONZÁLEZ, María Teresa Margarita",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "HUALA, María Victoria",
+        "bloque": "FRENTE PRO",
+        "rol": ""
+      },
+      {
+        "nombre": "JURI, Mariana",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "KIRCHNER, Alicia Margarita Antonia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, Cándida Cristina",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LÓPEZ, María Florencia",
+        "bloque": "JUSTICIALISTA",
+        "rol": ""
+      },
+      {
+        "nombre": "LOSADA, Carolina",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MÁRQUEZ, Nadia Judith",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MENDOZA, Sandra Mariela",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MOISES, María Carolina",
+        "bloque": "CONVICCIÓN FEDERAL",
+        "rol": ""
+      },
+      {
+        "nombre": "MONTE DE OCA, María Belén",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "MORENO, Elia Esther Del Carmen",
+        "bloque": "FRENTE CÍVICO POR SANTIAGO",
+        "rol": ""
+      },
+      {
+        "nombre": "OROZCO, María Emilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      },
+      {
+        "nombre": "ROJAS DECUT, Sonia Elizabeth",
+        "bloque": "MOVIMIENTO POR MISIONES",
+        "rol": ""
+      },
+      {
+        "nombre": "ROYÓN, Flavia Gabriela",
+        "bloque": "PRIMERO LOS SALTEÑOS",
+        "rol": ""
+      },
+      {
+        "nombre": "SCHNEIDER, Silvana Lorena",
+        "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+        "rol": ""
+      },
+      {
+        "nombre": "TERENZI, Edith Elizabeth",
+        "bloque": "DESPIERTA CHUBUT",
+        "rol": ""
+      },
+      {
+        "nombre": "VIGO, Alejandra María",
+        "bloque": "PROVINCIAS UNIDAS",
+        "rol": ""
+      },
+      {
+        "nombre": "LOPEZ, Claudia Cecilia",
+        "bloque": "LA LIBERTAD AVANZA",
+        "rol": ""
+      }
+    ],
+    "fuente": "senado"
   }
 ]
