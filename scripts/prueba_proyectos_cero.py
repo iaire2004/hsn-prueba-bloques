@@ -9,10 +9,13 @@ Variables: PRUEBA_DESDE (DD/MM/AAAA, 01/01/2026 por defecto).
 """
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
+import time
+from datetime import datetime, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -39,30 +42,60 @@ def en_periodo(p):
     return str(p.get("anio")) == ANIO
 
 
+def ventanas():
+    """Tramos de ~30 días desde DESDE hasta hoy (la búsqueda del Senado se hace por fecha de Mesa de Entradas)."""
+    d, m, a = (int(x) for x in DESDE.split("/"))
+    ini = datetime(a, m, d)
+    hoy = datetime.now()
+    out = []
+    while ini <= hoy:
+        fin = min(ini + timedelta(days=29), hoy)
+        out.append((ini, fin))
+        ini = fin + timedelta(days=1)
+    return out
+
+
 def main():
     tmp = tempfile.mkdtemp(prefix="cero_proy_")
     os.makedirs(os.path.join(tmp, "scripts"))
     os.makedirs(os.path.join(tmp, "data"))
     for f in ("scraper_proyectos.py", "autoria_caratula.py"):
         shutil.copy(os.path.join(HERE, f), os.path.join(tmp, "scripts", f))
+    # copia de trabajo del scraper: permite fijar también el FIN de la ventana (FECHA_HASTA)
+    ruta = os.path.join(tmp, "scripts", "scraper_proyectos.py")
+    codigo = open(ruta, encoding="utf-8").read()
+    marca = "    hoy = datetime.now()\n    if FECHA_DESDE_FIJA:"
+    if marca in codigo:
+        codigo = codigo.replace(
+            marca,
+            "    hoy = datetime.now()\n    if os.getenv('FECHA_HASTA'):\n"
+            "        hoy = datetime.strptime(os.getenv('FECHA_HASTA'), '%d/%m/%Y')\n    if FECHA_DESDE_FIJA:", 1)
+        open(ruta, "w", encoding="utf-8").write(codigo)
+    else:
+        print("AVISO  No se pudo preparar la ventana por tramos; se busca todo de una vez.")
     sen = os.path.join(DATA, "senadores.json")
     if os.path.exists(sen):
         shutil.copy(sen, os.path.join(tmp, "data", "senadores.json"))
-    env = dict(os.environ, FECHA_DESDE=DESDE, LOTE_REVISION="0")
-    log = os.path.join(tmp, "corrida.log")
-    print("Prueba desde cero de proyectos: buscando desde %s (puede tardar bastante)..." % DESDE)
-    try:
-        with open(log, "w") as fh:
-            r = subprocess.run([sys.executable, os.path.join(tmp, "scripts", "scraper_proyectos.py")],
-                               cwd=tmp, env=env, stdout=fh, stderr=subprocess.STDOUT)
-        rc = r.returncode
-    except Exception as e:
-        print("AVISO  No se pudo correr: %s" % e)
-        return 0
-    try:
-        print("".join(open(log, encoding="utf-8", errors="replace").readlines()[-6:]))
-    except Exception:
-        pass
+    print("Prueba desde cero de proyectos: buscando desde %s por tramos de 30 días (puede tardar bastante)..." % DESDE)
+    rc = 0
+    for ini, fin in ventanas():
+        env = dict(os.environ, FECHA_DESDE=ini.strftime("%d/%m/%Y"), FECHA_HASTA=fin.strftime("%d/%m/%Y"),
+                   LOTE_REVISION="0")
+        log = os.path.join(tmp, "corrida.log")
+        try:
+            with open(log, "w") as fh:
+                r = subprocess.run([sys.executable, ruta], cwd=tmp, env=env, stdout=fh, stderr=subprocess.STDOUT)
+            rc = r.returncode or rc
+        except Exception as e:
+            print("AVISO  No se pudo correr el tramo %s: %s" % (ini.strftime("%d/%m/%Y"), e))
+            rc = 1
+            continue
+        lineas = open(log, encoding="utf-8", errors="replace").read().splitlines()
+        clave_l = [l for l in lineas if re.search(r"ERROR|Error|WARNING|expedientes en total|nuevos a procesar|TOTAL en", l)]
+        print("--- tramo %s a %s ---" % (ini.strftime("%d/%m/%Y"), fin.strftime("%d/%m/%Y")))
+        for l in clave_l[-8:]:
+            print("   ", l[:220])
+        time.sleep(2)
     try:
         cero = json.load(open(os.path.join(tmp, "data", "proyectos.json"), encoding="utf-8"))
         propios = json.load(open(os.path.join(DATA, "proyectos.json"), encoding="utf-8"))
