@@ -46,7 +46,14 @@ def reuniones(d):
 
 
 def fechas(claves):
-    f = sorted(k[0] for k in claves if k[0])
+    """Rango de fechas (las del boletín vienen como dd/mm, sin año): se ordena por mes y día."""
+    def orden(f):
+        try:
+            d, m = f.split("/")[:2]
+            return (int(m), int(d))
+        except Exception:
+            return (99, 99)
+    f = sorted((k[0] for k in claves if k[0]), key=orden)
     return (f[0], f[-1]) if f else ("-", "-")
 
 
@@ -78,6 +85,8 @@ def agenda():
     print("Desde cero: %d reuniones (fechas %s a %s)" % ((len(a),) + fechas(a)))
     print("En data/ (sembrado): %d reuniones (fechas %s a %s)" % ((len(b),) + fechas(b)))
     print("Faltan desde cero: %d | Sobran desde cero: %d" % (len(b - a), len(a - b)))
+    for k in sorted(a - b):
+        print("  sólo desde cero: %s %s %s" % k)
     print("RESULTADO: %s" % ("INDEPENDIENTE (coincide)" if a == b else
                              "el historial anterior NO se reconstruye solo; se necesita la base sembrada"))
     shutil.rmtree(tmp, ignore_errors=True)
