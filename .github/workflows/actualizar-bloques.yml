@@ -7,6 +7,10 @@ on:
         description: "Correr también la prueba desde cero (agenda y OD; tarda unos 3 minutos más)"
         type: boolean
         default: false
+      prueba_proyectos:
+        description: "Prueba desde cero de PROYECTOS 2026 (tarda 1-2 horas)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -80,6 +84,12 @@ jobs:
         if: ${{ inputs.prueba_completa }}
         continue-on-error: true
         run: python scripts/prueba_desde_cero.py
+
+      - name: Prueba desde cero (proyectos, solo del Senado)
+        if: ${{ inputs.prueba_proyectos }}
+        continue-on-error: true
+        timeout-minutes: 300
+        run: python scripts/prueba_proyectos_cero.py
 
       - name: Generar páginas por bloque
         env:
