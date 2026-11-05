@@ -662,13 +662,25 @@ def guardar_json(path, data):
     json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 
 
+def orden_boletin(numero, bid):
+    """Clave para ORDENAR boletines del más viejo al más nuevo: (año, número) del «N° 149/26».
+    Se usa el número y no el id interno porque el Senado cambió el formato de los ids: hasta el
+    boletín 149/26 eran del estilo 2410, y desde el 150/26 el id es el propio número (150, 151…),
+    por lo que ordenar o filtrar por id dejaba afuera los boletines nuevos."""
+    import re as _re
+    m = _re.search(r"(\d+)\s*/\s*(\d+)", numero or "")
+    if m:
+        return (int(m.group(2)), int(m.group(1)))
+    return (0, bid or 0)
+
+
 def clave_reunion(r):
     # No incluye 'tipo': si una corrección de clasificación cambia el tipo de
     # una reunión ya guardada, debe reemplazarla en vez de duplicarla.
     return (r.get("fecha", ""), r.get("hora", ""), tuple(r.get("comisiones", [])))
 
 
-def marcar_suspendidas(reuniones_acum, reuniones_del_boletin, bid):
+def marcar_suspendidas(reuniones_acum, reuniones_del_boletin, bid, orden_nuevo=None):
     """Si este boletín trae reuniones para una fecha X, es la versión vigente
     de la agenda para esa fecha: cualquier reunión ya acumulada (de un
     boletín anterior) para esa misma fecha que NO reaparezca acá se considera
@@ -677,6 +689,8 @@ def marcar_suspendidas(reuniones_acum, reuniones_del_boletin, bid):
     por la versión fresca (sin el flag) — vuelve a quedar vigente sola.
     No distingue "suspendida" de "reprogramada a otra fecha/hora": ambas se
     ven igual desde este único boletín (desaparece de su fecha original)."""
+    if orden_nuevo is None:
+        orden_nuevo = (0, bid)
     fechas_bol = {r["fecha"] for r in reuniones_del_boletin if r.get("fecha")}
     if not fechas_bol:
         return 0
@@ -685,7 +699,7 @@ def marcar_suspendidas(reuniones_acum, reuniones_del_boletin, bid):
     for r in reuniones_acum:
         if r.get("fecha") not in fechas_bol:
             continue
-        if r.get("boletin_id", 0) >= bid:
+        if orden_boletin(r.get("boletin_numero"), r.get("boletin_id", 0)) >= orden_nuevo:
             continue
         if clave_reunion(r) in claves_bol:
             continue
@@ -732,13 +746,15 @@ def main():
                         f"degradada del sitio — reintentando en 20s...")
             time.sleep(20)
 
-    nuevos = [b for b in boletines if b["id"] > ultimo_id and b["id"] not in procesados]
+    # Se procesa todo boletín que todavía no se haya leído (no sólo los de id mayor al último:
+    # desde el 150/26 los ids nuevos son chicos y quedaban afuera).
+    nuevos = [b for b in boletines if b["id"] not in procesados]
     log.info(f"  → {len(boletines)} boletines listados, {len(nuevos)} nuevos (último_id={ultimo_id})")
 
     nuevas_reuniones = 0
     max_id = ultimo_id
     # Procesar de menor a mayor para que el más nuevo prevalezca en duplicados
-    for bol in sorted(nuevos, key=lambda b: b["id"]):
+    for bol in sorted(nuevos, key=lambda b: orden_boletin(b["numero"], b["id"])):
         bid = bol["id"]
         log.info(f"  Boletín id={bid} (N° {bol['numero']})")
         try:
@@ -746,7 +762,7 @@ def main():
             reuniones, texto = parsear_boletin(contenido, comisiones_norm)
             numero_pdf = extraer_numero_boletin(texto) or bol["numero"]
             log.info(f"    → {len(reuniones)} reunión(es)")
-            marcadas = marcar_suspendidas(reuniones_acum, reuniones, bid)
+            marcadas = marcar_suspendidas(reuniones_acum, reuniones, bid, orden_boletin(numero_pdf, bid))
             if marcadas:
                 log.info(f"    → {marcadas} reunión(es) marcadas como suspendidas (desaparecieron de la agenda)")
             for r in reuniones:
