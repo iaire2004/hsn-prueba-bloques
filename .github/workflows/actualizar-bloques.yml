@@ -64,6 +64,10 @@ jobs:
           HSN_SOURCE: source
         run: python scripts/agenda_od_senado.py
 
+      - name: Prueba desde cero (agenda y OD, solo del Senado)
+        continue-on-error: true
+        run: python scripts/prueba_desde_cero.py
+
       - name: Generar páginas por bloque
         env:
           HSN_SOURCE: source
