@@ -1107,9 +1107,14 @@ def render_portada(bloques):
     """Página de entrada: un botón por bloque, con su color. Al elegir uno se abre su página y no
     queda enlace de vuelta (cada bloque ve sólo lo suyo). `location.replace` saca la portada del
     historial del navegador. Lista de (slug, nombre, color)."""
+    # BASE_URL (ej. https://prosecretaria-parlamentaria-hsn.github.io/): con ella
+    # la portada funciona suelta, aun descargada; sin ella usa rutas relativas.
+    base = os.environ.get("BASE_URL", "").strip()
+    if base and not base.endswith("/"):
+        base += "/"
     botones = "\n".join(
-        '<a class="bt" href="%s/index.html" onclick="location.replace(this.href);return false" '
-        'style="background:%s;color:%s">%s</a>' % (slug, color, _texto_sobre(color), nombre)
+        '<a class="bt" href="%s%s/index.html" onclick="location.replace(this.href);return false" '
+        'style="background:%s;color:%s">%s</a>' % (base, slug, color, _texto_sobre(color), nombre)
         for slug, nombre, color in bloques)
     return """<!doctype html>
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
