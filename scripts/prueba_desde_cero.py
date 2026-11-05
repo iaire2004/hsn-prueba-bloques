@@ -85,8 +85,12 @@ def agenda():
     print("Desde cero: %d reuniones (fechas %s a %s)" % ((len(a),) + fechas(a)))
     print("En data/ (sembrado): %d reuniones (fechas %s a %s)" % ((len(b),) + fechas(b)))
     print("Faltan desde cero: %d | Sobran desde cero: %d" % (len(b - a), len(a - b)))
+    lst = c.get("reuniones", []) if isinstance(c, dict) else c
+    de = {(r.get("fecha"), r.get("hora"), str(r.get("comisiones"))): r for r in lst}
     for k in sorted(a - b):
-        print("  sólo desde cero: %s %s %s" % k)
+        r = de.get(k, {})
+        print("  sólo desde cero: %s %s %s  [boletín %s, id %s, %d temas]" % (
+            k + (r.get("boletin_numero", "?"), r.get("boletin_id", "?"), len(r.get("temario") or []))))
     print("RESULTADO: %s" % ("INDEPENDIENTE (coincide)" if a == b else
                              "el historial anterior NO se reconstruye solo; se necesita la base sembrada"))
     shutil.rmtree(tmp, ignore_errors=True)
