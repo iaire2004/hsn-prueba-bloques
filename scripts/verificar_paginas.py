@@ -98,6 +98,35 @@ def comparar_comisiones(avisos):
             avisos.append("%s: integrantes distintos (+%d / -%d)" % (c["nombre"], len(a - b), len(b - a)))
 
 
+def comparar_agenda_od(avisos):
+    """Modo sombra: compara la agenda y las órdenes del día propias con las de la fuente.
+    Sólo avisa diferencias (reuniones y OD que están de un lado y no del otro)."""
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fuente = os.environ.get("HSN_SOURCE", os.path.join(raiz, "source"))
+
+    def cargar(base, nombre):
+        try:
+            return json.load(open(os.path.join(base, "data", nombre), encoding="utf-8"))
+        except Exception:
+            return None
+
+    def reuniones(d):
+        lst = d.get("reuniones", []) if isinstance(d, dict) else d
+        return {(r.get("fecha"), r.get("hora"), str(r.get("comisiones"))) for r in lst}
+
+    pa, fa = cargar(raiz, "agenda.json"), cargar(fuente, "agenda.json")
+    if pa is not None and fa is not None:
+        a, b = reuniones(pa), reuniones(fa)
+        if a != b:
+            avisos.append("Agenda: reuniones distintas (sólo propia: %d / sólo fuente: %d)" % (len(a - b), len(b - a)))
+    po, fo = cargar(raiz, "od.json"), cargar(fuente, "od.json")
+    if po is not None and fo is not None:
+        k = lambda lst: {(o.get("nro_od"), o.get("anio_od"), o.get("tipo_od")) for o in lst}
+        a, b = k(po), k(fo)
+        if a != b:
+            avisos.append("Órdenes del día distintas (sólo propias: %d / sólo fuente: %d)" % (len(a - b), len(b - a)))
+
+
 def main():
     graves, avisos = [], []
     slugs = sorted(d for d in os.listdir(OUT) if os.path.isfile(os.path.join(OUT, d, "index.html"))
@@ -139,6 +168,7 @@ def main():
     apr_pag = {x["id"] for b in paginas.values() for x in b["aprobados"]}
     cruce_actas(avisos, en_pag, apr_pag)
     comparar_comisiones(avisos)
+    comparar_agenda_od(avisos)
     for a in avisos:
         print("AVISO  " + a)
     for g in graves:
