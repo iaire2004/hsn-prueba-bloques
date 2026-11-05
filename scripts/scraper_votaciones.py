@@ -28,7 +28,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 try:
     import requests
@@ -239,7 +239,7 @@ def main():
 
     salida = {
         "anio": ANIO,
-        "actualizado": datetime.now().strftime("%d-%m-%Y %H:%M"),
+        "actualizado": datetime.now(timezone(timedelta(hours=-3))).strftime("%d-%m-%Y %H:%M"),
         "fuente": URL_ACTAS,
         "total_generales": len(generales),
         "actas": sorted(guardadas.values(), key=clave),
