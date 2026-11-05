@@ -29,7 +29,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias del scraper de votaciones
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pdfplumber
 
       # Si falla (sitio caído o limitando acceso) no frena la generación:
       # las páginas se arman con lo que ya está guardado.
@@ -57,6 +57,12 @@ jobs:
       - name: Actualizar comisiones bicamerales
         continue-on-error: true
         run: python scripts/bicamerales_senado.py
+
+      - name: Actualizar agenda y órdenes del día (modo sombra)
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+        run: python scripts/agenda_od_senado.py
 
       - name: Generar páginas por bloque
         env:
