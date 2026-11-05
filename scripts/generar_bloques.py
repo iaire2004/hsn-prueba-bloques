@@ -1108,7 +1108,7 @@ def render_portada(bloques):
     queda enlace de vuelta (cada bloque ve sólo lo suyo). `location.replace` saca la portada del
     historial del navegador. Lista de (slug, nombre, color)."""
     botones = "\n".join(
-        '<a class="bt" href="%s/" onclick="location.replace(this.href);return false" '
+        '<a class="bt" href="%s/index.html" onclick="location.replace(this.href);return false" '
         'style="background:%s;color:%s">%s</a>' % (slug, color, _texto_sobre(color), nombre)
         for slug, nombre, color in bloques)
     return """<!doctype html>
