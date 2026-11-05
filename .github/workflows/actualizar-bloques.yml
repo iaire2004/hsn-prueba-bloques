@@ -2,6 +2,11 @@ name: Actualizar páginas por bloque
 
 on:
   workflow_dispatch:
+    inputs:
+      prueba_completa:
+        description: "Correr también la prueba desde cero (agenda y OD; tarda unos 3 minutos más)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -64,7 +69,15 @@ jobs:
           HSN_SOURCE: source
         run: python scripts/agenda_od_senado.py
 
+      # Proyectos propios leídos del Senado (MODO SOMBRA). Siembra con los de la fuente la primera vez.
+      - name: Actualizar proyectos (modo sombra)
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+        run: python scripts/proyectos_senado.py
+
       - name: Prueba desde cero (agenda y OD, solo del Senado)
+        if: ${{ inputs.prueba_completa }}
         continue-on-error: true
         run: python scripts/prueba_desde_cero.py
 
