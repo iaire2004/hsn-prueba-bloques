@@ -1,0 +1,3508 @@
+[
+  {
+    "numero": "424",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen aceptando las modificaciones introducidas por la Honorable Cámara de Diputados al proyecto de ley del Poder Ejecutivo Nacional sobre inviolabilidad de la propiedad privada. (PE-13/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-13/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/13.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Constitucionales",
+    "fechaDictamen": "06/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51768/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Constitucionales",
+      "DE ASUNTOS CONSTITUCIONALES",
+      "DE LEGISLACIÓN GENERAL"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Agustín P. Coto",
+      "Nadia J. Márquez",
+      "Rodolfo A. Suárez",
+      "Bartolomé E. Abdala",
+      "María B. Monte de Oca",
+      "Gonzalo Guzmán Coraita",
+      "Luis A. Juez",
+      "Patricia Bullrich",
+      "Ivanna M. Arrascaeta",
+      "María E. Orozco",
+      "Carlos M. Espínola",
+      "Maximiliano Abad",
+      "Eduardo A. Vischi",
+      "María V. Huala",
+      "María C. Moisés"
+    ]
+  },
+  {
+    "numero": "423",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Rojas Decut, declarando \"fiesta nacional del docente\" al festival provincial que se realiza anualmente en la localidad de Campo Grande, provincia de Misiones. (S-1645/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1645/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1645.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "05/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51767/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "422",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Rojas Decut, declarando a la provincia de Misiones como \"capital nacional de la educación disruptiva\". (S-116/26)",
+    "expedientes": [
+      {
+        "codigo": "S-116/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/116.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "05/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51766/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "421",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en la Resolución N° 1/2026 y su Anexo I, sobre la designación de los integrantes del Comité Nacional para la Prevención de la Tortura (CNPT). (S-1950/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1950/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1950.26/S/CC"
+      }
+    ],
+    "comisionCabecera": "Comisión Bicameral Permanente de la Defensoría del Pueblo",
+    "fechaDictamen": "04/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51765/downloadOrdenDia",
+    "comisiones": [
+      "Comisión Bicameral Permanente de la Defensoría del Pueblo",
+      "DE COMISIÓN BICAMERAL PERMANENTE DE LA DEFENSORÍA DEL PUEBLO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Emmanuel Bianchetti",
+      "Lilia Lemoine",
+      "Giselle Castelnuovo",
+      "Joaquín Ojeda"
+    ],
+    "disidencias": [
+      {
+        "tipo": "parcial",
+        "firmantes": [
+          "Guillermo E. M. Snopek",
+          "Ana I. Marks",
+          "Alicia M. A. Kirchner",
+          "Germán P. Martínez",
+          "Cecilia Moreau"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "420",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión, que prorroga la emergencia nacional en discapacidad – Ley 27.793. (CD-18/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-18/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/18.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Presupuesto y Hacienda",
+    "fechaDictamen": "04/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51764/downloadOrdenDia",
+    "comisiones": [
+      "Presupuesto y Hacienda",
+      "DE PRESUPUESTO Y HACIENDA",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Agustín A. Monteverde",
+      "Alicia M. A. Kirchner",
+      "Fernando A. Salino",
+      "Juan C. Godoy",
+      "Ezequiel Atauche",
+      "Carmen Álvarez Rivero",
+      "Bruno A. Olivera Lucero",
+      "Enzo P. Fullone",
+      "Bartolomé E. Abdala",
+      "María E. Orozco",
+      "Patricia Bullrich",
+      "Joaquín A. Benegas Lynch",
+      "Mariana Juri",
+      "Daniel R. Kroneberger",
+      "Andrea M. Cristina",
+      "Mercedes G. Valenzuela",
+      "Carlos M. Espínola",
+      "Natalia E. Gadano",
+      "Guillermo E. Andrada",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "419",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión, que dispone la obligatoriedad de medidas de seguridad en deporte y actividades recreativas – \"Ley Joaquín\". (CD-17/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-17/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/17.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Deporte",
+    "fechaDictamen": "04/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51763/downloadOrdenDia",
+    "comisiones": [
+      "Deporte",
+      "DE DEPORTE"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Bartolomé E. Abdala",
+      "Mariana Juri",
+      "Marcelo N. Lewandowski",
+      "Fernando A. Salino",
+      "Eduardo E. de Pedro",
+      "Bruno A. Olivera Lucero",
+      "Juan C. Godoy",
+      "Elia Esther del Carmen Moreno",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "418",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Cristina",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Cristina, sobre Promoción de los Derechos de las niñas, niños y adolescentes a la dignidad, a la integridad personal y a una vida libre de violencias, a través de protocolos para la prevención, detección y actuación ante situaciones de violencia. (S-528/25)",
+    "expedientes": [
+      {
+        "codigo": "S-528/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/528.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Legislación General",
+    "fechaDictamen": "28/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51762/downloadOrdenDia",
+    "comisiones": [
+      "Legislación General",
+      "DE LEGISLACIÓN GENERAL",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Nadia J. Márquez",
+      "Alicia M. A. Kirchner",
+      "Daniel P. Bensusán",
+      "Juan C. Godoy",
+      "Gonzalo Guzmán Coraita",
+      "Carmen Álvarez Rivero",
+      "Patricia Bullrich",
+      "Enzo P. Fullone",
+      "María E. Orozco",
+      "Bruno A. Olivera Lucero",
+      "Rodolfo A. Suárez",
+      "Carolina Losada",
+      "Carlos M. Espínola",
+      "Mercedes G. Valenzuela",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "Mariano Recalde",
+      "Ana I. Marks",
+      "Jorge M. Capitanich",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ],
+    "disidencias": [
+      {
+        "tipo": "parcial",
+        "firmantes": [
+          "Maria V. Huala",
+          "Daniel R. Kroneberger"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "417",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Bensusán y Terenzi",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Bensusán y en el de la señora senadora Terenzi, que crea el Registro Nacional Único de Alimentantes Morosos – ReNUAM. (S-190/25 y 1723/26)",
+    "expedientes": [
+      {
+        "codigo": "S-190/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/190.25/S/PL"
+      },
+      {
+        "codigo": "S-1723/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1723.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Legislación General",
+    "fechaDictamen": "28/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51761/downloadOrdenDia",
+    "comisiones": [
+      "Legislación General",
+      "DE LEGISLACIÓN GENERAL",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Daniel P. Bensusán",
+      "Enzo P. Fullone",
+      "Patricia Bullrich",
+      "Daniel R. Kroneberger",
+      "Carlos M. Espínola",
+      "Mercedes G. Valenzuela",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "Mariano Recalde",
+      "María C. Giménez Navarro",
+      "Jorge M. Capitanich",
+      "Ana I. Marks",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ],
+    "disidencias": [
+      {
+        "tipo": "sin aclarar",
+        "firmantes": [
+          "Nadia J. Márquez",
+          "Juan C. Godoy",
+          "Bruno A. Olivera Lucero"
+        ]
+      },
+      {
+        "tipo": "parcial",
+        "firmantes": [
+          "Bartolomé E. Abdala",
+          "Carmen Álvarez Rivero",
+          "Gonzalo Guzmán Coraita",
+          "María E. Orozco",
+          "María V. Huala",
+          "Carolina Losada"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "416",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo, por el que se aprueba el Acuerdo en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar relativo a la Conservación y el Uso Sostenible de la Diversidad Biológica Marina de las Zonas Situadas Fuera de la Jurisdicción Nacional, celebrado en la Ciudad de Nueva York, Estados Unidos de América. (PE-294/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-294/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/294.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "28/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51758/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Luis A. Juez",
+      "Ivanna M. Arrascaeta",
+      "Agustín A. Monteverde",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Carolina Losada",
+      "Rodolfo A. Suárez",
+      "Jorge M. Capitanich"
+    ]
+  },
+  {
+    "numero": "415",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo, por el que se aprueba el Acuerdo con la República del Paraguay sobre Servicios Aéreos, suscripto en la Ciudad de Buenos Aires, República Argentina. (PE-273/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-273/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/273.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "28/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51757/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Luis A. Juez",
+      "Ivanna M. Arrascaeta",
+      "Agustín A. Monteverde",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Carolina Losada",
+      "Rodolfo A. Suárez",
+      "Guillermo E. Andrada"
+    ]
+  },
+  {
+    "numero": "414",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo, por el que se aprueba el Protocolo Adicional al Protocolo Constitutivo del Parlamento del MERCOSUR. (PE-378/19)",
+    "expedientes": [
+      {
+        "codigo": "PE-378/19",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/378.19/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "28/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51756/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Luis A. Juez",
+      "Ivanna M. Arrascaeta",
+      "Agustín A. Monteverde",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Carolina Losada",
+      "Maximiliano Abad",
+      "Rodolfo A. Suárez",
+      "Guillermo E. Andrada",
+      "Jorge M. Capitanich"
+    ]
+  },
+  {
+    "numero": "412",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, aprobando el Acuerdo sobre Servicios Aéreos con la República de Finlandia, suscripto en la Ciudad Autónoma de Buenos Aires. (PE-271/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-271/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/271.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "22/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51753/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Ivanna M. Arrascaeta",
+      "Agustín A. Monteverde",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Maximiliano Abad",
+      "Enrique M. Goerling Lara",
+      "Guillermo E. Andrada"
+    ]
+  },
+  {
+    "numero": "411",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, aprobando las Enmiendas al Convenio Constitutivo de la Organización Marítima Internacional, en la ciudad de Londres - Reino Unido de Gran Bretaña e Irlanda del Norte. (PE-235/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-235/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/235.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "22/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51752/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Ivanna M. Arrascaeta",
+      "Agustín A. Monteverde",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Maximiliano Abad",
+      "Enrique M. Goerling Lara",
+      "Guillermo E. Andrada"
+    ]
+  },
+  {
+    "numero": "410",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, aprobando el Convenio Relativo a la Importación Temporal, celebrado en Estambul - República de Türkiye. (PE-234/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-234/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/234.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "22/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51751/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Ivanna M. Arrascaeta",
+      "Agustín A. Monteverde",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Maximiliano Abad",
+      "Enrique M. Goerling Lara",
+      "Guillermo E. Andrada"
+    ]
+  },
+  {
+    "numero": "408",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen aceptando las modificaciones introducidas por la Honorable Cámara de Diputados al Tratado de Cooperación en materia de Patentes (PCT) y su reglamento. (PE-854/97)",
+    "expedientes": [
+      {
+        "codigo": "PE-854/97",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/854.97/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "15/10/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51747/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO",
+      "DE INDUSTRIA Y COMERCIO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Romina M. Almeida",
+      "Ivanna M. Arrascaeta",
+      "Joaquín A. Benegas Lynch",
+      "Agustín A. Monteverde",
+      "Mario P. Cervi",
+      "Gonzalo Guzmán Coraita",
+      "Agustín P. Coto",
+      "María B. Monte de Oca",
+      "Carlos M. Espínola",
+      "Sonia E. Rojas Decut",
+      "Silvana L. Schneider",
+      "Eduardo A. Vischi",
+      "Mercedes G. Valenzuela",
+      "Carolina Losada",
+      "Maximiliano Abad",
+      "Rodolfo A. Suárez",
+      "Enrique M. Goerling Lara"
+    ],
+    "disidencias": [
+      {
+        "tipo": "sin aclarar",
+        "firmantes": [
+          "Guillermo E. Andrada",
+          "Sandra M. Mendoza"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "407",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, por el que se solicita acuerdo para promover al grado inmediato superior al General de Brigada Sebastián Ignacio Ibañez. (PE-133/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-133/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/133.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "23/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51741/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Juan C. Pagotto",
+      "Carlos O. Arce",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Márquez"
+    ]
+  },
+  {
+    "numero": "406",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Arce y Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Arce y de la señora senadora Rojas Decut, declarando de interés un nuevo aniversario del programa \"Fórmula Tuerca y todos los deportes\", emitido por LT4 radiodifusora Misiones. (S-881/26)",
+    "expedientes": [
+      {
+        "codigo": "S-881/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/881.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "23/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51740/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "405",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": "Losada",
+    "descripcion": "Dictamen en el proyecto de comunicación de la señora senadora Losada, solicitando una campaña de comunicación orientada a la prevención y concientización de la ludopatía infantil y de la autodependencia a dispositivos móviles, videojuegos y redes sociales. (S-68/26)",
+    "expedientes": [
+      {
+        "codigo": "S-68/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/68.26/S/PC"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "22/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51739/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "404",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": "Losada y Otras",
+    "descripcion": "Dictamen en el proyecto de comunicación de la señora senadora Losada y Otras, solicitando una campaña de prevención y concientización sobre la violencia en entornos digitales. (S-1254/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1254/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1254.25/S/PC"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "22/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51738/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "403",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": "Carolina Losada y Otros",
+    "descripcion": "Dictamen en el proyecto de comunicación de la señora senadora Carolina Losada y Otros, solicitando una campaña masiva de comunicación orientada a la prevención y concientización sobre el \"phishing\". (S-229/25)",
+    "expedientes": [
+      {
+        "codigo": "S-229/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/229.25/S/PC"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "22/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51737/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "401",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Ávila y Vischi",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Ávila y en el del señor senador Vischi, adhiriendo a la celebración del Día del Periodista, en homenaje a la Fundación del primer periódico nacional por iniciativa de Mariano Moreno: “La Gazeta de Buenos Ayres”. (S-931/25 y 998/26)",
+    "expedientes": [
+      {
+        "codigo": "S-931/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/931.25/S/PD"
+      },
+      {
+        "codigo": "S-998/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/998.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "16/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51733/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "400",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Leavy",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Leavy, declarando de interés el programa emitido por la televisión salteña “Salta es una Canción”. (S-1647/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1647/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1647.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "16/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51732/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "399",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut y Arce",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut y del señor senador Arce, declarando de interés los Premios Prisma 2025, en la ciudad de Posadas, provincia de Misiones. (S-1563/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1563/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1563.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "16/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51731/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "398",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Atauche",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Atauche, declarando de interés el programa radial “Viajando por Argentina”. (S-1152/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1152/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1152.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
+    "fechaDictamen": "16/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51730/downloadOrdenDia",
+    "comisiones": [
+      "Sistemas, Medios de Comunicación y Libertad de Expresión",
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Juan C. Godoy",
+      "Mario P. Cervi",
+      "Carolina Losada",
+      "Enzo P. Fullone",
+      "Vilma F. Bedia",
+      "Guillermo E. Andrada",
+      "Fernando A. Salino",
+      "Elia Esther del Carmen Moreno"
+    ]
+  },
+  {
+    "numero": "397",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moisés y Otros",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moisés y Otros, declarando de interés un nuevo aniversario del natalicio de doña Josefa Dominga \"Pepa\" Balcarce y San Martín. (S-1165/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1165/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1165.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51729/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "396",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Atauche y Moisés y Otros",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Atauche y en el de la señora senadora Moisés y Otros, declarando de interés el nuevo aniversario del Éxodo Jujeño. (S-1154 y 1166/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1154/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1154.26/S/PD"
+      },
+      {
+        "codigo": "S-1166/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1166.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51728/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta –Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "395",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Guzmán Coraita y Orozco",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Guzmán Coraita y de la señora senadora Orozco, declarando de interés al Museo Didáctico de la Gesta Güemesiana y Gaucha, en la localidad de San Lorenzo, provincia de Salta. (S-1029/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1029/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1029.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51727/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "394",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Ávila, expresando beneplácito por la participación y selección del docente Víctor Daniel Zanotta, de la localidad de Delfín Gallo, provincia de Tucumán, como semifinalista nacional en la edición 2026 del premio \"Docentes que Inspiran\". (S-1122/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1122/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1122.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51726/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "393",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Kroneberger",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Kroneberger, declarando de interés el libro \"Argentina metropolitana: antecedentes y desafíos hacia una gobernanza regional\", publicado por la Asociación Civil Ciudadanía Metropolitana. (S-1104/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1104/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1104.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51725/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "392",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut y Arce",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut y del señor senador Arce, declarando de interés la propuesta diocesana conmemorativa de los 400 años de la llegada de las Misiones Jesuíticas y los 40 años de la Diócesis de Puerto Iguazú. (S-1038/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1038/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1038.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51724/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "391",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut y Arce",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut y del señor senador Arce, declarando de interés la cuarta edición del Congreso Internacional Veterinario del Iguazú – CIVI, en la provincia de Misiones. (S-1037/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1037/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1037.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51723/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "390",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Almeida y Otros",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Almeida y Otros, declarando de interés la composición artística \"Mi Bandera es Argentina\", del cantautor y docente de música diamantino Rubén Darío Giménez. (S-1020/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1020/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1020.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51722/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "389",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider, expresando beneplácito por la selección de las docentes chaqueñas Vanesa Anabel Meza y Gloria Argentina Cisneros, semifinalistas nacionales en la edición 2026 del premio “Docentes que Inspiran”. (S-1017/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1017/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1017.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51721/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "388",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Monte de Oca",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Monte de Oca, expresando beneplácito por un nuevo aniversario de la jura de la Constitución de la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. (S-1006/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1006/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1006.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51719/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "387",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Valenzuela",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Valenzuela, declarando de interés una nueva edición del \"Festival del Folclore Correntino\", en la ciudad de Santo Tomé, provincia de Corrientes. (S-935/26)",
+    "expedientes": [
+      {
+        "codigo": "S-935/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/935.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51718/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "386",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Capitanich y Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Capitanich y en el de la señora senadora Schneider, declarando de interés la Bienal Internacional de Esculturas de Chaco 2026, en la ciudad de Resistencia, provincia del Chaco. (S-2149/25 y 300/26)",
+    "expedientes": [
+      {
+        "codigo": "S-2149/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2149.25/S/PD"
+      },
+      {
+        "codigo": "S-300/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/300.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51717/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "385",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Valenzuela",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Valenzuela, declarando de interés la Fiesta Provincial del Locro, en la ciudad de Curuzú Cuatiá, provincia de Corrientes,.(S- 934/26)",
+    "expedientes": [
+      {
+        "codigo": "S-934/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/934.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51716/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "384",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moreno",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moreno, declarando de interés el \"III Congreso Internacional de Trabajo Social Forense: TSF, Culturas Digitales y Emancipación\", organizado por la Universidad Católica de Salta – UCASAL. (S-900/26)",
+    "expedientes": [
+      {
+        "codigo": "S-900/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/900.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51714/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "383",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Abdala",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Abdala, adhiriendo al Día del Granadero Puntano, dedicado al “Héroe de Chancay”, con motivo de un nuevo aniversario del nacimiento del coronel Juan Pascual Pringles. (S-892/26)",
+    "expedientes": [
+      {
+        "codigo": "S-892/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/892.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51713/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "382",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Olivera Lucero",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Olivera Lucero, declarando de interés la Feria Internacional de Artesanías de San Juan 2026, en la localidad de Chimbas, provincia de San Juan, (S-735/26)",
+    "expedientes": [
+      {
+        "codigo": "S-735/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/735.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51712/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "381",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Fernández Sagasti",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Fernández Sagasti, expresando beneplácito por el subcampeonato logrado por los alumnos de la provincia de Mendoza en el mundial de robótica “First Tech Challenge 2026”. (S-709/26)",
+    "expedientes": [
+      {
+        "codigo": "S-709/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/709.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51711/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "380",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider, expresando beneplácito por la presentación oficial de la “Bienal Internacional de Escultura del Chaco edición 2026”, en la ciudad de Resistencia, provincia del Chaco. (S-2204/25)",
+    "expedientes": [
+      {
+        "codigo": "S-2204/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2204.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51710/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "379",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Galaretto",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Galaretto, declarando de interés cultural y educativo a la obra “Danzas, bailes y costumbres del litoral argentino”, de los autores Claudia L. García y Enrique A. Piñeyro. (S-1987/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1987/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1987.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51709/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "378",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "López",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora López, reconociendo como valor histórico y cultural al Monolito de Loma Blanca, en la localidad de Olta, provincia de La Rioja. (S-1799/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1799/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1799.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51708/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "377",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Fernández Sagasti",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Fernández Sagasti, declarando de interés el evento “CONVINART”, por su aporte a la difusión de la cultura, el arte y la identidad nacional. (S-1601/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1601/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1601.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51707/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "376",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Lewandowski",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Lewandowski expresando beneplácito por su trayectoria y por difundir el chamamé en el ámbito nacional e internacional al músico Miguel Figueroa y su conjunto “Amanecer Campero”. (S-1577/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1577/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1577.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51706/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "375",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Huala",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Huala, expresando beneplácito y reconocimiento a la escritora Olga Liliana Reinoso por su trayectoria y aporte a la cultura. (S-1469/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1469/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1469.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51705/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "374",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, declarando de interés el Programa de Educación Financiera \"Cuentas Sanas\" de la Fundación Macro. (S-837/25)",
+    "expedientes": [
+      {
+        "codigo": "S-837/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/837.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51704/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "373",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Juez",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Juez, declarando de interés el “Proyecto Institucional de Convivencia, una invitación a innovar – Valores en Acción”, diseñado por el Colegio “La Merced” de la ciudad de Río Cuarto, provincia de Córdoba. (S-336/25)",
+    "expedientes": [
+      {
+        "codigo": "S-336/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/336.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "10/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51703/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "371",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Corpacci y Mendoza",
+    "descripcion": "Dictamen en el proyecto de ley de las señoras senadoras Corpacci y Mendoza, por el que se declara patrimonio inmaterial cultural y natural de la Nación al \"Chaku\", práctica ancestral incaica de captura, esquila y liberación de vicuñas. (S-447/26)",
+    "expedientes": [
+      {
+        "codigo": "S-447/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/447.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "09/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51700/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "369",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Ávila, por el que se declara monumento histórico nacional al Cementerio Oeste de San Miguel de Tucumán, provincia de Tucumán. (S-124/26)",
+    "expedientes": [
+      {
+        "codigo": "S-124/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/124.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "09/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51698/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "368",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Vischi",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Vischi, por el que se declara bien histórico nacional al Ex \"Hotel de Inmigrantes - Ex Oficinas de Puentes y Caminos de Goya\", en la ciudad de Goya, provincia de Corrientes. (S-1643/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1643/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1643.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "09/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51697/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "364",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Valenzuela",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Valenzuela, declarando de fiesta nacional al \"Festival del Folclore Correntino\", de la ciudad de Santo Tomé, provincia de Corrientes. (S-1040/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1040/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1040.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "03/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51693/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "359",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Ávila, que establece el tercer jueves de marzo de cada año como el “Día de Reflexión contra la Violencia Juvenil”. (S-997/26)",
+    "expedientes": [
+      {
+        "codigo": "S-997/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/997.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51687/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Sonia E. Rojas Decut",
+      "Juan C. Godoy",
+      "Ivanna M. Arrascaeta",
+      "Daniel R. Kroneberger",
+      "Flavio S. Fama",
+      "Carolina Losada",
+      "Beatriz L. Ávila",
+      "Natalia E. Gadano",
+      "María C. Moisés",
+      "Sandra M. Mendoza",
+      "Eduardo E. de Pedro",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "358",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Gadano",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Gadano, instituyendo el “Día del Bastón Verde”. (S-404/26)",
+    "expedientes": [
+      {
+        "codigo": "S-404/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/404.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51686/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Sonia E. Rojas Decut",
+      "Juan C. Godoy",
+      "Carmen Álvarez Rivero",
+      "Daniel R. Kroneberger",
+      "Flavio S. Fama",
+      "Carolina Losada",
+      "Beatriz L. Ávila",
+      "Natalia E. Gadano",
+      "María C. Moisés",
+      "Sandra M. Mendoza",
+      "Eduardo E. de Pedro",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "357",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Huala",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Huala, instituyendo el “Día Nacional para la Prevención del Bullying y otras formas de violencia y acoso escolar”. (S-319/25)",
+    "expedientes": [
+      {
+        "codigo": "S-319/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/319.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51685/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Sonia E. Rojas Decut",
+      "Juan C. Godoy",
+      "Carmen Álvarez Rivero",
+      "María E. Orozco",
+      "Vilma F. Bedia",
+      "Daniel R. Kroneberger",
+      "Flavio S. Fama",
+      "Carolina Losada",
+      "Beatriz L. Ávila",
+      "Natalia E. Gadano",
+      "María C. Moisés",
+      "Sandra M. Mendoza",
+      "Eduardo E. de Pedro",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "356",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Ávila, que incorpora un artículo a la Ley 25.415 – Programa de Detección de la Hipoacusia, respecto de incorporar diversas acciones en el ámbito educativo. (S-697/25)",
+    "expedientes": [
+      {
+        "codigo": "S-697/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/697.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51684/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Sonia E. Rojas Decut",
+      "Juan C. Godoy",
+      "Carmen Álvarez Rivero",
+      "Flavio S. Fama",
+      "Daniel R. Kroneberger",
+      "Beatriz L. Ávila",
+      "Carolina Losada",
+      "María C. Moisés",
+      "Natalia E. Gadano",
+      "Eduardo E. de Pedro",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Fernando A. Salino",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "355",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "De Angeli",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador De Angeli (m.c.), instituyendo el “Día Nacional del Inmigrante Alemán del Volga”. (S-517/25)",
+    "expedientes": [
+      {
+        "codigo": "S-517/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/517.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/09/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51683/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Sonia E. Rojas Decut",
+      "Juan C. Godoy",
+      "Vilma F. Bedia",
+      "Daniel R. Kroneberger",
+      "Flavio S. Fama",
+      "Carolina Losada",
+      "Beatriz L. Ávila",
+      "Natalia E. Gadano",
+      "María C. Moisés",
+      "Sandra M. Mendoza",
+      "Eduardo E. de Pedro",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "343",
+    "periodo": 2026,
+    "origen": "Ov",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en la consideración de nota enviada por el ciudadano argentino Sr. Juan Carlos Schroeder, por la cual solicita autorización para desempeñarse en el cargo de Cónsul Honorario de Alemania en Neuquén. (OV-450/24)",
+    "expedientes": [
+      {
+        "codigo": "OV-450/24",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/450.24/OV/CM"
+      }
+    ],
+    "comisionCabecera": "Asuntos Constitucionales",
+    "fechaDictamen": "27/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51671/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Constitucionales",
+      "DE ASUNTOS CONSTITUCIONALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Agustín P. Coto",
+      "María B. Monte de Oca",
+      "Juan C. Pagotto",
+      "Patricia Bullrich",
+      "Carlos M. Espínola",
+      "Flavio S. Fama",
+      "Rodolfo A. Suárez",
+      "Eduardo A. Vischi",
+      "Beatriz L. Ávila",
+      "María C. Moisés",
+      "José E. Neder",
+      "Daniel P. Bensusán"
+    ]
+  },
+  {
+    "numero": "336",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Coraita y Orozco",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Coraita y la señora senadora Orozco, declarando de interés la conmemoración del 40° aniversario de la constitución de la provincia de Salta. (S-620/26)",
+    "expedientes": [
+      {
+        "codigo": "S-620/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/620.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51662/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María B. Monte de Oca",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti"
+    ]
+  },
+  {
+    "numero": "335",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Valenzuela",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Valenzuela, declarando de interés la muestra cultural e histórica \"Corrientes en Casa Rosada\", inaugurada en el Museo de la Casa Rosada, en la Ciudad Autónoma de Buenos Aires. (S-612/26)",
+    "expedientes": [
+      {
+        "codigo": "S-612/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/612.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51661/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "334",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Bedia",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Bedia, expresando pesar por el fallecimiento del actor Luis Brandoni. (S-575/26)",
+    "expedientes": [
+      {
+        "codigo": "S-575/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/575.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51660/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María B. Monte de Oca",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Anabel Fernández Sagasti",
+      "María T. M. González"
+    ]
+  },
+  {
+    "numero": "333",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moisés",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moisés, expresando beneplácito por un nuevo aniversario de la escuela normal “Gral. José de San Martín” de la ciudad de San Pedro de Jujuy. (S-560 y 623/26)",
+    "expedientes": [
+      {
+        "codigo": "S-560/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/560.26/S/PD"
+      },
+      {
+        "codigo": "S-623/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/623.26/S/CO"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51658/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "332",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Coto y Terenzi",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Coto y en el de la señora senadora Terenzi, expresando beneplácito por un nuevo aniversario de la creación del Instituto Antártico Argentino. (S-535 y 613/26)",
+    "expedientes": [
+      {
+        "codigo": "S-535/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/535.26/S/PD"
+      },
+      {
+        "codigo": "S-613/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/613.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51659/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "331",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Carambia y Gadano",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Carambia y la señora senadora Gadano, declarando de interés el libro “ A orillas del Río Fénix”, de Graciela Ciselli y Marcelo Hernández. (S-492/26)",
+    "expedientes": [
+      {
+        "codigo": "S-492/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/492.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51657/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "330",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Coraita y Otros",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Coraita y Otros, expresando pesar por el fallecimiento del historiador rosarino Miguel Ángel de Marco. (S-429/26)",
+    "expedientes": [
+      {
+        "codigo": "S-429/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/429.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51656/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María B. Monte de Oca",
+      "Ivanna M. Arrascaeta",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "329",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Fernández Sagasti",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Fernández Sagasti, declarando de interés la publicación y presentación del libro de investigación “Zamba de mi esperanza. La que sabemos todos\", de Roberto Mercado. (S-413/26)",
+    "expedientes": [
+      {
+        "codigo": "S-413/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/413.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51655/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "328",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Fullone y Otros",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Fullone y Otros, declarando de interés la labor educativa, tecnológica y de innovación desarrollada por la escuela Prodigy, con sedes en diversas localidades de las provincias de Río Negro y Neuquén. (S-214/26)",
+    "expedientes": [
+      {
+        "codigo": "S-214/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/214.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51654/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María B. Monte de Oca",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González"
+    ]
+  },
+  {
+    "numero": "327",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut y Valenzuela",
+    "descripcion": "Dictamen en el proyecto de declaración de las señoras senadoras Rojas Decut y Valenzuela, declarando de interés el primer \"Mundial de la Yerba Mate\", realizado en el Museo del Mate de la Ciudad Autónoma de Buenos Aires. (S-115/26)",
+    "expedientes": [
+      {
+        "codigo": "S-115/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/115.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51653/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "326",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Mendoza",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Mendoza, adhiriendo al aniversario de la “Batalla de Tucumán” y expresando reconocimiento a la festividad de Nuestra Señora de la Merced. (S-92/26)",
+    "expedientes": [
+      {
+        "codigo": "S-92/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/92.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51652/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "325",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "López",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora López, expresando beneplácito por la labor del equipo riojano ganador del Programa Federal de Formación \"Gestión para el Desarrollo\". (S-29/26)",
+    "expedientes": [
+      {
+        "codigo": "S-29/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/29.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51651/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "324",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Capitanich y Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Capitanich y en el de la señora senadora Schneider, expresando beneplácito a Gloria Argentina Cisneros, docente rural de la provincia del Chaco, quien fue preseleccionada por la organización Global Teacher Prize entre las mejores educadoras del mundo. (S-2136 y 2178/25)",
+    "expedientes": [
+      {
+        "codigo": "S-2136/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2136.25/S/PD"
+      },
+      {
+        "codigo": "S-2178/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2178.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51650/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María B. Monte de Oca",
+      "Ivanna M. Arrascaeta",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "323",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Ávila y Valenzuela",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Ávila y en el de la señora senadora Valenzuela, expresando beneplácito por la celebración de los cincuenta años de la Feria Internacional del Libro de Buenos Aires. (S-1879/25 y 457/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1879/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1879.25/S/PD"
+      },
+      {
+        "codigo": "S-457/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/457.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51649/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "322",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Arce y Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Arce y de la señora senadora Rojas Decut, declarando de interés las “Charlas Antárticas” de la Biblioteca Popular 2 de Abril, de la ciudad de Posadas, provincia de Misiones. (S-1059/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1059/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1059.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51648/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "321",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Juez",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Juez, rindiendo homenaje a los tripulantes y pasajeros del avión Douglas C-54 de la Fuerza Aérea Argentina, en el 60º aniversario de su desaparición. (S-1841/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1841/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1841.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Defensa Nacional",
+    "fechaDictamen": "25/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51647/downloadOrdenDia",
+    "comisiones": [
+      "Defensa Nacional",
+      "DE DEFENSA NACIONAL"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Luis A. Juez",
+      "María B. Monte de Oca",
+      "Juan C. Pagotto",
+      "Bruno A. Olivera Lucero",
+      "Carolina Losada",
+      "Eduardo A. Vischi",
+      "Bartolomé E. Abdala",
+      "Enrique M. Goerling Lara",
+      "Jorge M. Capitanich"
+    ]
+  },
+  {
+    "numero": "272",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Ávila, por el que se modifica la ley 24.898 – Servicio Meteorológico Nacional, sobre informar a través de los medios de comunicación la intensidad de la radiación ultravioleta. (S-1417/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1417/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1417.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Defensa Nacional",
+    "fechaDictamen": "06/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51597/downloadOrdenDia",
+    "comisiones": [
+      "Defensa Nacional",
+      "DE DEFENSA NACIONAL"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Luis A. Juez",
+      "María B. Monte de Oca",
+      "Juan C. Pagotto",
+      "Bruno A. Olivera Lucero",
+      "Carolina Losada",
+      "Eduardo A. Vischi",
+      "Bartolomé E. Abdala",
+      "Enrique M. Goerling Lara",
+      "Jorge M. Capitanich"
+    ]
+  },
+  {
+    "numero": "271",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión, que reconoce la actuación del Brigadier (R) “VGM” Jorge Francisco Martínez en la “Guerra del Atlántico Sur”. (CD-2/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-2/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Defensa Nacional",
+    "fechaDictamen": "06/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51596/downloadOrdenDia",
+    "comisiones": [
+      "Defensa Nacional",
+      "DE DEFENSA NACIONAL"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Luis A. Juez",
+      "María B. Monte de Oca",
+      "Juan C. Pagotto",
+      "Bruno A. Olivera Lucero",
+      "Carolina Losada",
+      "Eduardo A. Vischi",
+      "Bartolomé E. Abdala",
+      "Enrique M. Goerling Lara",
+      "Jorge M. Capitanich"
+    ]
+  },
+  {
+    "numero": "224",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Álvarez Rivero",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Álvarez Rivero, declarando a la Ruta Nacional N° 158 como corredor logístico prioritario en el marco de los acuerdos comerciales celebrados con la Unión Europea y los Estados Unidos de América. (S-2162/25)",
+    "expedientes": [
+      {
+        "codigo": "S-2162/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2162.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Infraestructura, Vivienda y Transporte",
+    "fechaDictamen": "02/07/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51549/downloadOrdenDia",
+    "comisiones": [
+      "Infraestructura, Vivienda y Transporte",
+      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Beatriz L. Ávila",
+      "Enzo P. Fullone",
+      "Marcelo N. Lewandowski",
+      "Romina M. Almeida",
+      "Francisco M. Paoltroni",
+      "Carlos M. Espínola",
+      "Julieta Corroza",
+      "Sandra M. Mendoza",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "223",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": "Álvarez Rivero",
+    "descripcion": "Dictamen en el proyecto de comunicación de la señora senadora Álvarez Rivero, solicitando que se identifique a la Ruta Nacional N° 158 como corredor logístico prioritario en el marco de los acuerdos comerciales celebrados con la Unión Europea y los Estados Unidos de América. (S-2161/25)",
+    "expedientes": [
+      {
+        "codigo": "S-2161/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2161.25/S/PC"
+      }
+    ],
+    "comisionCabecera": "Infraestructura, Vivienda y Transporte",
+    "fechaDictamen": "02/07/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51548/downloadOrdenDia",
+    "comisiones": [
+      "Infraestructura, Vivienda y Transporte",
+      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Beatriz L. Ávila",
+      "Enzo P. Fullone",
+      "Marcelo N. Lewandowski",
+      "Romina M. Almeida",
+      "Francisco M. Paoltroni",
+      "Carlos M. Espínola",
+      "Julieta Corroza",
+      "Sandra M. Mendoza",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "138",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "de Pedro y Huala",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador de Pedro y de la señora senado Huala, por el cual se establece la realización de la jornada “Argentina contra el Bullying: por una escuela libre de acoso y discriminación” en los niveles obligatorios de todos los establecimientos educativos públicos y privados. (S-596/26)",
+    "expedientes": [
+      {
+        "codigo": "S-596/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/596.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "23/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51463/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María B. Monte de Oca",
+      "Vilma F. Bedia",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "137",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Bensusán y Huala y Kroneberger",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Bensusán y en el de la señora senadora Huala y el señor senador Kroneberger, por los que se declara Fiesta Nacional a la “Fiesta del Ternero, la Yerra y el Pial”, en la localidad de General Acha, provincia de La Pampa. (S-884/25 y 465/26)",
+    "expedientes": [
+      {
+        "codigo": "S-884/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/884.25/S/PL"
+      },
+      {
+        "codigo": "S-465/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/465.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "18/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51461/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Anabel Fernández Sagasti",
+      "María T. M. González",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "135",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión que deroga la legislación obsoleta - “Ley de Hojarasca”. (CD-1/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-1/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Constitucionales",
+    "fechaDictamen": "17/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51664/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Constitucionales",
+      "DE ASUNTOS CONSTITUCIONALES",
+      "DE LEGISLACIÓN GENERAL"
+    ],
+    "tipoOD": "ANEXO",
+    "firmantesMayoria": [
+      "María C. Moisés",
+      "Sandra M. Mendoza"
+    ]
+  },
+  {
+    "numero": "135",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión que deroga la legislación obsoleta - “Ley de Hojarasca”. (CD-1/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-1/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Constitucionales",
+    "fechaDictamen": "17/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51414/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Constitucionales",
+      "DE ASUNTOS CONSTITUCIONALES",
+      "DE LEGISLACIÓN GENERAL"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Agustín P. Coto",
+      "Nadia J. Marquéz",
+      "Carmen Álvarez Rivero",
+      "Bartolomé E. Abdala",
+      "Juan C. Pagotto",
+      "Patricia Bullrich",
+      "Mariana Juri",
+      "Eduardo H. Galaretto",
+      "Enrique M. Goerling Lara"
+    ],
+    "disidencias": [
+      {
+        "tipo": "sin aclarar",
+        "firmantes": [
+          "Carlos M. Espínola"
+        ]
+      },
+      {
+        "tipo": "parcial",
+        "firmantes": [
+          "Flavio S. Fama",
+          "Eduardo A. Vischi"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "134",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Marks y Soria",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Marks y del señor Senador Soria, por el que se transfiere a título gratuito a favor de la Asociación Civil Club Deportivo y Social Villa Los Coihues, un inmueble propiedad del Estado Nacional sito en la localidad de San Carlos de Bariloche, Provincia de Río Negro. (S-526/26)",
+    "expedientes": [
+      {
+        "codigo": "S-526/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/526.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "17/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51413/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Sonia E. Rojas Decut",
+      "Sandra M. Mendoza",
+      "José E. Neder",
+      "Eduardo E. de Pedro",
+      "Cándida C. López",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "133",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Uñac",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Uñac, por el que se transfiere a título gratuito una parcela de terreno propiedad del Estado Nacional a la Municipalidad de Rawson, Provincia de San Juan. (S-472/26)",
+    "expedientes": [
+      {
+        "codigo": "S-472/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/472.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "17/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51412/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Sonia E. Rojas Decut",
+      "Sandra M. Mendoza",
+      "José E. Neder",
+      "Eduardo E. de Pedro",
+      "Cándida C. López",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "131",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Galaretto y Otros",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Galaretto y Otros, por el que se transfiere a título gratuito a favor de la Municipalidad de San Javier diversos inmuebles propiedad del Estado Nacional sitos en la Provincia de Santa Fe. (S-258/26)",
+    "expedientes": [
+      {
+        "codigo": "S-258/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/258.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "17/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51410/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Sonia E. Rojas Decut",
+      "Sandra M. Mendoza",
+      "José E. Neder",
+      "Eduardo E. de Pedro",
+      "Cándida C. López",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "130",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Ledesma Abdala de Zamora y Zamora y Otros",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Ledesma Abdala de Zamora y en el del señor senador Zamora y Otros, por el que se transfiere a título gratuito a favor de la Universidad Nacional de Santiago del Estero, un inmueble propiedad del Estado Nacional, ubicado en la Ciudad Capital de la Provincia de Santiago del Estero. (S-94/25 y 342/26)",
+    "expedientes": [
+      {
+        "codigo": "S-94/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/94.25/S/PL"
+      },
+      {
+        "codigo": "S-342/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/342.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "17/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51409/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Sonia E. Rojas Decut",
+      "Sandra M. Mendoza",
+      "José E. Neder",
+      "Eduardo E. de Pedro",
+      "Cándida C. López",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "122",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Terenzi",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Terenzi, de formas especiales de criminalidad ambiental. (S-1064/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1064/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1064.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Justicia y Asuntos Penales",
+    "fechaDictamen": "09/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51351/downloadOrdenDia",
+    "comisiones": [
+      "Justicia y Asuntos Penales",
+      "DE JUSTICIA Y ASUNTOS PENALES",
+      "DE AMBIENTE Y DESARROLLO SUSTENTABLE"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Gonzalo Guzmán Coraita",
+      "Edith E. Terenzi",
+      "Juan C. Pagotto",
+      "Romina M. Almeida",
+      "Patricia Bullrich",
+      "Bartolomé E. Abdala",
+      "María V. Huala",
+      "Enrique M. Goerling Lara",
+      "Carlos O. Arce",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Flavia G. Royón"
+    ],
+    "disidencias": [
+      {
+        "tipo": "parcial",
+        "firmantes": [
+          "Eduardo A. Vischi"
+        ]
+      },
+      {
+        "tipo": "sin aclarar",
+        "firmantes": [
+          "Carolina Losada",
+          "Nadia J. Marquéz",
+          "Maximiliano Abad"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "113",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, por el que se aprueba la Reforma del Convenio Interamericano sobre Permiso Internacional de Radioaficionado, adoptado en la ciudad de Washington D.C., Estados Unidos de América. (PE-150/19)",
+    "expedientes": [
+      {
+        "codigo": "PE-150/19",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/150.19/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "03/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51359/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "ANEXO",
+    "firmantesMayoria": [
+      "Marcelo N. Lewandowski",
+      "Jorge M. Capitanich",
+      "Adán H. Bahl"
+    ]
+  },
+  {
+    "numero": "113",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, por el que se aprueba la Reforma del Convenio Interamericano sobre Permiso Internacional de Radioaficionado, adoptado en la ciudad de Washington D.C., Estados Unidos de América. (PE-150/19)",
+    "expedientes": [
+      {
+        "codigo": "PE-150/19",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/150.19/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Relaciones Exteriores y Culto",
+    "fechaDictamen": "03/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51339/downloadOrdenDia",
+    "comisiones": [
+      "Relaciones Exteriores y Culto",
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Francisco M. Paoltroni",
+      "Nadia J. Márquez",
+      "Ivanna M. Arrascaeta",
+      "Carmen Álvarez Rivero",
+      "Gonzalo Guzmán Coraita",
+      "María B. Monte de Oca",
+      "Sonia E. Rojas Decut",
+      "Eduardo A. Vischi",
+      "Carolina Losada",
+      "Rodolfo A. Suárez",
+      "Enrique M. Goerling Lara",
+      "Guillermo Andrada",
+      "Juan L. Manzur"
+    ]
+  },
+  {
+    "numero": "111",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": "Capitanich",
+    "descripcion": "Dictamen en el proyecto de comunicación del señor senador Capitanich, solicitando al Poder Ejecutivo de la Nación que instruya al Consejo Nacional de Calidad para que realice las acciones necesarias para la adopción del Símbolo de Accesibilidad Universal. (S-169/26)",
+    "expedientes": [
+      {
+        "codigo": "S-169/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/169.26/S/PC"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "03/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51336/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Daniel R. Kroneberger",
+      "Eduardo A. Vischi",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Natalia E. Gadano",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "110",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": "Zamora",
+    "descripcion": "Dictamen en el proyecto de comunicación del señor senador Zamora, solicitando al Poder Ejecutivo Nacional la apertura de una Delegación de la Dirección Nacional de Migraciones en la Ciudad Capital de la Provincia de Santiago del Estero, de una Oficina Migratoria en la ciudad de La Banda y de un centro de documentación rápida. (S-687/26)",
+    "expedientes": [
+      {
+        "codigo": "S-687/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/687.26/S/PC"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51335/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Daniel R. Kroneberger",
+      "Eduardo A. Vischi",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Natalia E. Gadano",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "109",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Uñac",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Uñac, que establece la implementación y adopción del Símbolo Internacional de Accesibilidad Universal. (S-376/26)",
+    "expedientes": [
+      {
+        "codigo": "S-376/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/376.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51334/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Juan C. Godoy",
+      "Carmen Álvarez Rivero",
+      "Enzo P. Fullone",
+      "María E. Orozco",
+      "Mario P. Cervi",
+      "Daniel R. Kroneberger",
+      "Eduardo A. Vischi",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Natalia E. Gadano",
+      "Sandra M. Mendoza",
+      "Daniel P. Bensusán",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "108",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Kroneberger y Gadano",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Kroneberger y en el de la señora senadora Gadano, que establece la obligatoriedad de implementar señalética inclusiva en espacios y edificios públicos del país. (S-351 y 405/26)",
+    "expedientes": [
+      {
+        "codigo": "S-351/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/351.26/S/PL"
+      },
+      {
+        "codigo": "S-405/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/405.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51333/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Juan C. Godoy",
+      "Carmen Álvarez Rivero",
+      "Enzo P. Fullone",
+      "María E. Orozco",
+      "Mario P. Cervi",
+      "Daniel R. Kroneberger",
+      "Eduardo A. Vischi",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Natalia E. Gadano",
+      "Sandra M. Mendoza",
+      "Daniel P. Bensusán",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "107",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Comunicación",
+    "autor": null,
+    "descripcion": "Dictamen en distintos proyectos de comunicación de varios señores senadores, solicitando informes sobre el estado de los programas sociales Volver al Trabajo y de Acompañamiento Social. (S-72, 288 y 514/26)",
+    "expedientes": [
+      {
+        "codigo": "S-72/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/72.26/S/PC"
+      },
+      {
+        "codigo": "S-288/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/288.26/S/PC"
+      },
+      {
+        "codigo": "S-514/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/514.26/S/PC"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "02/06/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51332/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Daniel R. Kroneberger",
+      "Eduardo A. Vischi",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Natalia E. Gadano",
+      "Sandra M. Mendoza",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "16",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Losada y otros",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Losada y otros, por el que se modifica el Código Penal de la Nación, sobre falsas denuncias. (S-228/25)",
+    "expedientes": [
+      {
+        "codigo": "S-228/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/228.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Justicia y Asuntos Penales",
+    "fechaDictamen": "08/04/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51221/downloadOrdenDia",
+    "comisiones": [
+      "Justicia y Asuntos Penales",
+      "DE JUSTICIA Y ASUNTOS PENALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Gonzalo Guzmán Coraita",
+      "Juan C. Pagotto",
+      "Patricia Bullrich",
+      "María B. Monte de Oca",
+      "Luis A. Juez",
+      "Eduardo A. Vischi",
+      "Carolina Losada",
+      "Carlos O. Arce",
+      "Natalia E. Gadano",
+      "Sandra M. Mendoza",
+      "Flavio S. Fama",
+      "María V. Huala",
+      "Beatriz L. Ávila"
+    ]
+  },
+  {
+    "numero": "5",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional solicitando acuerdo para promover al grado inmediato superior al Personal Militar Superior de la Fuerza Aérea Argentina. (PE-145/24)",
+    "expedientes": [
+      {
+        "codigo": "PE-145/24",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/145.24/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "27/03/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51210/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Juan C. Pagotto",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Nadia J. Márquez",
+      "Mercedes G. Valenzuela"
+    ]
+  },
+  {
+    "numero": "4",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional solicitando acuerdo para promover al grado inmediato superior al Personal Militar Superior de la Fuerza Aérea Argentina. (PE-96/22)",
+    "expedientes": [
+      {
+        "codigo": "PE-96/22",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/96.22/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "27/03/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51209/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Juan C. Pagotto",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Nadia J. Márquez",
+      "Mercedes G. Valenzuela"
+    ]
+  }
+]
