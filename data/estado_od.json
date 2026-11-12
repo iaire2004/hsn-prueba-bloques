@@ -1,0 +1,2122 @@
+{
+  "1": {
+    "estado": "APROBADA",
+    "fecha": "10-03-2026",
+    "expedientes_probados": 1
+  },
+  "2": {
+    "estado": "APROBADA",
+    "fecha": "10-03-2026",
+    "expedientes_probados": 1
+  },
+  "3": {
+    "estado": "APROBADA",
+    "fecha": "10-03-2026",
+    "expedientes_probados": 1
+  },
+  "4": {
+    "estado": "PENDIENTE",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "5": {
+    "estado": "PENDIENTE",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "6": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "7": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "8": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "9": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "10": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "11": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "12": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "13": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "14": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "15": {
+    "estado": "APROBADA",
+    "fecha": "27-03-2026",
+    "expedientes_probados": 1
+  },
+  "16": {
+    "estado": "PENDIENTE",
+    "fecha": "08-04-2026",
+    "expedientes_probados": 1
+  },
+  "17": {
+    "estado": "APROBADA",
+    "fecha": "16-04-2026",
+    "expedientes_probados": 1
+  },
+  "18": {
+    "estado": "APROBADA",
+    "fecha": "21-04-2026",
+    "expedientes_probados": 1
+  },
+  "19": {
+    "estado": "APROBADA",
+    "fecha": "21-04-2026",
+    "expedientes_probados": 1
+  },
+  "20": {
+    "estado": "APROBADA",
+    "fecha": "21-04-2026",
+    "expedientes_probados": 1
+  },
+  "21": {
+    "estado": "APROBADA",
+    "fecha": "22-04-2026",
+    "expedientes_probados": 1
+  },
+  "22": {
+    "estado": "APROBADA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "23": {
+    "estado": "APROBADA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "24": {
+    "estado": "APROBADA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "25": {
+    "estado": "APROBADA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "26": {
+    "estado": "APROBADA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "27": {
+    "estado": "APROBADA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "28": {
+    "estado": "DEVUELTA",
+    "fecha": "29-04-2026",
+    "expedientes_probados": 1
+  },
+  "29": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "30": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "31": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "32": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "33": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "34": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "35": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "36": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "37": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "38": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "39": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "40": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "41": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "42": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "43": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "44": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "45": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "46": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "47": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "48": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "49": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "50": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "51": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "52": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "53": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "54": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "55": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "56": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "57": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "58": {
+    "estado": "APROBADA",
+    "fecha": "13-05-2026",
+    "expedientes_probados": 1
+  },
+  "59": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "60": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "61": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "62": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "63": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "64": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "65": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "66": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "67": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "68": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "69": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "70": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "71": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "72": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "73": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "74": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "75": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "76": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "77": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "78": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "79": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "80": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "81": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "82": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "83": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "84": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "85": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "86": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "87": {
+    "estado": "APROBADA",
+    "fecha": "14-05-2026",
+    "expedientes_probados": 1
+  },
+  "88": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "89": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "90": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "91": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "92": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "93": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "94": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "95": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "96": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "97": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "98": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "99": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "100": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "101": {
+    "estado": "APROBADA",
+    "fecha": "15-05-2026",
+    "expedientes_probados": 1
+  },
+  "102": {
+    "estado": "APROBADA",
+    "fecha": "19-05-2026",
+    "expedientes_probados": 1
+  },
+  "103": {
+    "estado": "APROBADA",
+    "fecha": "19-05-2026",
+    "expedientes_probados": 1
+  },
+  "104": {
+    "estado": "APROBADA CON MODIF",
+    "fecha": "20-05-2026",
+    "expedientes_probados": 1
+  },
+  "105": {
+    "estado": "APROBADA",
+    "fecha": "20-05-2026",
+    "expedientes_probados": 1
+  },
+  "106": {
+    "estado": "APROBADA",
+    "fecha": "02-06-2026",
+    "expedientes_probados": 1
+  },
+  "107": {
+    "estado": "PENDIENTE",
+    "fecha": "02-06-2026",
+    "expedientes_probados": 1
+  },
+  "108": {
+    "estado": "PENDIENTE",
+    "fecha": "02-06-2026",
+    "expedientes_probados": 1
+  },
+  "109": {
+    "estado": "PENDIENTE",
+    "fecha": "02-06-2026",
+    "expedientes_probados": 1
+  },
+  "110": {
+    "estado": "PENDIENTE",
+    "fecha": "02-06-2026",
+    "expedientes_probados": 1
+  },
+  "111": {
+    "estado": "PENDIENTE",
+    "fecha": "03-06-2026",
+    "expedientes_probados": 1
+  },
+  "112": {
+    "estado": "APROBADA",
+    "fecha": "03-06-2026",
+    "expedientes_probados": 1
+  },
+  "113": {
+    "estado": "PENDIENTE",
+    "fecha": "03-06-2026",
+    "expedientes_probados": 1
+  },
+  "114": {
+    "estado": "APROBADA",
+    "fecha": "03-06-2026",
+    "expedientes_probados": 1
+  },
+  "115": {
+    "estado": "APROBADA",
+    "fecha": "03-06-2026",
+    "expedientes_probados": 1
+  },
+  "116": {
+    "estado": "APROBADA",
+    "fecha": "04-06-2026",
+    "expedientes_probados": 1
+  },
+  "117": {
+    "estado": "APROBADA",
+    "fecha": "04-06-2026",
+    "expedientes_probados": 1
+  },
+  "118": {
+    "estado": "APROBADA",
+    "fecha": "04-06-2026",
+    "expedientes_probados": 1
+  },
+  "119": {
+    "estado": "APROBADA",
+    "fecha": "04-06-2026",
+    "expedientes_probados": 1
+  },
+  "120": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "121": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "122": {
+    "estado": "PENDIENTE",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "123": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "124": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "125": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "126": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "127": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "128": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "129": {
+    "estado": "APROBADA",
+    "fecha": "09-06-2026",
+    "expedientes_probados": 1
+  },
+  "130": {
+    "estado": "PENDIENTE",
+    "fecha": "17-06-2026",
+    "expedientes_probados": 1
+  },
+  "131": {
+    "estado": "PENDIENTE",
+    "fecha": "17-06-2026",
+    "expedientes_probados": 1
+  },
+  "132": {
+    "estado": "APROBADA",
+    "fecha": "17-06-2026",
+    "expedientes_probados": 1
+  },
+  "133": {
+    "estado": "PENDIENTE",
+    "fecha": "17-06-2026",
+    "expedientes_probados": 1
+  },
+  "134": {
+    "estado": "PENDIENTE",
+    "fecha": "17-06-2026",
+    "expedientes_probados": 1
+  },
+  "135": {
+    "estado": "PENDIENTE",
+    "fecha": "17-06-2026",
+    "expedientes_probados": 1
+  },
+  "136": {
+    "estado": "APROBADA",
+    "fecha": "18-06-2026",
+    "expedientes_probados": 1
+  },
+  "137": {
+    "estado": "PENDIENTE",
+    "fecha": "18-06-2026",
+    "expedientes_probados": 1
+  },
+  "138": {
+    "estado": "PENDIENTE",
+    "fecha": "23-06-2026",
+    "expedientes_probados": 1
+  },
+  "139": {
+    "estado": "APROBADA",
+    "fecha": "23-06-2026",
+    "expedientes_probados": 1
+  },
+  "140": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "141": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "142": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "143": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "144": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "145": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "146": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "147": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "148": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "149": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "150": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "151": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "152": {
+    "estado": "APROBADA",
+    "fecha": "25-06-2026",
+    "expedientes_probados": 1
+  },
+  "153": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "154": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "155": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "156": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "157": {
+    "estado": "APROBADA",
+    "fecha": null,
+    "expedientes_probados": 1
+  },
+  "158": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "159": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "160": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "161": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "162": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "163": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "164": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "165": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "166": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "167": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "168": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "169": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "170": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "171": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "172": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "173": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "174": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "175": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "176": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "177": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "178": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "179": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "180": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "181": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "182": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "183": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "184": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "185": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "186": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "187": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "188": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "189": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "190": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "191": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "192": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "193": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "194": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "195": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "196": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "197": {
+    "estado": "APROBADA",
+    "fecha": "26-06-2026",
+    "expedientes_probados": 1
+  },
+  "198": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "199": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "200": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "201": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "202": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "203": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "204": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "205": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "206": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "207": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "208": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "209": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "210": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "211": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "212": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "213": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "214": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "215": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "216": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "217": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "218": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "219": {
+    "estado": "APROBADA",
+    "fecha": "01-07-2026",
+    "expedientes_probados": 1
+  },
+  "220": {
+    "estado": "APROBADA",
+    "fecha": "02-07-2026",
+    "expedientes_probados": 1
+  },
+  "221": {
+    "estado": "APROBADA",
+    "fecha": "02-07-2026",
+    "expedientes_probados": 1
+  },
+  "222": {
+    "estado": "APROBADA",
+    "fecha": "02-07-2026",
+    "expedientes_probados": 1
+  },
+  "223": {
+    "estado": "PENDIENTE",
+    "fecha": "02-07-2026",
+    "expedientes_probados": 1
+  },
+  "224": {
+    "estado": "PENDIENTE",
+    "fecha": "02-07-2026",
+    "expedientes_probados": 1
+  },
+  "225": {
+    "estado": "APROBADA",
+    "fecha": "02-07-2026",
+    "expedientes_probados": 1
+  },
+  "226": {
+    "estado": null,
+    "fecha": null,
+    "expedientes_probados": 1
+  },
+  "227": {
+    "estado": "APROBADA",
+    "fecha": "15-07-2026",
+    "expedientes_probados": 1
+  },
+  "228": {
+    "estado": "APROBADA",
+    "fecha": "15-07-2026",
+    "expedientes_probados": 1
+  },
+  "229": {
+    "estado": "APROBADA",
+    "fecha": "16-07-2026",
+    "expedientes_probados": 1
+  },
+  "230": {
+    "estado": "APROBADA",
+    "fecha": "16-07-2026",
+    "expedientes_probados": 1
+  },
+  "231": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "232": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "233": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "234": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "235": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "236": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "237": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "238": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "239": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "240": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "241": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "242": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "243": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "244": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "245": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "246": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "247": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "248": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "249": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "250": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "251": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "252": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "253": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "254": {
+    "estado": "APROBADA",
+    "fecha": "05-08-2026",
+    "expedientes_probados": 1
+  },
+  "255": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "256": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "257": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "258": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "259": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "260": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "261": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "262": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "263": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "264": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "265": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "266": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "267": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "268": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "269": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "270": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "271": {
+    "estado": "PENDIENTE",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "272": {
+    "estado": "PENDIENTE",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "273": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "274": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "275": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "276": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "277": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "278": {
+    "estado": "APROBADA",
+    "fecha": "06-08-2026",
+    "expedientes_probados": 1
+  },
+  "279": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "280": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "281": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "282": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "283": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "284": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "285": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "286": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "287": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "288": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "289": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "290": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "291": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "292": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "293": {
+    "estado": "APROBADA",
+    "fecha": "12-08-2026",
+    "expedientes_probados": 1
+  },
+  "294": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "295": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "296": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "297": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "298": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "299": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "300": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "301": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "302": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "303": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "304": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "305": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "306": {
+    "estado": "APROBADA",
+    "fecha": "13-08-2026",
+    "expedientes_probados": 1
+  },
+  "307": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "308": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "309": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "310": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "311": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "312": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "313": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "314": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "315": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "316": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "317": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "318": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "319": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "320": {
+    "estado": "APROBADA",
+    "fecha": "19-08-2026",
+    "expedientes_probados": 1
+  },
+  "321": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "322": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "323": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "324": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "325": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "326": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "327": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "328": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "329": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "330": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "331": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "332": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "333": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "334": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "335": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "336": {
+    "estado": "PENDIENTE",
+    "fecha": "25-08-2026",
+    "expedientes_probados": 1
+  },
+  "337": {
+    "estado": "APROBADA",
+    "fecha": "26-08-2026",
+    "expedientes_probados": 1
+  },
+  "338": {
+    "estado": "APROBADA",
+    "fecha": "26-08-2026",
+    "expedientes_probados": 1
+  },
+  "339": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "340": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "341": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "342": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "343": {
+    "estado": "PENDIENTE",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "344": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "345": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "346": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "347": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "348": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "349": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "350": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "351": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "352": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "353": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "354": {
+    "estado": "APROBADA",
+    "fecha": "27-08-2026",
+    "expedientes_probados": 1
+  },
+  "355": {
+    "estado": "PENDIENTE",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "356": {
+    "estado": "PENDIENTE",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "357": {
+    "estado": "PENDIENTE",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "358": {
+    "estado": "PENDIENTE",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "359": {
+    "estado": "PENDIENTE",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "360": {
+    "estado": "APROBADA",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "361": {
+    "estado": "APROBADA",
+    "fecha": "02-09-2026",
+    "expedientes_probados": 1
+  },
+  "362": {
+    "estado": "APROBADA",
+    "fecha": "03-09-2026",
+    "expedientes_probados": 1
+  },
+  "363": {
+    "estado": "APROBADA",
+    "fecha": "03-09-2026",
+    "expedientes_probados": 1
+  },
+  "364": {
+    "estado": "PENDIENTE",
+    "fecha": "03-09-2026",
+    "expedientes_probados": 1
+  },
+  "365": {
+    "estado": "APROBADA",
+    "fecha": "03-09-2026",
+    "expedientes_probados": 1
+  },
+  "366": {
+    "estado": "APROBADA",
+    "fecha": "08-09-2026",
+    "expedientes_probados": 1
+  },
+  "367": {
+    "estado": "APROBADA CON MODIF",
+    "fecha": "09-09-2026",
+    "expedientes_probados": 1
+  },
+  "368": {
+    "estado": "PENDIENTE",
+    "fecha": "09-09-2026",
+    "expedientes_probados": 1
+  },
+  "369": {
+    "estado": "PENDIENTE",
+    "fecha": null,
+    "expedientes_probados": 1
+  },
+  "370": {
+    "estado": "APROBADA",
+    "fecha": "09-09-2026",
+    "expedientes_probados": 1
+  },
+  "371": {
+    "estado": "PENDIENTE",
+    "fecha": "09-09-2026",
+    "expedientes_probados": 1
+  },
+  "372": {
+    "estado": "APROBADA",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "373": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "374": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "375": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "376": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "377": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "378": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "379": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "380": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "381": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "382": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "383": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "384": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "385": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "386": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "387": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "388": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "389": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "390": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "391": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "392": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "393": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "394": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "395": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "396": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "397": {
+    "estado": "PENDIENTE",
+    "fecha": "10-09-2026",
+    "expedientes_probados": 1
+  },
+  "398": {
+    "estado": "PENDIENTE",
+    "fecha": "16-09-2026",
+    "expedientes_probados": 1
+  },
+  "399": {
+    "estado": "PENDIENTE",
+    "fecha": "16-09-2026",
+    "expedientes_probados": 1
+  },
+  "400": {
+    "estado": "PENDIENTE",
+    "fecha": "16-09-2026",
+    "expedientes_probados": 1
+  },
+  "401": {
+    "estado": "PENDIENTE",
+    "fecha": "16-09-2026",
+    "expedientes_probados": 1
+  },
+  "402": {
+    "estado": "APROBADA",
+    "fecha": "16-09-2026",
+    "expedientes_probados": 1
+  },
+  "403": {
+    "estado": "PENDIENTE",
+    "fecha": "22-09-2026",
+    "expedientes_probados": 1
+  },
+  "404": {
+    "estado": "PENDIENTE",
+    "fecha": "22-09-2026",
+    "expedientes_probados": 1
+  },
+  "405": {
+    "estado": "PENDIENTE",
+    "fecha": "22-09-2026",
+    "expedientes_probados": 1
+  },
+  "406": {
+    "estado": "PENDIENTE",
+    "fecha": "23-09-2026",
+    "expedientes_probados": 1
+  },
+  "407": {
+    "estado": "PENDIENTE",
+    "fecha": "23-09-2026",
+    "expedientes_probados": 1
+  },
+  "408": {
+    "estado": "PENDIENTE",
+    "fecha": "15-10-2026",
+    "expedientes_probados": 1
+  },
+  "409": {
+    "estado": "APROBADA",
+    "fecha": "21-10-2026",
+    "expedientes_probados": 1
+  },
+  "410": {
+    "estado": "PENDIENTE",
+    "fecha": "22-10-2026",
+    "expedientes_probados": 1
+  },
+  "411": {
+    "estado": "PENDIENTE",
+    "fecha": "22-10-2026",
+    "expedientes_probados": 1
+  },
+  "412": {
+    "estado": "PENDIENTE",
+    "fecha": "22-10-2026",
+    "expedientes_probados": 1
+  },
+  "413": {
+    "estado": "APROBADA",
+    "fecha": "22-10-2026",
+    "expedientes_probados": 1
+  },
+  "414": {
+    "estado": "PENDIENTE",
+    "fecha": "28-10-2026",
+    "expedientes_probados": 1
+  },
+  "415": {
+    "estado": "PENDIENTE",
+    "fecha": "28-10-2026",
+    "expedientes_probados": 1
+  },
+  "416": {
+    "estado": "PENDIENTE",
+    "fecha": "28-10-2026",
+    "expedientes_probados": 1
+  },
+  "417": {
+    "estado": "PENDIENTE",
+    "fecha": "28-10-2026",
+    "expedientes_probados": 1
+  },
+  "418": {
+    "estado": "PENDIENTE",
+    "fecha": "28-10-2026",
+    "expedientes_probados": 1
+  },
+  "419": {
+    "estado": "PENDIENTE",
+    "fecha": "04-11-2026",
+    "expedientes_probados": 1
+  },
+  "420": {
+    "estado": "PENDIENTE",
+    "fecha": "04-11-2026",
+    "expedientes_probados": 1
+  },
+  "421": {
+    "estado": "PENDIENTE",
+    "fecha": "04-11-2026",
+    "expedientes_probados": 1
+  },
+  "422": {
+    "estado": "PENDIENTE",
+    "fecha": "05-11-2026",
+    "expedientes_probados": 1
+  },
+  "423": {
+    "estado": "PENDIENTE",
+    "fecha": "05-11-2026",
+    "expedientes_probados": 1
+  },
+  "424": {
+    "estado": "PENDIENTE",
+    "fecha": "06-11-2026",
+    "expedientes_probados": 1
+  }
+}
