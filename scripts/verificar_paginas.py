@@ -151,6 +151,32 @@ def comparar_proyectos(avisos):
             avisos.append("Proyectos: %d con '%s' distinto entre la lectura propia y la fuente" % (n, campo))
 
 
+def comparar_ayuda_memoria(avisos):
+    """Modo sombra: compara la Ayuda Memoria propia (armada del Senado) con la de la fuente."""
+    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fuente = os.environ.get("HSN_SOURCE", os.path.join(raiz, "source"))
+    try:
+        propia = json.load(open(os.path.join(raiz, "data", "ayuda_memoria_auto.json"), encoding="utf-8"))
+        ajena = json.load(open(os.path.join(fuente, "data", "ayuda_memoria.json"), encoding="utf-8"))
+    except Exception:
+        return
+    k = lambda f: (f.get("periodo"), str(f.get("numero")), f.get("tipoOD"))
+    a = {k(f): f for f in propia}
+    b = {k(f): f for f in ajena if f.get("periodo") == 2026}
+    solo_a, solo_b = set(a) - set(b), set(b) - set(a)
+    if solo_a or solo_b:
+        avisos.append("Ayuda Memoria: sólo en la propia %d / sólo en la fuente %d" % (len(solo_a), len(solo_b)))
+        for x in sorted(solo_a, key=str)[:5]:
+            avisos.append("  sólo en la propia: OD %s %s" % (x[1], x[2] or ""))
+        for x in sorted(solo_b, key=str)[:5]:
+            avisos.append("  falta en la propia: OD %s %s" % (x[1], x[2] or ""))
+    norm = lambda v: sorted(str(i) for i in v) if isinstance(v, list) else v
+    for campo in ("comisionCabecera", "fechaDictamen", "descripcion", "firmantesMayoria", "expedientes"):
+        n = sum(1 for x in set(a) & set(b) if norm(a[x].get(campo)) != norm(b[x].get(campo)))
+        if n:
+            avisos.append("Ayuda Memoria: %d con '%s' distinto entre la propia y la fuente" % (n, campo))
+
+
 def main():
     graves, avisos = [], []
     slugs = sorted(d for d in os.listdir(OUT) if os.path.isfile(os.path.join(OUT, d, "index.html"))
@@ -194,6 +220,7 @@ def main():
     comparar_comisiones(avisos)
     comparar_agenda_od(avisos)
     comparar_proyectos(avisos)
+    comparar_ayuda_memoria(avisos)
     for a in avisos:
         print("AVISO  " + a)
     for g in graves:
