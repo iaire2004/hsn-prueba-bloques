@@ -1,8 +1,16 @@
 name: Actualizar páginas por bloque
 
 on:
+  # Dos veces por día (hora de Argentina): 09:40 y 22:40. GitHub trabaja en UTC (ART = UTC-3).
+  schedule:
+    - cron: "40 12 * * *"
+    - cron: "40 1 * * *"
   workflow_dispatch:
     inputs:
+      reprocesar_sanciones:
+        description: "Sanciones: boletines a volver a leer (ej. 8/26,9/26 o TODOS). Dejar vacío en el uso normal."
+        type: string
+        default: ""
       prueba_completa:
         description: "Correr también la prueba desde cero (agenda y OD; tarda unos 3 minutos más)"
         type: boolean
@@ -26,7 +34,10 @@ jobs:
       - name: Checkout de este repo
         uses: actions/checkout@v4
 
-      - name: Checkout de los datos (repo del sistema legislativo)
+      # Solo para sembrar la PRIMERA vez lo que este repo todavía no tiene (fotos, sanciones iniciales) y
+      # para el cruce de control del verificador. Las páginas NO leen estos datos. Si falla, no frena nada.
+      - name: Checkout de control (repo del sistema legislativo)
+        continue-on-error: true
         uses: actions/checkout@v4
         with:
           repository: bonifaciomariano/hsn-sistema-legislativo
@@ -39,6 +50,13 @@ jobs:
 
       - name: Instalar dependencias del scraper de votaciones
         run: pip install requests beautifulsoup4 pdfplumber openpyxl
+
+      # Archivos fijos (fotos de senadores, tipografía): se copian una sola vez si faltan.
+      - name: Sembrar archivos fijos (solo la primera vez)
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+        run: python scripts/sembrar_fijos.py
 
       # Si falla (sitio caído o limitando acceso) no frena la generación:
       # las páginas se arman con lo que ya está guardado.
@@ -54,9 +72,8 @@ jobs:
           HSN_SOURCE: source
         run: python scripts/padron_senadores.py
 
-      # Comisiones propias leídas del Senado (MODO SOMBRA: las páginas aún usan las de la fuente;
-      # el verificador compara). Si el Senado no responde, conserva lo anterior.
-      - name: Actualizar comisiones (modo sombra)
+      # Comisiones leídas directo del Senado. Si el Senado no responde, conserva lo anterior.
+      - name: Actualizar comisiones
         continue-on-error: true
         env:
           HSN_SOURCE: source
@@ -67,20 +84,20 @@ jobs:
         continue-on-error: true
         run: python scripts/bicamerales_senado.py
 
-      - name: Actualizar agenda y órdenes del día (modo sombra)
+      - name: Actualizar agenda y órdenes del día
         continue-on-error: true
         env:
           HSN_SOURCE: source
         run: python scripts/agenda_od_senado.py
 
-      # Proyectos propios leídos del Senado (MODO SOMBRA). Siembra con los de la fuente la primera vez.
-      - name: Actualizar proyectos (modo sombra)
+      # Proyectos leídos directo del Senado (incremental; la primera vez parte de una base sembrada).
+      - name: Actualizar proyectos
         continue-on-error: true
         env:
           HSN_SOURCE: source
         run: python scripts/proyectos_senado.py
 
-      # Ayuda Memoria propia armada del Senado (MODO SOMBRA): las OD pendientes, con datos del PDF de cada una.
+      # Ayuda Memoria armada del Senado: las OD pendientes, con datos del PDF de cada una.
       # Los PDF van a /tmp (no se suben al repo) y se guardan en caché entre corridas.
       - name: Cache de PDF de OD
         uses: actions/cache@v4
@@ -89,12 +106,20 @@ jobs:
           key: pdfs-od-${{ github.run_id }}
           restore-keys: pdfs-od-
 
-      - name: Actualizar Ayuda Memoria (modo sombra)
+      - name: Actualizar Ayuda Memoria
         continue-on-error: true
         env:
           HSN_SOURCE: source
           PYTHONUNBUFFERED: "1"
         run: python -u scripts/ayuda_memoria_senado.py
+
+      # Sanciones: Boletín de Novedades de cada sesión (PDF del Senado). Incremental.
+      - name: Actualizar sanciones (Boletín de Novedades)
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+          SANCIONES_REPROCESAR: ${{ github.event.inputs.reprocesar_sanciones }}
+        run: python scripts/sanciones_senado.py
 
       - name: Prueba desde cero (agenda y OD, solo del Senado)
         if: ${{ inputs.prueba_completa }}
@@ -117,7 +142,6 @@ jobs:
 
       - name: Generar páginas por bloque
         env:
-          HSN_SOURCE: source
           HSN_OUT: .
           BASE_URL: https://iaire2004.github.io/hsn-prueba-bloques/
         run: python scripts/generar_bloques.py
