@@ -38,7 +38,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instalar dependencias del scraper de votaciones
-        run: pip install requests beautifulsoup4 pdfplumber
+        run: pip install requests beautifulsoup4 pdfplumber openpyxl
 
       # Si falla (sitio caído o limitando acceso) no frena la generación:
       # las páginas se arman con lo que ya está guardado.
@@ -80,6 +80,22 @@ jobs:
           HSN_SOURCE: source
         run: python scripts/proyectos_senado.py
 
+      # Ayuda Memoria propia armada del Senado (MODO SOMBRA): las OD pendientes, con datos del PDF de cada una.
+      # Los PDF van a /tmp (no se suben al repo) y se guardan en caché entre corridas.
+      - name: Cache de PDF de OD
+        uses: actions/cache@v4
+        with:
+          path: /tmp/pdfs_od
+          key: pdfs-od-${{ github.run_id }}
+          restore-keys: pdfs-od-
+
+      - name: Actualizar Ayuda Memoria (modo sombra)
+        continue-on-error: true
+        env:
+          HSN_SOURCE: source
+          PYTHONUNBUFFERED: "1"
+        run: python -u scripts/ayuda_memoria_senado.py
+
       - name: Prueba desde cero (agenda y OD, solo del Senado)
         if: ${{ inputs.prueba_completa }}
         continue-on-error: true
@@ -90,6 +106,14 @@ jobs:
         continue-on-error: true
         timeout-minutes: 300
         run: python scripts/prueba_proyectos_cero.py
+
+      - name: Guardar copia de la prueba desde cero
+        if: ${{ inputs.prueba_proyectos }}
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: proyectos-cero
+          path: /tmp/salida_prueba/
 
       - name: Generar páginas por bloque
         env:
