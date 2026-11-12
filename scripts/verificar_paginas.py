@@ -40,7 +40,7 @@ def cruce_actas(avisos, en_paginas, aprobados_pag):
     fuente = os.environ.get("HSN_SOURCE", os.path.join(raiz, "source"))
     try:
         actas = json.load(open(os.path.join(raiz, "data", "votaciones.json"), encoding="utf-8"))["actas"]
-        proy = json.load(open(os.path.join(fuente, "data", "proyectos.json"), encoding="utf-8"))
+        proy = json.load(open(os.path.join(raiz, "data", "proyectos.json"), encoding="utf-8"))
         proy = proy if isinstance(proy, list) else proy.get("proyectos", [])
     except Exception as e:
         avisos.append("Cruce con actas omitido (%s)" % e)
@@ -172,9 +172,16 @@ def comparar_ayuda_memoria(avisos):
             avisos.append("  falta en la propia: OD %s %s" % (x[1], x[2] or ""))
     norm = lambda v: sorted(str(i) for i in v) if isinstance(v, list) else v
     for campo in ("comisionCabecera", "fechaDictamen", "descripcion", "firmantesMayoria", "expedientes"):
-        n = sum(1 for x in set(a) & set(b) if norm(a[x].get(campo)) != norm(b[x].get(campo)))
-        if n:
-            avisos.append("Ayuda Memoria: %d con '%s' distinto entre la propia y la fuente" % (n, campo))
+        difs = sorted((x for x in set(a) & set(b) if norm(a[x].get(campo)) != norm(b[x].get(campo))), key=str)
+        if difs:
+            avisos.append("Ayuda Memoria: %d con '%s' distinto entre la propia y la fuente" % (len(difs), campo))
+            for x in difs[:3]:
+                va, vb = norm(a[x].get(campo)), norm(b[x].get(campo))
+                if isinstance(va, list) and isinstance(vb, list):
+                    detalle = "sólo propia %s / sólo fuente %s" % (sorted(set(va) - set(vb)), sorted(set(vb) - set(va)))
+                else:
+                    detalle = "propia %s / fuente %s" % (str(va)[:60], str(vb)[:60])
+                avisos.append("  OD %s %s: %s" % (x[1], x[2] or "", detalle))
 
 
 def main():

@@ -14,7 +14,7 @@ las cifras coinciden con las del sistema principal y cualquier corrección
 allá se refleja acá.
 
 Variables de entorno (todas opcionales):
-    HSN_SOURCE  carpeta del repo con data/ y scripts/generar_web.py
+    (los datos salen de data/ de este repo; ya no se lee el repo del sistema legislativo)
     HSN_OUT     carpeta de salida
     HSN_VOTACIONES  archivo votaciones.json (default: data/votaciones.json)
 
@@ -134,7 +134,8 @@ def construir_bicamerales(ctx, bloque):
 
 
 def cargar_gw():
-    ruta = os.path.join(SOURCE, "scripts", "generar_web.py")
+    # Núcleo propio (scripts/generar_web.py): lee SOLO los datos de este repo (data/).
+    ruta = os.path.join(HERE, "generar_web.py")
     spec = importlib.util.spec_from_file_location("generar_web", ruta)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
@@ -520,7 +521,7 @@ def foto_base64(ctx, nombre_oficial):
     archivo = ctx["fotos"].get(nombre_oficial)
     if not archivo:
         return None
-    ruta = os.path.join(SOURCE, "data", "fotos", archivo)
+    ruta = os.path.join(ROOT, "data", "fotos", archivo)
     if not os.path.exists(ruta):
         return None
     with open(ruta, "rb") as f:
@@ -1113,30 +1114,40 @@ def render_portada(bloques):
     if base and not base.endswith("/"):
         base += "/"
     botones = "\n".join(
-        '<a class="bt" href="%s%s/index.html" onclick="location.replace(this.href);return false" '
-        'style="background:%s;color:%s">%s</a>' % (base, slug, color, _texto_sobre(color), nombre)
+        '<a class="bt" href="%s%s/index.html" onclick="location.replace(this.href);return false">'
+        '<i style="background:%s"></i><span>%s</span><b aria-hidden="true">&rarr;</b></a>' % (base, slug, color, nombre)
         for slug, nombre, color in bloques)
     return """<!doctype html>
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow"><title>Seguimiento legislativo por bloque</title>
 <style>
+:root{--ink:#14233A;--muted:#6B7788;--line:#E3E7EE;--bg:#FAFBFC;--accent:#1B5EA2}
 *{box-sizing:border-box}
-body{font-family:Poppins,Calibri,'Segoe UI',sans-serif;background:#F5F7FA;color:#4A4A4A;margin:0;min-height:100vh}
-header{background:#1B5EA2;color:#fff;padding:28px 24px}
-header h1{margin:0 0 4px;font-size:24px}header p{margin:0;font-size:14px;opacity:.9}
-main{max-width:980px;margin:0 auto;padding:28px 20px 48px}
-h2{color:#1B5EA2;font-size:18px;margin:0 0 18px;font-weight:600}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
-.bt{display:flex;align-items:center;justify-content:center;text-align:center;min-height:84px;padding:14px 16px;border-radius:10px;
-font-weight:600;font-size:16px;line-height:1.3;text-decoration:none;box-shadow:0 1px 3px rgba(0,0,0,.18);transition:transform .12s,box-shadow .12s}
-.bt:hover,.bt:focus{transform:translateY(-2px);box-shadow:0 4px 10px rgba(0,0,0,.25);outline:none}
-footer{text-align:center;font-size:12px;color:#7a7a7a;padding:0 20px 28px}
+body{font-family:Poppins,'Segoe UI',Calibri,sans-serif;background:var(--bg);color:var(--ink);margin:0;min-height:100vh;
+display:flex;flex-direction:column}
+main{width:100%;max-width:760px;margin:0 auto;padding:72px 24px 40px;flex:1}
+.kicker{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:600;margin:0 0 14px}
+h1{font-size:30px;line-height:1.2;font-weight:600;letter-spacing:-.01em;margin:0 0 10px}
+.sub{font-size:15px;color:var(--muted);margin:0 0 44px;line-height:1.5}
+.lista{display:grid;grid-template-columns:1fr 1fr;column-gap:40px;border-top:1px solid var(--line)}
+.bt{display:flex;align-items:center;gap:14px;padding:16px 4px;border-bottom:1px solid var(--line);
+color:var(--ink);text-decoration:none;font-size:15.5px;font-weight:500;transition:padding .15s,color .15s}
+.bt i{width:10px;height:10px;border-radius:50%;flex:none;box-shadow:inset 0 0 0 1px rgba(0,0,0,.14)}
+.bt span{flex:1;line-height:1.3}
+.bt b{font-weight:400;color:var(--muted);opacity:0;transform:translateX(-6px);transition:opacity .15s,transform .15s}
+.bt:hover,.bt:focus{padding-left:12px;color:var(--accent);outline:none}
+.bt:hover b,.bt:focus b{opacity:1;transform:none}
+footer{font-size:12px;color:var(--muted);text-align:center;padding:0 24px 28px}
+@media(max-width:620px){main{padding:44px 20px 28px}h1{font-size:25px}.lista{grid-template-columns:1fr}.bt b{opacity:1;transform:none}}
 </style></head>
-<body><header><h1>Seguimiento legislativo por bloque</h1><p>Prosecretaría Parlamentaria · Senado de la Nación Argentina</p></header>
-<main><h2>Elegí tu bloque</h2><div class="grid">
+<body><main>
+<p class="kicker">Prosecretar&iacute;a Parlamentaria &middot; Senado de la Naci&oacute;n</p>
+<h1>Seguimiento legislativo por bloque</h1>
+<p class="sub">Eleg&iacute; tu bloque para ver sus proyectos, reuniones de comisi&oacute;n y votaciones.</p>
+<div class="lista">
 """ + botones + """
 </div></main>
-<footer>Información pública del Senado de la Nación, procesada automáticamente.</footer></body></html>
+<footer>Informaci&oacute;n p&uacute;blica del Senado de la Naci&oacute;n, procesada autom&aacute;ticamente.</footer></body></html>
 """
 
 

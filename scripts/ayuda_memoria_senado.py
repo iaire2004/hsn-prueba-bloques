@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """ayuda_memoria_senado.py — Ayuda Memoria PROPIA de este repo (data/ayuda_memoria_auto.json).
 
-MODO SOMBRA: las páginas siguen usando la Ayuda Memoria del repo del sistema legislativo; esta copia
-se arma directo del Senado y el verificador la compara con la de la fuente.
+Las páginas usan este archivo (data/ayuda_memoria.json, copia de ayuda_memoria_auto.json). Se arma
+directo del Senado.
 
 La Ayuda Memoria = las Órdenes del Día cuyo ESTADO en el Senado es PENDIENTE; los datos salen del PDF
 de cada OD. Usa los datos propios (data/od.json y data/proyectos.json de este repo).
@@ -67,6 +67,8 @@ def main():
         os.remove(copia)
     except OSError:
         pass
+    if despues:
+        shutil.copyfile(SALIDA, os.path.join(DATA, "ayuda_memoria.json"))  # es la que usan las páginas
     print("Ayuda Memoria propia: %s fichas antes, %s después." % (antes, despues))
     return 0
 

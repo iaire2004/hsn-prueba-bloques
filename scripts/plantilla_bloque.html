@@ -214,6 +214,44 @@ footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
   .panel[hidden]{display:block}
   body{background:#fff}
 }
+
+/* ── v3: diseño minimalista (misma línea que la portada) ──
+   Menos azul: el azul queda para lo que se toca; texto en tinta oscura; líneas finas; más aire. */
+:root{--tinta:#14233A;--suave:#6B7788;--linea:#E3E7EE}
+body{background:#FAFBFC;color:var(--tinta)}
+.hdr{border-bottom-color:var(--linea)}
+.portada{padding:36px 0 16px}
+.portada .bloque-titulo{border-left:0;padding:0}
+.punto-bloque{display:none}
+h1{color:var(--tinta);font-weight:600;letter-spacing:-.01em}
+h1::after{content:"";display:block;width:48px;height:3px;border-radius:2px;background:var(--bloque,var(--azul));margin-top:12px}
+.etq{color:var(--azul);font-size:12px}
+.sub{color:var(--suave)}
+.tabs{border-bottom-color:var(--linea);box-shadow:none}
+.tab{font-weight:500;color:var(--suave)}
+.tab[aria-selected="true"]{color:var(--tinta);font-weight:600}
+h2{color:var(--tinta);font-weight:600;font-size:19px;border-bottom:0;margin:36px 0 10px;padding-bottom:0}
+h3{color:var(--tinta);font-weight:600}
+.card,.proy{border-color:var(--linea)}
+.card{padding:16px 18px}
+.kpi-card{border-top:1px solid var(--linea)}
+.kpi-v{color:var(--tinta);font-weight:600;font-size:36px}
+.kpi-l{color:var(--suave)}
+.callout{background:transparent;border-left:2px solid var(--linea);color:var(--tinta);font-style:normal;font-size:15.5px;line-height:1.7;padding:2px 0 2px 20px;border-radius:0}
+.callout b{font-weight:600}
+.callout .cf{color:var(--suave);opacity:1}
+.proy{padding:14px 18px;margin:12px 0}
+.proy .ext{font-size:13px;color:#3A4658;letter-spacing:.005em;line-height:1.55}
+.proy .meta{color:var(--suave)}
+.proy .meta b{color:var(--tinta)}
+.sen .nom{color:var(--tinta)}
+.hb .v,.fila .k,.seg-linea b{color:var(--tinta)}
+.hb .barra{background:#9DB8D6}.hb .barra.alt{background:var(--azul)}
+th{color:var(--suave);font-weight:600;border-bottom:1px solid var(--linea)}
+td{border-bottom-color:var(--linea)}
+tr:nth-child(even) td{background:#FAFBFC}
+.chip{background:#EEF3F9}
+.nota{font-style:normal}
 </style>
 </head>
 <body>
