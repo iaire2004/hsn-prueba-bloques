@@ -1,5 +1,78 @@
 [
   {
+    "numero": "425",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Moisés y otros",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Moisés y otros, creando el Régimen de Cabotaje, Marina Mercante y Admisión Temporaria. (S-1844/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1844/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1844.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Infraestructura, Vivienda y Transporte",
+    "fechaDictamen": "12/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51770/downloadOrdenDia",
+    "comisiones": [
+      "Infraestructura, Vivienda y Transporte",
+      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "tipoOD": "ANEXO",
+    "firmantesMayoria": [
+      "José E. Neder"
+    ]
+  },
+  {
+    "numero": "425",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Moisés y otros",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Moisés y otros, creando el Régimen de Cabotaje, Marina Mercante y Admisión Temporaria. (S-1844/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1844/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1844.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Infraestructura, Vivienda y Transporte",
+    "fechaDictamen": "12/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51769/downloadOrdenDia",
+    "comisiones": [
+      "Infraestructura, Vivienda y Transporte",
+      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Beatriz L. Ávila",
+      "Agustín A. Monteverde",
+      "Enzo P. Fullone",
+      "Silvana L. Schneider",
+      "Romina M. Almeida",
+      "Ezequiel Atauche",
+      "Joaquín A. Benegas Lynch",
+      "Bruno A. Olivera Lucero",
+      "Eduardo H. Galaretto",
+      "Bartolomé E. Abdala",
+      "Carlos M. Espínola",
+      "Patricia Bullrich",
+      "Sandra M. Mendoza",
+      "Guillermo E. Andrada"
+    ],
+    "disidencias": [
+      {
+        "tipo": "sin aclarar",
+        "firmantes": [
+          "Julieta Corroza"
+        ]
+      }
+    ]
+  },
+  {
     "numero": "424",
     "periodo": 2026,
     "origen": "Poder Ejecutivo",
