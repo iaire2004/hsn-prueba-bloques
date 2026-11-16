@@ -20876,5 +20876,21 @@
     ],
     "url_pdf": "https://www.senado.gob.ar/parlamentario/parlamentaria/51770/downloadOrdenDia",
     "fecha": null
+  },
+  {
+    "nro_od": 426,
+    "anio_od": 2026,
+    "tipo_od": "N",
+    "expedientes": [
+      {
+        "nro": 334,
+        "anio": 2025,
+        "tipo": "PD",
+        "origen": "S",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/334.25/S/PD"
+      }
+    ],
+    "url_pdf": "https://www.senado.gob.ar/parlamentario/parlamentaria/51771/downloadOrdenDia",
+    "fecha": null
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "numero": "426",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Olivera Lucero",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Olivera Lucero, adhiriendo a la celebración del Día Mundial del Síndrome de Down. (S-334/25)",
+    "expedientes": [
+      {
+        "codigo": "S-334/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/334.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Población y Desarrollo Humano",
+    "fechaDictamen": "16/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51771/downloadOrdenDia",
+    "comisiones": [
+      "Población y Desarrollo Humano",
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Alicia M. A. Kirchner",
+      "Juan C. Godoy",
+      "Carmen Álvarez Rivero",
+      "María E. Orozco",
+      "Daniel R. Kroneberger",
+      "María V. Huala",
+      "Daniel P. Bensusán",
+      "María T. M. González",
+      "Ana I. Marks"
+    ]
+  },
+  {
     "numero": "425",
     "periodo": 2026,
     "origen": "Senado",
