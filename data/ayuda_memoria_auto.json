@@ -1,5 +1,104 @@
 [
   {
+    "numero": "429",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Capitanich",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Capitanich, por el que se instituye el \"Día Nacional del Veterano y Caídos Indígenas en la Guerra de Malvinas\". (S-1445/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1445/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1445.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "17/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51775/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "428",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Moisés y Andrada",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Moisés y del señor senador Andrada, declarando bien histórico artístico dentro del patrimonio cultural nacional a los instrumentos musicales andinos: \"anata\", \"erke\", \"pil pil\" y “caja de copla\". (S-643/25)",
+    "expedientes": [
+      {
+        "codigo": "S-643/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/643.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "17/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51774/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "427",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Fama",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Fama, por el que declara Capital Nacional de la Nuez, al corredor conocido como \"Ruta de la Nuez\", conformado por diversos departamentos de la provincia de Catamarca. (S-313/25)",
+    "expedientes": [
+      {
+        "codigo": "S-313/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/313.25/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "17/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51772/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Carmen Álvarez Rivero",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
     "numero": "426",
     "periodo": 2026,
     "origen": "Senado",
