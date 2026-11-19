@@ -1,5 +1,186 @@
 [
   {
+    "numero": "434",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, sobre Reforma Electoral Integral. (PE-102/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-102/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/102.26/PE/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Constitucionales",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51781/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Constitucionales",
+      "DE ASUNTOS CONSTITUCIONALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Agustín P. Coto",
+      "Rodolfo A. Suárez",
+      "María B. Monte de Oca",
+      "Nadia J. Márquez",
+      "Luis A. Juez",
+      "Patricia Bullrich",
+      "Ivanna M. Arrascaeta",
+      "Eduardo A. Vischi"
+    ],
+    "disidencias": [
+      {
+        "tipo": "sin aclarar",
+        "firmantes": [
+          "Carlos M. Espínola",
+          "Alejandra M. Vigo"
+        ]
+      },
+      {
+        "tipo": "parcial",
+        "firmantes": [
+          "Flavio S. Fama"
+        ]
+      }
+    ]
+  },
+  {
+    "numero": "433",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión, por el que se transfiere a título gratuito el inmueble propiedad del Estado nacional correspondiente al Centro de Acopio y Embarque Barranqueras a favor del Gobierno de la provincia del Chaco. (CD-21/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-21/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/21.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51780/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustí P. Coto",
+      "María V. Huala",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "432",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Capitanich y otros",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Capitanich y otros, por el que se declara bien de interés histórico nacional al submarino IKL 209 tipo 1200 ARA S-32 \"San Luis\", perteneciente a la Armada argentina. (S-1668/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1668/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1668.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51779/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "431",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Valenzuela",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Valenzuela, por el que se reconoce a la \"Peregrinación de San Luis del Palmar a Itatí\" como patrimonio cultural inmaterial argentino, en la provincia de Corrientes. (S-268/26)",
+    "expedientes": [
+      {
+        "codigo": "S-268/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/268.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51778/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "430",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión, por el que se modifica el Código Penal de la Nación, sobre Vandalismo Rural. (CD-19/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-19/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/19.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Justicia y Asuntos Penales",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51777/downloadOrdenDia",
+    "comisiones": [
+      "Justicia y Asuntos Penales",
+      "DE JUSTICIA Y ASUNTOS PENALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Gonzalo Guzmán Coraita",
+      "Claudia C. López",
+      "Patricia Bullrich",
+      "María B. Monte de Oca",
+      "Eduardo A. Vischi",
+      "Carolina Losada",
+      "María V. Huala",
+      "Carlos O. Arce",
+      "Sandra M. Mendoza",
+      "María Florencia López",
+      "Daniel P. Bensusán"
+    ]
+  },
+  {
     "numero": "429",
     "periodo": 2026,
     "origen": "Senado",

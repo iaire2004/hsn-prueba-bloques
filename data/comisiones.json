@@ -991,6 +991,11 @@
         "rol": "Presidente"
       },
       {
+        "nombre": "CRISTINA, Andrea Marcela",
+        "bloque": "FRENTE PRO",
+        "rol": "Vicepresidente"
+      },
+      {
         "nombre": "OROZCO, María Emilia",
         "bloque": "LA LIBERTAD AVANZA",
         "rol": ""
@@ -1018,11 +1023,6 @@
       {
         "nombre": "ARCE, Carlos Omar",
         "bloque": "MOVIMIENTO POR MISIONES",
-        "rol": ""
-      },
-      {
-        "nombre": "CRISTINA, Andrea Marcela",
-        "bloque": "FRENTE PRO",
         "rol": ""
       },
       {
