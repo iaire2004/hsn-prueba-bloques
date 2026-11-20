@@ -122,6 +122,28 @@
     "aprobado_por_el_senado_con_od": true
   },
   {
+    "id": "S-1636/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "475/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-1826/26",
+    "bloques": [
+      "Primero los Salteños"
+    ],
+    "orden_del_dia": [
+      "476/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
     "id": "S-1969/26",
     "bloques": [
       "La Libertad Avanza"

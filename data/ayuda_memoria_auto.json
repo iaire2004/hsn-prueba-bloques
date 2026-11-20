@@ -1,5 +1,2063 @@
 [
   {
+    "numero": "522",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Vocal de la Cámara Nacional de Apelaciones del Trabajo de la Capital Federal, Sala VIII, doctora Rosalía Romero. (PE-303/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-303/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/303.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51870/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "521",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez de Cámara del Tribunal Oral en lo Criminal y Correccional Nº 26 de la Capital Federal, doctor Eduardo Aníbal Aguayo. (PE-302/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-302/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/302.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51869/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "520",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Vocal de la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal de la Capital Federal, Sala III, doctor Camilo Jorge Almeida Pons. (PE-301/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-301/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/301.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51868/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "519",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de los Conjueces de los Juzgados Nacionales de Primera Instancia del Trabajo de la Jurisdicción de la Cámara Nacional de Apelaciones del Trabajo de la Capital Federal. (PE-293/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-293/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/293.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51867/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "518",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Defensora Pública de Víctima con asiento en la provincia de La Rioja, doctora María Julieta Ibáñez Arrieta. (PE-292/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-292/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/292.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51866/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "517",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Vocal de la Cámara Nacional de Apelaciones en lo Civil y Comercial Federal de la Capital Federal, Sala III, doctora Sofía Inés Hernández Saint Jean. (PE-291/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-291/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/291.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51865/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "516",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez del Tribunal Federal de Juicio de Neuquén, provincia del Neuquén, doctor Juan Manuel Kees. (PE-290/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-290/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/290.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51864/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "515",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal General de la Unidad Fiscal San Luis, provincia de San Luis, doctor Federico Miguel Baquioni. (PE-289/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-289/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/289.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51863/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "514",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez Penal Federal del Juzgado Federal de Garantías con asiento en la ciudad de Venado Tuerto, provincia de Santa Fe, doctor Mariano Javier Camblong. (PE-288/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-288/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/288.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51862/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "513",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez del Tribunal Federal de Juicio de Resistencia, provincia del Chaco, doctor Juan Mateo Dijou. (PE-287/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-287/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/287.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51861/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "512",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Vocal de la Cámara Nacional de Apelaciones del Trabajo de la Capital Federal, Sala IX, doctor Matías Sebastián Moreno Espeja. (PE-286/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-286/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/286.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51860/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "511",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Defensora Pública de Víctima con asiento en la provincia de Córdoba, doctora Berenice Olmedo. (PE-285/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-285/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/285.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51859/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "510",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Jueza Penal Federal del Juzgado Federal de Garantías con asiento en la ciudad de Santa Fe, provincia de Santa Fe, doctora Vanesa Natalia Druetta. (PE-284/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-284/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/284.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51858/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "509",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Defensora Pública de Menores e Incapaces ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal, Defensoría Nº 2, doctora Natalia Eda Bonino. (PE-283/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-283/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/283.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51857/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "508",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez del Juzgado Federal de Primera Instancia Nº 1 de San Nicolás, provincia de Buenos Aires, doctor Luciano Cruz Savignano. (PE-282/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-282/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/282.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51856/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "507",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez de Cámara del Tribunal Oral en lo Criminal y Correccional Nº 10 de la Capital Federal, doctor Sixto Mihura Gradin. (PE-279/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-279/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/279.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51855/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "506",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Jueza de Cámara del Tribunal Oral en lo Criminal y Correccional Nº 30 de la Capital Federal, doctora Romina Monteleone. (PE-278/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-278/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/278.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51854/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "505",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez de Cámara del Tribunal Oral en lo Criminal y Correccional Nº 5 de la Capital Federal, doctor Juan Carlos Bernial. (PE-277/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-277/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/277.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51853/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "504",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez Penal Federal del Juzgado Federal de Garantías con asiento en la ciudad de Rosario, provincia de Santa Fe, doctor Franco Mariano Carbone. (PE-269/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-269/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/269.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51852/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "503",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Jueza del Juzgado Federal de Primera Instancia de la Seguridad Social Nº 8 de la Capital Federal, doctora María de los Ángeles Sapin. (PE-268/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-268/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/268.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51851/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "502",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Jueza del Juzgado Federal de Primera Instancia de la Seguridad Social Nº 6 de la Capital Federal, doctora Valeria Alicia Bertolini. (PE-267/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-267/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/267.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/08/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51850/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "501",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez de Cámara del Tribunal Oral en lo Criminal y Correccional Nº 30 de la Capital Federal, doctor Ariel Alejandro Vilar. (PE-266/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-266/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/266.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51849/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "500",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez de Cámara del Tribunal Oral en lo Penal Económico Nº 2 de la Capital Federal, doctor Federico José Iuspa. (PE-265/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-265/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/265.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51848/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "499",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Defensora Auxiliar de la Defensoría General de la Nación, doctora Romina Soledad Paraboni. (PE-264/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-264/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/264.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51847/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "498",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Defensora Pública Oficial ante los Juzgados Nacionales en lo Criminal y Correccional y ante la Cámara Nacional de Apelaciones en lo Criminal y Correccional de la Capital Federal, Defensoría Nº 12, doctora María Lucrecia Sammartino. (PE-263/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-263/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/263.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51846/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "497",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez Penal Federal del Juzgado Federal de Garantías con asiento en la Ciudad de San Lorenzo, provincia de Santa Fe, doctor Emiliano Pedro Méndez Ortiz. (PE-262/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-262/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/262.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51845/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "496",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal Federal de la Sede Fiscal Descentralizada de Caleta Olivia, provincia de Santa Cruz, doctor Lucas Alberto Colla. (PE-260/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-260/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/260.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51844/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "495",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal ante el Juzgado Federal de Primera Instancia en lo Civil, Comercial y Contencioso Administrativo de Posadas, Provincia de Misiones, Fiscalía N° 2, doctor Arlindo Otto Kurtz. (PE-259/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-259/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/259.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51843/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "494",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 45, doctora Daniela Romina Part. (PE-258/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-258/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/258.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51842/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "493",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Vocal de la Cámara Nacional de Apelaciones en lo Comercial de la Capital Federal, Sala E, doctor Fernando Gabriel D´Alessandro. (PE-257/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-257/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/257.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51841/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "492",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 49, doctora María Noel Fernández Rivera. (PE-256/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-256/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/256.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51840/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "491",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 55, doctora Alejandra Leonor Pérez. (PE-255/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-255/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/255.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51839/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "490",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 60, doctor Gabriel Esteban Paramos. (PE-254/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-254/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/254.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51838/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "489",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 11, doctor Sebastián Eduardo Martínez. (PE-253/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-253/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/253.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51837/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "488",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 38, doctor Gustavo Amelotti. (PE-252/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-252/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/252.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51836/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "487",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 53, doctor Facundo Jesús Soriano. (PE-251/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-251/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/251.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51835/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "486",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Fiscal ante los Juzgados Nacionales en lo Criminal y Correccional de la Capital Federal, Fiscalía N° 18, doctor Eduardo Miguel Rocchi. (PE-250/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-250/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/250.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51834/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "485",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Defensor Público de Víctima con asiento en la Provincia de Mendoza, doctor Santiago Bahamondes. (PE-249/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-249/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/249.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51833/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "484",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de la Defensora Pública de Menores e Incapaces ante los Tribunales Orales en lo Criminal y Correccional de la Capital Federal, Defensoría Nº 3, doctora Carolina Morales Deganut. (PE-248/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-248/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/248.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51832/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "483",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de los Conjueces de los Juzgados Nacionales de Primera Instancia del Trabajo de la Jurisdicción de la Cámara Nacional de Apelaciones del Trabajo de la Capital Federal. (PE-237/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-237/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/237.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51831/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "482",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación de los Conjueces de los Tribunales Orales en lo Criminal y Correccional de la Capital Federal. (PE-236/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-236/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/236.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51830/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "481",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez del Juzgado Nacional de Primera Instancia en lo Contencioso Administrativo Federal Nº 7 de la Capital Federal, doctor Leonardo Marco Toia. (PE-220/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-220/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/220.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51829/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "480",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de promover a la Categoría \"C\" Ministro Plenipotenciario de Segunda Clase a los funcionarios de la Categoría “D” Consejero de Embajada y Cónsul General del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-110/25)",
+    "expedientes": [
+      {
+        "codigo": "PE-110/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/110.25/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51828/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Jesús F. Rejal",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "479",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de promover a la Categoría \"C\" Ministro Plenipotenciario de Segunda Clase a los funcionarios de la Categoría “D” Consejero de Embajada y Cónsul General del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-109/25)",
+    "expedientes": [
+      {
+        "codigo": "PE-109/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/109.25/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51827/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Jesús F. Rejal",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "478",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de promover a la Categoría \"B\" Ministro Plenipotenciario de Primera Clase a los funcionarios de la Categoría “C” Ministro Plenipotenciario de Segunda Clase del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-108/25)",
+    "expedientes": [
+      {
+        "codigo": "PE-108/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/108.25/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51826/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Jesús F. Rejal",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "477",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de promover a la Categoría \"B\" Ministro Plenipotenciario de Primera Clase a los funcionarios de la Categoría “C” Ministro Plenipotenciario de Segunda Clase del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-107/25)",
+    "expedientes": [
+      {
+        "codigo": "PE-107/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/107.25/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51825/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Carlos M. Espínola",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Jesús F. Rejal",
+      "Flavia G. Royón",
+      "Enzo P. Fullone"
+    ]
+  },
+  {
+    "numero": "476",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Royón",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Royón, declarando de interés la participación de la Escuela N° 4694 - San L. Murialdo y del CHIP N° 8203, Centro de Computación Educativa, de la ciudad de Rosario de la Frontera, provincia de Salta, en Infomatrix Sudamericana - Robomatrix Argentina 2026, en la ciudad de Realicó, provincia de La Pampa. (S-1826/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1826/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1826.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51824/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "475",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Mendoza",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Mendoza, expresando beneplácito y reconociendo a los emprendedores tucumanos por el desarrollo de la aplicación web gratuita Glunot, destinada a facilitar el acceso a información y recursos relacionados con la alimentación libre de gluten. (S-1636/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1636/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1636.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51823/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "474",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, declarando de interés una nueva edición de las Olimpíadas de Programación, Innovación con Inteligencia Artificial y Robótica – OPIIAR 2026, en la provincia de Misiones. (S-1353/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1353/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1353.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51822/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "473",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Ávila, declarando de interés una nueva edición del “Congreso Internacional en Innovación Tecnológica Informática”. (S-1264/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1264/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1264.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51821/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "472",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Marks y Arce y Fullone",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Marks y del señor senador Arce y en el del señor senador Fullone, adhiriendo al 50° aniversario de la fundación de la empresa Investigaciones Aplicadas S.A.U. – INVAP. (S-572/26 y S-1105/26)",
+    "expedientes": [
+      {
+        "codigo": "S-572/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/572.26/S/PD"
+      },
+      {
+        "codigo": "S-1105/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1105.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51820/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "471",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Fernández Sagasti",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Fernández Sagasti, declarando de interés la carrera de especialización en derecho nuclear, en el marco del Acuerdo de Asociación suscripto entre la Facultad de Derecho de la Universidad de Buenos Aires y el Organismo Internacional de Energía Atómica – OIEA. (S-208/26)",
+    "expedientes": [
+      {
+        "codigo": "S-208/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/208.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51819/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "470",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Vigo",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Vigo, declarando de interés una nueva edición del Concurso IB50K del Instituto Balseiro. (S-1869/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1869/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1869.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51818/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "469",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Fernández Sagasti",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Fernández Sagasti, declarando de interés el evento \"Devconnect Buenos Aires 2025\", en la Ciudad Autónoma de Buenos Aires. (S-1772/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1772/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1772.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51817/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "468",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Olalla",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Olalla, declarando de interés una nueva edición de la Competencia Nacional de Robótica, en la ciudad de Paraná, provincia de Entre Ríos. (S-1735/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1735/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1735.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51816/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "467",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Bensusán",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Bensusán, declarando de interés el proyecto “Contaminación, Sanidad, Ganadería (Consagan)”, elaborado por estudiantes del Colegio Agropecuario de Realicó, provincia de La Pampa. (S-1512/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1512/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1512.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Ciencia y Tecnología",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51815/downloadOrdenDia",
+    "comisiones": [
+      "Ciencia y Tecnología",
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Enrique E. de Pedro",
+      "María V. Huala",
+      "Ezequiel Atauche",
+      "Mariana Juri",
+      "Guillermo E. Andrada",
+      "María C. Giménez Navarro",
+      "María T. M. González",
+      "Martín I. Soria",
+      "Fernando A. Salino"
+    ]
+  },
+  {
     "numero": "466",
     "periodo": 2026,
     "origen": "Senado",
@@ -1431,119 +3489,6 @@
     ]
   },
   {
-    "numero": "425",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": "Moisés y otros",
-    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Moisés y otros, creando el Régimen de Cabotaje, Marina Mercante y Admisión Temporaria. (S-1844/26)",
-    "expedientes": [
-      {
-        "codigo": "S-1844/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1844.26/S/PL"
-      }
-    ],
-    "comisionCabecera": "Infraestructura, Vivienda y Transporte",
-    "fechaDictamen": "12/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51770/downloadOrdenDia",
-    "comisiones": [
-      "Infraestructura, Vivienda y Transporte",
-      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE",
-      "DE PRESUPUESTO Y HACIENDA"
-    ],
-    "tipoOD": "ANEXO",
-    "firmantesMayoria": [
-      "José E. Neder"
-    ]
-  },
-  {
-    "numero": "425",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": "Moisés y otros",
-    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Moisés y otros, creando el Régimen de Cabotaje, Marina Mercante y Admisión Temporaria. (S-1844/26)",
-    "expedientes": [
-      {
-        "codigo": "S-1844/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1844.26/S/PL"
-      }
-    ],
-    "comisionCabecera": "Infraestructura, Vivienda y Transporte",
-    "fechaDictamen": "12/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51769/downloadOrdenDia",
-    "comisiones": [
-      "Infraestructura, Vivienda y Transporte",
-      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE",
-      "DE PRESUPUESTO Y HACIENDA"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Beatriz L. Ávila",
-      "Agustín A. Monteverde",
-      "Enzo P. Fullone",
-      "Silvana L. Schneider",
-      "Romina M. Almeida",
-      "Ezequiel Atauche",
-      "Joaquín A. Benegas Lynch",
-      "Bruno A. Olivera Lucero",
-      "Eduardo H. Galaretto",
-      "Bartolomé E. Abdala",
-      "Carlos M. Espínola",
-      "Patricia Bullrich",
-      "Sandra M. Mendoza",
-      "Guillermo E. Andrada"
-    ],
-    "disidencias": [
-      {
-        "tipo": "sin aclarar",
-        "firmantes": [
-          "Julieta Corroza"
-        ]
-      }
-    ]
-  },
-  {
-    "numero": "424",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen aceptando las modificaciones introducidas por la Honorable Cámara de Diputados al proyecto de ley del Poder Ejecutivo Nacional sobre inviolabilidad de la propiedad privada. (PE-13/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-13/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/13.26/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Asuntos Constitucionales",
-    "fechaDictamen": "06/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51768/downloadOrdenDia",
-    "comisiones": [
-      "Asuntos Constitucionales",
-      "DE ASUNTOS CONSTITUCIONALES",
-      "DE LEGISLACIÓN GENERAL"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Agustín P. Coto",
-      "Nadia J. Márquez",
-      "Rodolfo A. Suárez",
-      "Bartolomé E. Abdala",
-      "María B. Monte de Oca",
-      "Gonzalo Guzmán Coraita",
-      "Luis A. Juez",
-      "Patricia Bullrich",
-      "Ivanna M. Arrascaeta",
-      "María E. Orozco",
-      "Carlos M. Espínola",
-      "Maximiliano Abad",
-      "Eduardo A. Vischi",
-      "María V. Huala",
-      "María C. Moisés"
-    ]
-  },
-  {
     "numero": "423",
     "periodo": 2026,
     "origen": "Senado",
@@ -1610,186 +3555,6 @@
     ]
   },
   {
-    "numero": "421",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en la Resolución N° 1/2026 y su Anexo I, sobre la designación de los integrantes del Comité Nacional para la Prevención de la Tortura (CNPT). (S-1950/26)",
-    "expedientes": [
-      {
-        "codigo": "S-1950/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1950.26/S/CC"
-      }
-    ],
-    "comisionCabecera": "Comisión Bicameral Permanente de la Defensoría del Pueblo",
-    "fechaDictamen": "04/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51765/downloadOrdenDia",
-    "comisiones": [
-      "Comisión Bicameral Permanente de la Defensoría del Pueblo",
-      "DE COMISIÓN BICAMERAL PERMANENTE DE LA DEFENSORÍA DEL PUEBLO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Daniel R. Kroneberger",
-      "Enzo P. Fullone",
-      "Romina M. Almeida",
-      "Emmanuel Bianchetti",
-      "Lilia Lemoine",
-      "Giselle Castelnuovo",
-      "Joaquín Ojeda"
-    ],
-    "disidencias": [
-      {
-        "tipo": "parcial",
-        "firmantes": [
-          "Guillermo E. M. Snopek",
-          "Ana I. Marks",
-          "Alicia M. A. Kirchner",
-          "Germán P. Martínez",
-          "Cecilia Moreau"
-        ]
-      }
-    ]
-  },
-  {
-    "numero": "420",
-    "periodo": 2026,
-    "origen": "Cámara de Diputados",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el proyecto de ley venido en revisión, que prorroga la emergencia nacional en discapacidad – Ley 27.793. (CD-18/26)",
-    "expedientes": [
-      {
-        "codigo": "CD-18/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/18.26/CD/PL"
-      }
-    ],
-    "comisionCabecera": "Presupuesto y Hacienda",
-    "fechaDictamen": "04/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51764/downloadOrdenDia",
-    "comisiones": [
-      "Presupuesto y Hacienda",
-      "DE PRESUPUESTO Y HACIENDA",
-      "DE POBLACIÓN Y DESARROLLO  HUMANO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Agustín A. Monteverde",
-      "Alicia M. A. Kirchner",
-      "Fernando A. Salino",
-      "Juan C. Godoy",
-      "Ezequiel Atauche",
-      "Carmen Álvarez Rivero",
-      "Bruno A. Olivera Lucero",
-      "Enzo P. Fullone",
-      "Bartolomé E. Abdala",
-      "María E. Orozco",
-      "Patricia Bullrich",
-      "Joaquín A. Benegas Lynch",
-      "Mariana Juri",
-      "Daniel R. Kroneberger",
-      "Andrea M. Cristina",
-      "Mercedes G. Valenzuela",
-      "Carlos M. Espínola",
-      "Natalia E. Gadano",
-      "Guillermo E. Andrada",
-      "Sandra M. Mendoza",
-      "María T. M. González",
-      "María C. Giménez Navarro",
-      "Ana I. Marks"
-    ]
-  },
-  {
-    "numero": "419",
-    "periodo": 2026,
-    "origen": "Cámara de Diputados",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el proyecto de ley venido en revisión, que dispone la obligatoriedad de medidas de seguridad en deporte y actividades recreativas – \"Ley Joaquín\". (CD-17/26)",
-    "expedientes": [
-      {
-        "codigo": "CD-17/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/17.26/CD/PL"
-      }
-    ],
-    "comisionCabecera": "Deporte",
-    "fechaDictamen": "04/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51763/downloadOrdenDia",
-    "comisiones": [
-      "Deporte",
-      "DE DEPORTE"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Maximiliano Abad",
-      "Bartolomé E. Abdala",
-      "Mariana Juri",
-      "Marcelo N. Lewandowski",
-      "Fernando A. Salino",
-      "Eduardo E. de Pedro",
-      "Bruno A. Olivera Lucero",
-      "Juan C. Godoy",
-      "Elia Esther del Carmen Moreno",
-      "Cándida C. López"
-    ]
-  },
-  {
-    "numero": "418",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": "Cristina",
-    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Cristina, sobre Promoción de los Derechos de las niñas, niños y adolescentes a la dignidad, a la integridad personal y a una vida libre de violencias, a través de protocolos para la prevención, detección y actuación ante situaciones de violencia. (S-528/25)",
-    "expedientes": [
-      {
-        "codigo": "S-528/25",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/528.25/S/PL"
-      }
-    ],
-    "comisionCabecera": "Legislación General",
-    "fechaDictamen": "28/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51762/downloadOrdenDia",
-    "comisiones": [
-      "Legislación General",
-      "DE LEGISLACIÓN GENERAL",
-      "DE POBLACIÓN Y DESARROLLO  HUMANO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Nadia J. Márquez",
-      "Alicia M. A. Kirchner",
-      "Daniel P. Bensusán",
-      "Juan C. Godoy",
-      "Gonzalo Guzmán Coraita",
-      "Carmen Álvarez Rivero",
-      "Patricia Bullrich",
-      "Enzo P. Fullone",
-      "María E. Orozco",
-      "Bruno A. Olivera Lucero",
-      "Rodolfo A. Suárez",
-      "Carolina Losada",
-      "Carlos M. Espínola",
-      "Mercedes G. Valenzuela",
-      "Sandra M. Mendoza",
-      "María T. M. González",
-      "Mariano Recalde",
-      "Ana I. Marks",
-      "Jorge M. Capitanich",
-      "Martín I. Soria",
-      "Fernando A. Salino"
-    ],
-    "disidencias": [
-      {
-        "tipo": "parcial",
-        "firmantes": [
-          "Maria V. Huala",
-          "Daniel R. Kroneberger"
-        ]
-      }
-    ]
-  },
-  {
     "numero": "417",
     "periodo": 2026,
     "origen": "Senado",
@@ -1852,333 +3617,6 @@
           "Carolina Losada"
         ]
       }
-    ]
-  },
-  {
-    "numero": "416",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo, por el que se aprueba el Acuerdo en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar relativo a la Conservación y el Uso Sostenible de la Diversidad Biológica Marina de las Zonas Situadas Fuera de la Jurisdicción Nacional, celebrado en la Ciudad de Nueva York, Estados Unidos de América. (PE-294/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-294/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/294.26/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "28/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51758/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Luis A. Juez",
-      "Ivanna M. Arrascaeta",
-      "Agustín A. Monteverde",
-      "Gonzalo Guzmán Coraita",
-      "María B. Monte de Oca",
-      "Sonia E. Rojas Decut",
-      "Eduardo A. Vischi",
-      "Carolina Losada",
-      "Rodolfo A. Suárez",
-      "Jorge M. Capitanich"
-    ]
-  },
-  {
-    "numero": "415",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo, por el que se aprueba el Acuerdo con la República del Paraguay sobre Servicios Aéreos, suscripto en la Ciudad de Buenos Aires, República Argentina. (PE-273/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-273/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/273.26/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "28/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51757/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Luis A. Juez",
-      "Ivanna M. Arrascaeta",
-      "Agustín A. Monteverde",
-      "Gonzalo Guzmán Coraita",
-      "María B. Monte de Oca",
-      "Sonia E. Rojas Decut",
-      "Eduardo A. Vischi",
-      "Carolina Losada",
-      "Rodolfo A. Suárez",
-      "Guillermo E. Andrada"
-    ]
-  },
-  {
-    "numero": "414",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo, por el que se aprueba el Protocolo Adicional al Protocolo Constitutivo del Parlamento del MERCOSUR. (PE-378/19)",
-    "expedientes": [
-      {
-        "codigo": "PE-378/19",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/378.19/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "28/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51756/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Luis A. Juez",
-      "Ivanna M. Arrascaeta",
-      "Agustín A. Monteverde",
-      "Gonzalo Guzmán Coraita",
-      "María B. Monte de Oca",
-      "Sonia E. Rojas Decut",
-      "Eduardo A. Vischi",
-      "Carolina Losada",
-      "Maximiliano Abad",
-      "Rodolfo A. Suárez",
-      "Guillermo E. Andrada",
-      "Jorge M. Capitanich"
-    ]
-  },
-  {
-    "numero": "412",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, aprobando el Acuerdo sobre Servicios Aéreos con la República de Finlandia, suscripto en la Ciudad Autónoma de Buenos Aires. (PE-271/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-271/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/271.26/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "22/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51753/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Ivanna M. Arrascaeta",
-      "Agustín A. Monteverde",
-      "Gonzalo Guzmán Coraita",
-      "María B. Monte de Oca",
-      "Sonia E. Rojas Decut",
-      "Eduardo A. Vischi",
-      "Maximiliano Abad",
-      "Enrique M. Goerling Lara",
-      "Guillermo E. Andrada"
-    ]
-  },
-  {
-    "numero": "411",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, aprobando las Enmiendas al Convenio Constitutivo de la Organización Marítima Internacional, en la ciudad de Londres - Reino Unido de Gran Bretaña e Irlanda del Norte. (PE-235/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-235/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/235.26/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "22/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51752/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Ivanna M. Arrascaeta",
-      "Agustín A. Monteverde",
-      "Gonzalo Guzmán Coraita",
-      "María B. Monte de Oca",
-      "Sonia E. Rojas Decut",
-      "Eduardo A. Vischi",
-      "Maximiliano Abad",
-      "Enrique M. Goerling Lara",
-      "Guillermo E. Andrada"
-    ]
-  },
-  {
-    "numero": "410",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje y proyecto de ley del Poder Ejecutivo Nacional, aprobando el Convenio Relativo a la Importación Temporal, celebrado en Estambul - República de Türkiye. (PE-234/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-234/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/234.26/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "22/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51751/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Ivanna M. Arrascaeta",
-      "Agustín A. Monteverde",
-      "Gonzalo Guzmán Coraita",
-      "María B. Monte de Oca",
-      "Sonia E. Rojas Decut",
-      "Eduardo A. Vischi",
-      "Maximiliano Abad",
-      "Enrique M. Goerling Lara",
-      "Guillermo E. Andrada"
-    ]
-  },
-  {
-    "numero": "408",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Proyecto de Ley",
-    "autor": null,
-    "descripcion": "Dictamen aceptando las modificaciones introducidas por la Honorable Cámara de Diputados al Tratado de Cooperación en materia de Patentes (PCT) y su reglamento. (PE-854/97)",
-    "expedientes": [
-      {
-        "codigo": "PE-854/97",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/854.97/PE/PL"
-      }
-    ],
-    "comisionCabecera": "Relaciones Exteriores y Culto",
-    "fechaDictamen": "15/10/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51747/downloadOrdenDia",
-    "comisiones": [
-      "Relaciones Exteriores y Culto",
-      "DE RELACIONES EXTERIORES Y CULTO",
-      "DE INDUSTRIA Y COMERCIO"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Francisco M. Paoltroni",
-      "Romina M. Almeida",
-      "Ivanna M. Arrascaeta",
-      "Joaquín A. Benegas Lynch",
-      "Agustín A. Monteverde",
-      "Mario P. Cervi",
-      "Gonzalo Guzmán Coraita",
-      "Agustín P. Coto",
-      "María B. Monte de Oca",
-      "Carlos M. Espínola",
-      "Sonia E. Rojas Decut",
-      "Silvana L. Schneider",
-      "Eduardo A. Vischi",
-      "Mercedes G. Valenzuela",
-      "Carolina Losada",
-      "Maximiliano Abad",
-      "Rodolfo A. Suárez",
-      "Enrique M. Goerling Lara"
-    ],
-    "disidencias": [
-      {
-        "tipo": "sin aclarar",
-        "firmantes": [
-          "Guillermo E. Andrada",
-          "Sandra M. Mendoza"
-        ]
-      }
-    ]
-  },
-  {
-    "numero": "407",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Acuerdo",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, por el que se solicita acuerdo para promover al grado inmediato superior al General de Brigada Sebastián Ignacio Ibañez. (PE-133/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-133/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/133.26/PE/AC"
-      }
-    ],
-    "comisionCabecera": "Acuerdos",
-    "fechaDictamen": "23/09/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51741/downloadOrdenDia",
-    "comisiones": [
-      "Acuerdos",
-      "DE ACUERDOS"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Juan C. Pagotto",
-      "Carlos O. Arce",
-      "Patricia Bullrich",
-      "Agustín P. Coto",
-      "Carlos M. Espínola",
-      "Juan C. Godoy",
-      "Enrique M. Goerling Lara",
-      "Carolina Losada",
-      "Nadia J. Márquez"
-    ]
-  },
-  {
-    "numero": "406",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Declaración",
-    "autor": "Arce y Rojas Decut",
-    "descripcion": "Dictamen en el proyecto de declaración del señor senador Arce y de la señora senadora Rojas Decut, declarando de interés un nuevo aniversario del programa \"Fórmula Tuerca y todos los deportes\", emitido por LT4 radiodifusora Misiones. (S-881/26)",
-    "expedientes": [
-      {
-        "codigo": "S-881/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/881.26/S/PD"
-      }
-    ],
-    "comisionCabecera": "Sistemas, Medios de Comunicación y Libertad de Expresión",
-    "fechaDictamen": "23/09/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51740/downloadOrdenDia",
-    "comisiones": [
-      "Sistemas, Medios de Comunicación y Libertad de Expresión",
-      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "María C. Moisés",
-      "Juan C. Godoy",
-      "Mario P. Cervi",
-      "Carolina Losada",
-      "Enzo P. Fullone",
-      "Vilma F. Bedia",
-      "Guillermo E. Andrada",
-      "Fernando A. Salino",
-      "Elia Esther del Carmen Moreno"
     ]
   },
   {
@@ -4474,109 +5912,6 @@
     "comisionCabecera": "Asuntos Administrativos y Municipales",
     "fechaDictamen": "17/06/2026",
     "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51413/downloadOrdenDia",
-    "comisiones": [
-      "Asuntos Administrativos y Municipales",
-      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Daniel R. Kroneberger",
-      "Ana I. Marks",
-      "Mercedes G. Valenzuela",
-      "Sonia E. Rojas Decut",
-      "Sandra M. Mendoza",
-      "José E. Neder",
-      "Eduardo E. de Pedro",
-      "Cándida C. López",
-      "Gerardo Zamora"
-    ]
-  },
-  {
-    "numero": "133",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": "Uñac",
-    "descripcion": "Dictamen en el proyecto de ley del señor senador Uñac, por el que se transfiere a título gratuito una parcela de terreno propiedad del Estado Nacional a la Municipalidad de Rawson, Provincia de San Juan. (S-472/26)",
-    "expedientes": [
-      {
-        "codigo": "S-472/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/472.26/S/PL"
-      }
-    ],
-    "comisionCabecera": "Asuntos Administrativos y Municipales",
-    "fechaDictamen": "17/06/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51412/downloadOrdenDia",
-    "comisiones": [
-      "Asuntos Administrativos y Municipales",
-      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Daniel R. Kroneberger",
-      "Ana I. Marks",
-      "Mercedes G. Valenzuela",
-      "Sonia E. Rojas Decut",
-      "Sandra M. Mendoza",
-      "José E. Neder",
-      "Eduardo E. de Pedro",
-      "Cándida C. López",
-      "Gerardo Zamora"
-    ]
-  },
-  {
-    "numero": "131",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": "Galaretto y Otros",
-    "descripcion": "Dictamen en el proyecto de ley del señor senador Galaretto y Otros, por el que se transfiere a título gratuito a favor de la Municipalidad de San Javier diversos inmuebles propiedad del Estado Nacional sitos en la Provincia de Santa Fe. (S-258/26)",
-    "expedientes": [
-      {
-        "codigo": "S-258/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/258.26/S/PL"
-      }
-    ],
-    "comisionCabecera": "Asuntos Administrativos y Municipales",
-    "fechaDictamen": "17/06/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51410/downloadOrdenDia",
-    "comisiones": [
-      "Asuntos Administrativos y Municipales",
-      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Daniel R. Kroneberger",
-      "Ana I. Marks",
-      "Mercedes G. Valenzuela",
-      "Sonia E. Rojas Decut",
-      "Sandra M. Mendoza",
-      "José E. Neder",
-      "Eduardo E. de Pedro",
-      "Cándida C. López",
-      "Gerardo Zamora"
-    ]
-  },
-  {
-    "numero": "130",
-    "periodo": 2026,
-    "origen": "Senado",
-    "categoria": "Proyecto de Ley",
-    "autor": "Ledesma Abdala de Zamora y Zamora y Otros",
-    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Ledesma Abdala de Zamora y en el del señor senador Zamora y Otros, por el que se transfiere a título gratuito a favor de la Universidad Nacional de Santiago del Estero, un inmueble propiedad del Estado Nacional, ubicado en la Ciudad Capital de la Provincia de Santiago del Estero. (S-94/25 y 342/26)",
-    "expedientes": [
-      {
-        "codigo": "S-94/25",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/94.25/S/PL"
-      },
-      {
-        "codigo": "S-342/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/342.26/S/PL"
-      }
-    ],
-    "comisionCabecera": "Asuntos Administrativos y Municipales",
-    "fechaDictamen": "17/06/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51409/downloadOrdenDia",
     "comisiones": [
       "Asuntos Administrativos y Municipales",
       "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
