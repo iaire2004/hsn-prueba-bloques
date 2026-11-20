@@ -1,5 +1,1097 @@
 [
   {
+    "numero": "466",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, adhiriendo al “Día Internacional de la No Violencia”. (S-1573/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1573/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1573.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51813/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "465",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, declarando de interés una nueva edición de la Fiesta Provincial de las Colectividades \"Las Raíces\", en la ciudad de Jardín América, provincia de Misiones. (S-1572/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1572/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1572.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51812/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "464",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Pagotto",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Pagotto, expresando pesar por el fallecimiento de Eduardo Groh Riemersma, destacado referente del proteccionismo animal y creador del refugio \"El Montecito\", en la provincia de Santiago del Estero. (S-1545/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1545/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1545.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51811/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "463",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, declarando de interés la plataforma digital \"Digesto Educativo\" de la provincia de Misiones. (S-1452/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1452/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1452.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51810/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "462",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Abdala",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Abdala, declarando de interés cultural el \"II Encuentro Nacional e Internacional de Folklore – Abriendo Fronteras a Nuestro País – Eco´s 2026\", en la ciudad de La Punta, provincia de San Luis. (S-1400/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1400/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1400.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51809/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "461",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Kirchner",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Kirchner, expresando beneplácito por un nuevo aniversario de la fundación del Jardín de Infantes N° 21 \"Aluen\", de la localidad de 28 de Noviembre, provincia de Santa Cruz. (S-1359/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1359/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1359.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51808/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "460",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, declarando de interés el programa \"Jueces en la Escuela\", desarrollado por el Centro de Capacitación Judicial de la provincia de Misiones. (S-1352/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1352/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1352.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51807/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "459",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Guzmán Coraita y otros y Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Guzmán Coraita y otros y en el de la señora senadora Schneider, declarando de interés el “VIII Congreso Nacional de Folklore”, en la ciudad de Resistencia, provincia del Chaco. (S-1301 y 1390/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1301/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1301.26/S/PD"
+      },
+      {
+        "codigo": "S-1390/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1390.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51806/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "458",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Resolución",
+    "autor": "María Florencia López y De Pedro",
+    "descripcion": "Dictamen en el proyecto de resolución de la señora senadora María Florencia López y del señor senador De Pedro, reconociendo al mérito universitario \"Embajadores del Futuro\", en el ámbito del Honorable Senado de la Nación. (S-964/25)",
+    "expedientes": [
+      {
+        "codigo": "S-964/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/964.25/S/PR"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51805/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "457",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Almeida",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Almeida, declarando Fiesta Nacional a la \"Fiesta de la Artesanía\" de la ciudad de Colón, provincia de Entre Ríos. (S-1701/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1701/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1701.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51804/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "456",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por un nuevo aniversario de la Escuela Generativa \"Corazón Victoria\", de la ciudad de San Luis, provincia homónima. (S-1522/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1522/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1522.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51803/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "455",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por un nuevo aniversario de la Escuela Provincial N° 172 \"Misiones\", de la ciudad de San Luis, provincia homónima. (S-1521/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1521/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1521.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51802/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "454",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por un nuevo aniversario de la Escuela N° 393 \"Granadero Juan Manuel Moreno\", del paraje Las Lomitas, departamento de Junín, provincia de San Luis. (S-1520/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1520/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1520.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51801/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "453",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por un nuevo aniversario de la Escuela N° 148 \"Provincia de Chubut\", de la ciudad de Villa Mercedes, provincia de San Luis. (S-1519/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1519/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1519.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51800/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "452",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Losada y Galaretto",
+    "descripcion": "Dictamen en el proyecto de ley de la señora senadora Losada y del señor senador Galaretto, por el que se declara monumento histórico nacional al conjunto Parque de la Constitución Nacional, en la ciudad de Santa Fe, provincia homónima. (S-1232/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1232/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1232.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51799/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "451",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por un nuevo aniversario del colegio \"General Manuel Belgrano\", de la ciudad de San Luis, provincia homónima. (S-1203/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1203/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1203.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51798/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "450",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por un nuevo aniversario de la escuela técnica N° 15 \"Ingeniero Agustín Mercau\", de la ciudad de Villa Mercedes, provincia de San Luis. (S-1202/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1202/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1202.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51797/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "449",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Almeida",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Almeida, declarando beneplácito por la nominación de la localidad de Villa Elisa, provincia de Entre Ríos, al programa Best Tourism Villages 2025, impulsado por ONU Turismo. (S-1969/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1969/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1969.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51796/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "448",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, adhiriendo a la Semana Provincial de Concientización Turística. (S-1729/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1729/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1729.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51795/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "447",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "María Florencia López",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora María Florencia López, declarando el reconocimiento al valor histórico, turístico, natural, cultural, patrimonial y estratégico de las Termas de Santa Teresita, departamento Arauco, provincia de La Rioja. (S-1607/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1607/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1607.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51794/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "446",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Vischi y Valenzuela",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Vischi y de la señora senadora Valenzuela, declarando de interés la realización de un nuevo Congreso Ecoturístico de la Región Litoral, en la ciudad de Corrientes, provincia homónima. (S-1360/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1360/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1360.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51793/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "445",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut y Arce",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut y del señor senador Arce, declarando de interés una nueva edición de “Oda al Vino”, en la ciudad de Puerto Iguazú, provincia de Misiones. (S-1135/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1135/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1135.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51792/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "444",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Atauche",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Atauche, declarando de interés la iniciativa denominada “Pasaporte Ruta 40”, emprendida por el guía de turismo Federico Norte y el ingeniero Daniel Lérida. (S-1095/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1095/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1095.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51791/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos A. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. A. Kirchner",
+      "Ana I. Marks ANTECEDENTE PROYECTO DE DECLARACIÓN El Senado de la Nación DECLARA De interés turístico, cultural y social la iniciativa denominada “Pasaporte Ruta 40”, emprendida por el guía de turismo Federico Norte y el ingeniero Daniel Lérida, que promueve el turismo interno, la integración territorial y la proyección internacional de la Argentina"
+    ]
+  },
+  {
+    "numero": "443",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider, declarando de interés a la localidad y área denominada Mesón de Fierro, en la región de Campo del Cielo, departamento 12 de Octubre, provincia del Chaco. (S-1046/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1046/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1046.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51790/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos A. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. A. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "442",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Cándida Cristina López",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Cándida Cristina López, declarando de interés una nueva edición del Encuentro Internacional de Motoviajeros en el Fin del Mundo, en la ciudad de Ushuaia, provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. (S-1010/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1010/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1010.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51789/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Romina M. Almeida",
+      "Carlos A. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. A. Kirchner",
+      "Ana I. Marks ANTECEDENTE PROYECTO DE DECLARACIÓN El Senado de la Nación DECLARA De interés de esta Honorable Cámara la XIX Edición del Encuentro Internacional de Motoviajeros en el Fin del Mundo, organizada por la Asociación de Motoviajeros \"Latitud 54 Sur\", por constituir el evento de mototurismo más austral del país y el de mayor convocatoria de la región patagónica, con participantes provenientes de la República Argentina y de numerosos países del mundo a realizarse los días 20, 21 y 22 de noviembre en la ciudad de Ushuaia, provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+    ]
+  },
+  {
+    "numero": "441",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Bedia",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Bedia, expresando beneplácito por la realización del Festival Nacional de la Pachamama, en la provincia de Jujuy. (S-629/26)",
+    "expedientes": [
+      {
+        "codigo": "S-629/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/629.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51788/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos A. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. A. Kirchner",
+      "Ana I. Marks ANTECEDENTE PROYECTO DE DECLARACIÓN El Senado de la Nación DECLARA Su beneplácito por la realización del Festival Nacional de la Pachamama, que se lleva a cabo anualmente durante el mes de agosto, en la provincia de Jujuy. Esta celebración constituye una de las manifestaciones populares y culturales más trascendentales del Norte argentino, evocando un profundo valor histórico y espiritual consolidándose como un hito de relevancia turística para toda la República Argentina"
+    ]
+  },
+  {
+    "numero": "440",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moisés y otros",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moisés y otros, expresando beneplácito por la distinción al “Mejor Pueblo Turístico del Mundo 2025”, otorgado por ONU Turismo, a la localidad de Maimará, provincia de Jujuy. (S-1943/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1943/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1943.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51787/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos A. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. A. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "439",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Valenzuela y Vischi",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Valenzuela y del señor senador Vischi, declarando beneplácito por la distinción otorgada a la localidad de Colonia Carlos Pellegrini, provincia de Corrientes, en la edición 2025 del programa “Best Tourism Villages” de ONU Turismo. (S-1826/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1826/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1826.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51786/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "438",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Juri",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Juri, declarando beneplácito por la publicación de la nueva edición de la Guía Turística de la Ruta Nacional 40, elaborada por la Oficina de Cartografía Vial y Turística del Automóvil Club Argentino – ACA. (S-1853/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1853/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1853.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51785/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "437",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "María Florencia López",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora María Florencia López, declarando beneplácito por la nominación de la localidad de Famatina, provincia de La Rioja, al programa Best Tourism Villages impulsado por ONU Turismo. (S-1590/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1590/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1590.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51784/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "436",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "María Florencia López",
+    "descripcion": "Dictamen en el proyecto de declaración, de la señora senadora María Florencia López, declarando de interés turístico y cultural a la localidad de Famatina, provincia de La Rioja. (S-1589/25)",
+    "expedientes": [
+      {
+        "codigo": "S-1589/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1589.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51783/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "Vilma F. Bedia",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
+    "numero": "435",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "María Florencia López",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora María Florencia López, declarando de interés la “Ruta del Vino Riojano”. (S-720/25)",
+    "expedientes": [
+      {
+        "codigo": "S-720/25",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/720.25/S/PD"
+      }
+    ],
+    "comisionCabecera": "Turismo",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51782/downloadOrdenDia",
+    "comisiones": [
+      "Turismo",
+      "DE TURISMO"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Mariana Juri",
+      "María B. Monte de Oca",
+      "Enzo P. Fullone",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Alejandra M. Vigo",
+      "Julieta Corroza",
+      "Cándida C. López",
+      "Alicia M. Kirchner",
+      "Ana I. Marks"
+    ]
+  },
+  {
     "numero": "434",
     "periodo": 2026,
     "origen": "Poder Ejecutivo",
@@ -143,6 +1235,32 @@
       "María T. M. González",
       "María C. Giménez Navarro",
       "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "430",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión, por el que se modifica el Código Penal de la Nación, sobre Vandalismo Rural. (CD-19/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-19/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/19.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Justicia y Asuntos Penales",
+    "fechaDictamen": "18/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51814/downloadOrdenDia",
+    "comisiones": [
+      "Justicia y Asuntos Penales",
+      "DE JUSTICIA Y ASUNTOS PENALES"
+    ],
+    "tipoOD": "ANEXO",
+    "firmantesMayoria": [
+      "Jorge M. Capitanich",
+      "Martín I. Soria"
     ]
   },
   {
