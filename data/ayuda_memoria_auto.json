@@ -1,5 +1,973 @@
 [
   {
+    "numero": "549",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Huala",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Huala, expresando beneplácito por el aniversario 130° de la localidad de Quehué, provincia de La Pampa. (S-1965/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1965/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1965.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51897/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "548",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Huala",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Huala, expresando beneplácito por el 130° aniversario de la localidad de Intendente Alvear, provincia de La Pampa. (S-1964/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1964/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1964.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51896/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "547",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider, expresando beneplácito por el 114° aniversario de la fundación de la ciudad de Quitilipi, provincia del Chaco. (S-1931/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1931/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1931.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51895/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "546",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider, expresando beneplácito por el 139° aniversario de la fundación de Colonia Popular, provincia del Chaco. (S-1929/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1929/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1929.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51894/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "545",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Capitanich",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Capitanich, declarando de interés el 115° aniversario del municipio Colonia Aborigen, provincia del Chaco. (S-1874/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1874/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1874.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51893/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "544",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Huala",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Huala, expresando beneplácito por la conmemoración del 120° aniversario de la localidad de Trenel, provincia de La Pampa. (S-1807/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1807/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1807.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51892/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "543",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Cándida C y Coto",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Cándida C. López y en el del señor senador Coto, expresando beneplácito por la conmemoración de un nuevo aniversario de la fundación de la ciudad de Tolhuin, provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. (S-1775/26 y S-1780/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1775/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1775.26/S/PD"
+      },
+      {
+        "codigo": "S-1780/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1780.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51891/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "542",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Cándida C y Coto",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Cándida C. López y en el del señor senador Coto, expresando beneplácito por la conmemoración de un nuevo aniversario de la fundación de la ciudad de Ushuaia, provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur. (S-1774/26 y S-1782/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1774/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1774.26/S/PD"
+      },
+      {
+        "codigo": "S-1782/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1782.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51890/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "541",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, adhiriendo al aniversario de la fundación de la ciudad de Posadas, provincia de Misiones. (S-1731/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1731/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1731.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51889/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "540",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider, expresando beneplácito por la conmemoración de un nuevo aniversario de la fundación de la localidad de Miraflores, provincia del Chaco. (S-1715/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1715/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1715.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51888/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "539",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider y Capitanich",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider y en el del señor senador Capitanich, expresando beneplácito por la conmemoración del 110° aniversario de la localidad de Fontana, provincia del Chaco. (S-1683/26 y S-1697/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1683/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1683.26/S/PD"
+      },
+      {
+        "codigo": "S-1697/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1697.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51887/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "538",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Schneider y Capitanich",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Schneider y en el del señor senador Capitanich, expresando beneplácito por la conmemoración de un nuevo aniversario de la localidad de Fuerte Esperanza, provincia del Chaco. (S-1660/26 y S-1672/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1660/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1660.26/S/PD"
+      },
+      {
+        "codigo": "S-1672/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1672.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51886/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "537",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Mendoza",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Mendoza, expresando beneplácito por la conmemoración de un nuevo aniversario de la ciudad de Alderetes, provincia de Tucumán. (S-1632/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1632/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1632.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51885/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "536",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito en un nuevo aniversario de la fundación de la localidad de San Martín, provincia de San Luis. (S-1616/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1616/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1616.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51884/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "535",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito en un nuevo aniversario de la fundación de la localidad de Cortaderas, provincia de San Luis. (S-1615/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1615/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1615.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51883/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "534",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Mendoza",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Mendoza, rindiendo homenaje en un nuevo aniversario de la fundación de la ciudad de Monteros, provincia de Tucumán. (S-1428/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1428/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1428.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51882/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "533",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de declaración de varios señores/as senadores, expresando beneplácito por la conmemoración de un nuevo aniversario de la fundación de la ciudad de San Luis, provincia homónima. (S-1201/26, S-1321/26 y S-1436/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1201/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1201.26/S/PD"
+      },
+      {
+        "codigo": "S-1321/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1321.26/S/PD"
+      },
+      {
+        "codigo": "S-1436/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1436.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51881/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "532",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por el 137° aniversario de la fundación de la localidad de Tilisarao, departamento Chacabuco, provincia de San Luis. (S-1200/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1200/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1200.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51879/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "531",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Bedia",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Bedia, declarando de interés el aniversario de la tercera y definitiva fundación de la ciudad de San Salvador de Jujuy. (S-427/26)",
+    "expedientes": [
+      {
+        "codigo": "S-427/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/427.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Asuntos Administrativos y Municipales",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51878/downloadOrdenDia",
+    "comisiones": [
+      "Asuntos Administrativos y Municipales",
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Bruno A. Olivera Lucero",
+      "Ezequiel Atauche",
+      "Agustín P. Coto",
+      "María V. Huala",
+      "Sandra M. Mendoza",
+      "Jesús F. Rejal"
+    ]
+  },
+  {
+    "numero": "530",
+    "periodo": 2026,
+    "origen": "Cámara de Diputados",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen en el proyecto de ley venido en revisión sobre Régimen de Incentivo para Grandes Inversiones en Nuevas Industrias – Súper RIGI. (CD-6/26)",
+    "expedientes": [
+      {
+        "codigo": "CD-6/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/6.26/CD/PL"
+      }
+    ],
+    "comisionCabecera": "Presupuesto y Hacienda",
+    "fechaDictamen": "20/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51877/downloadOrdenDia",
+    "comisiones": [
+      "Presupuesto y Hacienda",
+      "DE PRESUPUESTO Y HACIENDA",
+      "DE ECONOMÍA NACIONAL E INVERSIÓN",
+      "DE LEGISLACIÓN GENERAL"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Agustín A. Monteverde",
+      "Enrique M. Goerling Lara",
+      "Nadia J. Márquez",
+      "Silvana L. Schneider",
+      "Bartolomé E. Abdala",
+      "Gonzalo Guzmán Coraita",
+      "Ezequiel Atauche",
+      "Ivanna M. Arrascaeta",
+      "Patricia Bullrich",
+      "Bruno Olivera Lucero",
+      "Carmen Álvarez Rivero",
+      "María E. Orozco",
+      "Flavio S. Fama",
+      "Guillermo E. Andrada",
+      "Maximiliano Abad",
+      "Rodolfo A. Suárez",
+      "Carlos M. Espínola",
+      "María V. Huala",
+      "Sandra M. Mendoza"
+    ]
+  },
+  {
+    "numero": "529",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo para promover a la Categoría “C” Ministro Plenipotenciario de Segunda Clase a los funcionarios de la Categoría “D” Consejero de Embajada y Cónsul General del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-324/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-324/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/324.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51876/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "528",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo para promover a la Categoría “C” Ministro Plenipotenciario de Segunda Clase a los funcionarios de la Categoría “D” Consejero de Embajada y Cónsul General del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-323/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-323/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/323.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51875/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "527",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo para promover a la Categoría “B” Ministro Plenipotenciario de Primera Clase a los funcionarios de la Categoría “C” Ministro Plenipotenciario de Segunda Clase del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-322/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-322/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/322.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51874/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "526",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo para promover a la Categoría “B” Ministro Plenipotenciario de Primera Clase a los funcionarios de la Categoría “C” Ministro Plenipotenciario de Segunda Clase del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-321/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-321/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/321.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51873/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
+    "numero": "525",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo para promover a la Categoría \"A\" Embajador Extraordinario y Plenipotenciario a los funcionarios de la Categoría “B” Ministro Plenipotenciario de Primera Clase del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-320/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-320/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/320.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51898/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez"
+    ]
+  },
+  {
+    "numero": "524",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo para promover a la Categoría \"A\" Embajador Extraordinario y Plenipotenciario a los funcionarios de la Categoría “B” Ministro Plenipotenciario de Primera Clase del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto. (PE-319/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-319/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/319.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51872/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez"
+    ]
+  },
+  {
+    "numero": "523",
+    "periodo": 2026,
+    "origen": "Poder Ejecutivo",
+    "categoria": "Acuerdo",
+    "autor": null,
+    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez Penal Federal del Juzgado Federal de Garantías con asiento en la ciudad de Rafaela, provincia de Santa Fe, doctor Guido Yercovich. (PE-304/26)",
+    "expedientes": [
+      {
+        "codigo": "PE-304/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/304.26/PE/AC"
+      }
+    ],
+    "comisionCabecera": "Acuerdos",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51871/downloadOrdenDia",
+    "comisiones": [
+      "Acuerdos",
+      "DE ACUERDOS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Maximiliano Abad",
+      "Sandra M. Mendoza",
+      "Carlos O. Arce",
+      "Beatriz L. Ávila",
+      "Patricia Bullrich",
+      "Agustín P. Coto",
+      "Carlos M. Espínola",
+      "Enzo P. Fullone",
+      "Mariana Juri",
+      "Juan C. Godoy",
+      "Enrique M. Goerling Lara",
+      "Carolina Losada",
+      "Nadia J. Marquez",
+      "Flavia G. Royón"
+    ]
+  },
+  {
     "numero": "522",
     "periodo": 2026,
     "origen": "Poder Ejecutivo",

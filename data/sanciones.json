@@ -7383,5 +7383,305 @@
     "seccion": "ley",
     "fecha_sesion": "2026-06-04",
     "nro_boletin": "4/26"
+  },
+  {
+    "expediente": "CD-26/24",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con o sin dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Vischi"
+  },
+  {
+    "expediente": "S-1662/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Bahl"
+  },
+  {
+    "expediente": "S-70/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Vigo"
+  },
+  {
+    "expediente": "S-1982/24",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Vigo"
+  },
+  {
+    "expediente": "S-1958/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Corroza"
+  },
+  {
+    "expediente": "S-596/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "De Pedro"
+  },
+  {
+    "expediente": "S-319/25",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "De Pedro"
+  },
+  {
+    "expediente": "S-1243/23",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "De Pedro"
+  },
+  {
+    "expediente": "S-1472/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con o sin dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Recalde"
+  },
+  {
+    "expediente": "S-1723/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Terenzi"
+  },
+  {
+    "expediente": "S-1748/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Bedia"
+  },
+  {
+    "expediente": "S-1747/26",
+    "od_nro": null,
+    "resultado": "APROBADA",
+    "observaciones": "Con dictamen de comisión.",
+    "seccion": "preferencia",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26",
+    "solicitante": "Bedia"
+  },
+  {
+    "expediente": "PE-133/26",
+    "od_nro": 407,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica al Poder Ejecutivo Nacional.",
+    "seccion": "acuerdo",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "CD-18/26",
+    "od_nro": 420,
+    "resultado": "APROBADO",
+    "observaciones": "Ley.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-854/97",
+    "od_nro": 408,
+    "resultado": "APROBADO",
+    "observaciones": "Ley.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-13/26",
+    "od_nro": 424,
+    "resultado": "APROBADO",
+    "observaciones": "Ley.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "CD-17/26",
+    "od_nro": 419,
+    "resultado": "APROBADO",
+    "observaciones": "Ley.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-1844/26",
+    "od_nro": 425,
+    "resultado": "APROBADO con modificaciones",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-528/25",
+    "od_nro": 418,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-234/26",
+    "od_nro": 410,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-235/26",
+    "od_nro": 411,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-271/26",
+    "od_nro": 412,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-378/19",
+    "od_nro": 414,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-273/26",
+    "od_nro": 415,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "PE-294/26",
+    "od_nro": 416,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-94/25",
+    "od_nro": 130,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-342/26",
+    "od_nro": 130,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-258/26",
+    "od_nro": 131,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-472/26",
+    "od_nro": 133,
+    "resultado": "APROBADO",
+    "observaciones": "Se comunica a la H. Cámara de Diputados.",
+    "seccion": "ley",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-1950/26",
+    "od_nro": 421,
+    "resultado": "APROBADO",
+    "observaciones": "",
+    "seccion": "decreto_res_com_dec",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-1973/26",
+    "od_nro": null,
+    "resultado": "APROBADO",
+    "observaciones": "",
+    "seccion": "decreto_res_com_dec",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
+  },
+  {
+    "expediente": "S-881/26",
+    "od_nro": 406,
+    "resultado": "APROBADO",
+    "observaciones": "",
+    "seccion": "decreto_res_com_dec",
+    "fecha_sesion": "2026-11-19",
+    "nro_boletin": "11/26"
   }
 ]
