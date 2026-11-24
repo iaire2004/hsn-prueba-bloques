@@ -100,6 +100,17 @@
     "aprobado_por_el_senado_con_od": true
   },
   {
+    "id": "S-1143/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [
+      "570/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
     "id": "S-115/26",
     "bloques": [
       "Movimiento por Misiones"

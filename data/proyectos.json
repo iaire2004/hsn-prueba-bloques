@@ -27,6 +27,237 @@
     "_ultima_revision": "2026-11-04"
   },
   {
+    "nro": 2035,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LAS FIESTAS PATRONALES EN HONOR A NUESTRA SEÑORA DE LORETO EN LA PROV. DE SANTIAGO DEL ESTERO, EL 10 DE DICIEMBRE DE 2026",
+    "autores": [
+      "NEDER, JOSÉ EMILIO"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTIAGO DEL ESTERO"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "24/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2035.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "NEDER, JOSÉ EMILIO"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2034,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERES EL LIBRO INFANTIL \"LAS AVENTURAS DE PILAR: LAS EMOCIONES\", DE AUTORÍA DE LA LIC. VANESA VALENZUELA.",
+    "autores": [
+      "VALENZUELA, MERCEDES GABRIELA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ],
+    "provincias": [
+      "CORRIENTES"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "20/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2034.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "VALENZUELA, MERCEDES GABRIELA"
+    ],
+    "bloques_caratula": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ]
+  },
+  {
+    "nro": 2033,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE REGULA LAS ACTIVIDADES DE PUBLICIDAD DE OPERADORES DE JUEGOS Y PLATAFORMAS DE APUESTAS PARA LOS JUEGOS EN LINEA.",
+    "autores": [
+      "MOISES, MARÍA CAROLINA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "CONVICCIÓN FEDERAL"
+    ],
+    "provincias": [
+      "JUJUY"
+    ],
+    "comisiones": [
+      "DE SALUD",
+      "DE LEGISLACIÓN GENERAL",
+      "DE JUSTICIA Y ASUNTOS PENALES"
+    ],
+    "fecha": "20/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2033.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "MOISES, MARÍA CAROLINA"
+    ],
+    "bloques_caratula": [
+      "CONVICCIÓN FEDERAL"
+    ]
+  },
+  {
+    "nro": 2032,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLACITO Y RECONOCE LA DESTACADA LABOR E INVALORABLE TRAYECTORIA DE LA INSTITUCIÓN \"ABUELOS DEL CORAZÓN, EN EL DEPTO. CHILECITO, PROV. DE LA RIOJA.",
+    "autores": [
+      "REJAL, JESÚS FERNANDO"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "LA RIOJA"
+    ],
+    "comisiones": [
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "fecha": "20/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2032.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "REJAL, JESÚS FERNANDO"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2031,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE INSTITUYE LA PENSIÓN PARA FAMILIARES DE VICTIMAS DEL 19 Y 20 DE DICIEMBRE DE 2001.",
+    "autores": [
+      "LEWANDOWSKI, MARCELO NÉSTOR"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA FE"
+    ],
+    "comisiones": [
+      "DE TRABAJO Y PREVISIÓN SOCIAL",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "20/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2031.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "LEWANDOWSKI, MARCELO NÉSTOR"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2030,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE LAS CIRCUNSTANCIAS, CAUSAS, CONSECUENCIAS Y MEDIDAS ADOPTADAS EN LA EXPLOSIÓN E INCENDIO OCURRIDOS EN LA LOC. DE REMEDIOS DE ESCALADA, PDO. DE LANUS, PROV. DE BS.AS., EL 13 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "LEWANDOWSKI, MARCELO NÉSTOR"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA FE"
+    ],
+    "comisiones": [
+      "DE MINERÍA, ENERGÍA Y COMBUSTIBLES"
+    ],
+    "fecha": "20/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2030.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "LEWANDOWSKI, MARCELO NÉSTOR"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
     "nro": 2029,
     "anio": 2026,
     "tipo": "CO",
@@ -59,6 +290,62 @@
     "_ultima_revision": "2026-11-20",
     "autores_caratula": [
       "GONZÁLEZ, MARÍA TERESA MARGARITA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2028,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERÉS EL LIBRO \"CAMINAR HACIA LAS 3S. MINDFULNESS PARA VIVIR CON SERENIDAD, SONRISAS Y SALUD\",  DE AUTORÍA DE MARIELA AGUILA.",
+    "autores": [
+      "LÓPEZ, CÁNDIDA CRISTINA"
+    ],
+    "coautores": [
+      "LINARES, CARLOS ALBERTO",
+      "MORENO, ELIA ESTHER DEL CARMEN",
+      "MARKS, ANA INÉS",
+      "GONZÁLEZ, MARÍA TERESA MARGARITA",
+      "NEDER, JOSÉ EMILIO",
+      "DE PEDRO, EDUARDO ENRIQUE",
+      "MENDOZA, SANDRA MARIELA",
+      "CAPITANICH, JORGE MILTON",
+      "UÑAC, SERGIO MAURICIO",
+      "SALINO, FERNANDO ALDO",
+      "ANDRADA, GUILLERMO EDUARDO",
+      "DI TULLIO, JULIANA",
+      "LEWANDOWSKI, MARCELO NÉSTOR",
+      "RECALDE, MARIANO",
+      "LÓPEZ, MARÍA FLORENCIA",
+      "KIRCHNER, ALICIA MARGARITA ANTONIA",
+      "CORPACCI, LUCÍA BENIGNA"
+    ],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2028.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "LÓPEZ, CÁNDIDA CRISTINA"
     ],
     "bloques_caratula": [
       "JUSTICIALISTA"
@@ -100,6 +387,424 @@
     ],
     "bloques_caratula": [
       "LA LIBERTAD AVANZA"
+    ]
+  },
+  {
+    "nro": 2026,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLACITO POR EL DÉCIMO ANIVERSARIO DEL PROGRAMA \"BELLEZA POR UN FUTURO\" EN LA REP. ARGENTINA IMPULSADA POR LA FUNDACIÓN L´OREAL.",
+    "autores": [
+      "JURI, MARIANA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ],
+    "provincias": [
+      "MENDOZA"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2026.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "JURI, MARIANA"
+    ],
+    "bloques_caratula": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ]
+  },
+  {
+    "nro": 2025,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACION DEL ANIVERSARIO DE LA LOC. DE PUERTO SANTA CRUZ, PROV. DE SANTA CRUZ, EL 1 DE DICIEMBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2025.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2024,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACION DEL ANIVERSARIO DE LA FUNDACIÓN DE LA CDAD. DE GOBERNADOR GREGORES, PROV. DE SANTA CRUZ, EL 23 DE MARZO DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2024.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2023,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACIÓN DEL ANIVERSARIO DE LA CDAD. DE CALETA OLIVIA, PROV. DE SANTA CRUZ, EL 20 DE NOVIEMBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "92/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2023.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2022,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACIÓN DEL ANIVERSARIO DE LA FUNDACIÓN DE LA LOCALIDAD DE LAS HERAS, PROV. DE SANTA CRUZ, EL 6 DE OCTUBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2022.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2021,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACIÓN DEL ANIVERSARIO DE LA FUNDACIÓN DE LA CDAD. DE PICO TRUNCADO, PROV. DE SANTA CRUZ, EL 11 DE JULIO DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2021.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2020,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACIÓN DEL ANIVERSARIO DE LA FUNDACIÓN DE LA CDAD. DE PUERTO DESEADO, PROV. DE SANTA CRUZ, EL 15 DE JULIO DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2020.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2019,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACIÓN DEL ANIVERSARIO DE LA CREACIÓN DE LA COMISIÓN DE FOMENTO DE TRES LAGOS, PROV. DE SANTA CRUZ, EL 3 DE AGOSTO DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2019.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2018,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE ADHIERE A LA CONMEMORACIÓN DEL ANIVERSARIO DE LA CIUDAD DE PERITO MORENO, PROV. DE SANTA CRUZ, EL 7 DE DICIEMBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2018.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2017,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACION QUE ADHIERE A LA CONMEMORACION DEL ANIVERSARIO DE LA LOC. DE RIO TURBIO, PROV. DE SANTA CRUZ, EL 14 DE DICIEMBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2017.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2016,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACION QUE ADHIERE A LA CONMEMORACION DEL ANIVERSARIO DE LA CDAD. DE RIO GALLEGOS, PROV. DE SANTA CRUZ, EL 19 DE DICIEMBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2016.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
     ]
   },
   {
@@ -199,6 +904,196 @@
     "_ultima_revision": "2026-11-20"
   },
   {
+    "nro": 2011,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INCORPORAR EL NOMBRE DEL CIENTÍFICO TUCUMANO DR. MIGUEL IGNACIO LILLO, EN EL SALÓN DE \"LOS CIENTÍFICOS ARGENTINOS\" DE LA CASA ROSADA.",
+    "autores": [
+      "AVILA, BEATRIZ LUISA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "INDEPENDENCIA"
+    ],
+    "provincias": [
+      "TUCUMÁN"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2011.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "AVILA, BEATRIZ LUISA"
+    ],
+    "bloques_caratula": [
+      "INDEPENDENCIA"
+    ]
+  },
+  {
+    "nro": 2010,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE LAS OBRAS DE DRAGADO Y PROFUNDIZACION DEL \"CANAL LIGURIA\", EN EL RIO PARAGUAY, A LA ALTURA DE LAS LOC. DE PILAR Y HUAMAITA, REP. DEL PARAGUAY, FRENTE A LA DESEMBOCADURA DEL RIO BERMEJO, Y SU IMPACTO HIDRAULICO, AMBIENTAL Y TERRITORIAL",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2010.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2009,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACION QUE DECLARA DE INTERES EL 1° FORO DE MUJERES RURALES MISIONERAS, A REALIZARSE EN EL AUDITORIO \"TIERRA SIN MAL\", EN LA CDAD. DE POSADAS, PROV. DE MISIONES, EL 27 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "ROJAS DECUT, SONIA ELIZABETH"
+    ],
+    "coautores": [],
+    "bloques": [
+      "MOVIMIENTO POR MISIONES"
+    ],
+    "provincias": [
+      "MISIONES"
+    ],
+    "comisiones": [
+      "BANCA DE LA MUJER"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2009.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "ROJAS DECUT, SONIA ELIZABETH"
+    ],
+    "bloques_caratula": [
+      "MOVIMIENTO POR MISIONES"
+    ]
+  },
+  {
+    "nro": 2008,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLÁCITO Y RECONOCE A LOS JÓVENES ARGENTINOS POR LA OBTENCIÓN DEL PRIMER Y SEGUNDO PUESTO EN LA COMPETENCIA BEEF INTERNATIONAL (BATTLE OF EMERGING ELITE FARMERS) CELEBRADA EN LA CDAD. DE EDMONTON, CANADÁ, ENTRE EL 5 Y 8 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "HUALA, MARÍA VICTORIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "FRENTE PRO"
+    ],
+    "provincias": [
+      "LA PAMPA"
+    ],
+    "comisiones": [
+      "DE AGRICULTURA, GANADERÍA Y PESCA"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2008.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "HUALA, MARÍA VICTORIA"
+    ],
+    "bloques_caratula": [
+      "FRENTE PRO"
+    ]
+  },
+  {
+    "nro": 2007,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLÁCITO Y RECONOCE A LA PATINADORA PAMPEANA VIRGINIA PORDOMINGO POR LA OBTENCIÓN DEL SUBCAMPEONATO EN LOS WORLD SKATE GAMES ASU 2026, EN LA CDAD. DE ASUNCIÓN, REP. DEL PARAGUAY, ENTRE EL  2 Y 18 DE OCTUBRE.",
+    "autores": [
+      "HUALA, MARÍA VICTORIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "FRENTE PRO"
+    ],
+    "provincias": [
+      "LA PAMPA"
+    ],
+    "comisiones": [
+      "DE DEPORTE"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2007.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "HUALA, MARÍA VICTORIA"
+    ],
+    "bloques_caratula": [
+      "FRENTE PRO"
+    ]
+  },
+  {
     "nro": 2006,
     "anio": 2026,
     "tipo": "CO",
@@ -234,6 +1129,1246 @@
     ],
     "bloques_caratula": [
       "FRENTE CÍVICO POR SANTIAGO"
+    ]
+  },
+  {
+    "nro": 2005,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSAS CUESTIONES VINCULADAS CON EL BANCO DE LA NACION ARGENTINA.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ECONOMÍA NACIONAL E INVERSIÓN"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2005.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2004,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSOS PUNTOS VINCULADOS AL PROCESO DE DISOLUCION Y TRANSFERENCIA DE COMPETENCIAS DE LA EX AGENCIA NACIONAL DE DISCAPACIDAD (ANDIS).",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2004.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2003,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACION QUE ADHIERE A LA CONMEMORACION DEL ANIVERSARIO DE LA FUNDACION DE LA LOC. DE LOS ANTIGUOS, PROV. DE SANTA CRUZ, EL 5 DE FEBRERO DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2003.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2002,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACION QUE ADHIERE A LA CONMEMORACION DEL ANIVERSARIO DE LA LOC. DE PUERTO SAN JULIAN, PROV. DE SANTA CRUZ, EL 17 DE SEPTIEMBRE DE CADA AÑO.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2002.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 2001,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA, A TRAVES DE LA COMISION ADMINISTRADORA DEL TRATADO CON LA REP. DE CHILE, SOBRE INTEGRACION Y COMPLEMENTACIÓN MINERA, APROBADO POR LA LEY 25.243, LA HABILITACION DE UN PASO FRONTERIZO DE USO MINERO Y LOGISTICO, EN EL DPTO. CALINGASTA, PROV. DE",
+    "autores": [
+      "OLIVERA LUCERO, BRUNO ANTONIO"
+    ],
+    "coautores": [],
+    "bloques": [
+      "LA LIBERTAD AVANZA"
+    ],
+    "provincias": [
+      "SAN JUAN"
+    ],
+    "comisiones": [
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "fecha": "19/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2001.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "OLIVERA LUCERO, BRUNO ANTONIO"
+    ],
+    "bloques_caratula": [
+      "LA LIBERTAD AVANZA"
+    ]
+  },
+  {
+    "nro": 2000,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSOS PUNTOS RELACIONADOS CON LA INTERVENCIÓN DEL PUERTO DE USHUAIA, PROV. DE TIERRA DEL FUEGO, A.I.A.S.",
+    "autores": [
+      "LÓPEZ, CÁNDIDA CRISTINA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR"
+    ],
+    "comisiones": [
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "18/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2000.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "LÓPEZ, CÁNDIDA CRISTINA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1999,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE RECHAZA LA PARALIZACIÓN DE LAS OBRAS DEL COMPLEJO HIDROELÉCTRICO COMPUESTO POR LAS REPRESAS PTE. DR. NESTOR KIRCHNER Y GOB. JORGE CEPERNIC, EN LA PROV. DE SANTA CRUZ.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE"
+    ],
+    "fecha": "18/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1999.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1998,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA PREOCUPACIÓN Y REPUDIA EL CIERRE DE LOS CENTROS DE REFERENCIA DE LA ACTUAL SECRETARÍA DE NIÑEZ, ADOLESCENCIA Y FAMILIA DEL MINISTERIO DE CAPITAL HUMANO DE LA NACIÓN.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE POBLACIÓN Y DESARROLLO  HUMANO"
+    ],
+    "fecha": "18/11/2026",
+    "dae": "91/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1998.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1997,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE RECHAZA TODO INTENTO DE PRIVATIZACIÓN Y DISOLUCIÓN DE LA UNIDAD ECONÓMICA QUE REPRESENTA YACIMIENTO CARBONÍFERO RIO TURBIO (YCRT), DE LA PROV. DE SANTA CRUZ.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE MINERÍA, ENERGÍA Y COMBUSTIBLES"
+    ],
+    "fecha": "18/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1997.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1996,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLÁCITO AL CONMEMORARSE EL 120° ANIVERSARIO DE LA LOC. DE ANGUIL, PROV. DE LA PAMPA, EL 2 DE DICIEMBRE DE 2026.",
+    "autores": [
+      "HUALA, MARÍA VICTORIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "FRENTE PRO"
+    ],
+    "provincias": [
+      "LA PAMPA"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "18/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1996.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "HUALA, MARÍA VICTORIA"
+    ],
+    "bloques_caratula": [
+      "FRENTE PRO"
+    ]
+  },
+  {
+    "nro": 1995,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERES EL \"SEMINARIO SOBRE LACTANCIA HUMANA, MICROBIOMA INTESTINAL Y RESISTENCIA A LOS ANTIMICROBIANOS\", A REALIZARSE EN MODALIDAD VIRTUAL, EL 12 DE NOVIEMBRE.",
+    "autores": [
+      "ABDALA, BARTOLOMÉ ESTEBAN"
+    ],
+    "coautores": [],
+    "bloques": [
+      "LA LIBERTAD AVANZA"
+    ],
+    "provincias": [
+      "SAN LUIS"
+    ],
+    "comisiones": [
+      "DE SALUD"
+    ],
+    "fecha": "18/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1995.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "ABDALA, BARTOLOMÉ ESTEBAN"
+    ],
+    "bloques_caratula": [
+      "LA LIBERTAD AVANZA"
+    ]
+  },
+  {
+    "nro": 1994,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERÉS CULTURAL LA LABOR Y LA TRAYECTORIA DE LA FEDERACIÓN ARGENTINA DE AMIGOS DE MUSEOS (FADAM), EN EL MARCO DE SU 50° ANIVERSARIO",
+    "autores": [
+      "ANDRADA, GUILLERMO EDUARDO"
+    ],
+    "coautores": [],
+    "bloques": [
+      "CONVICCIÓN FEDERAL"
+    ],
+    "provincias": [
+      "CATAMARCA"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "17/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1994.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "ANDRADA, GUILLERMO EDUARDO"
+    ],
+    "bloques_caratula": [
+      "CONVICCIÓN FEDERAL"
+    ]
+  },
+  {
+    "nro": 1993,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACION QUE EXPRESA BENEPLACITO POR LA INCORPORACION DEL COMPLEJO PLUTONICO FITZ ROY, UBICADO EN LA PROV. DE SANTA CRUZ, A LA LISTA DE LOS 100 SITIOS DE PATRIMONIO GEOLOGICO MUNDIAL DE LA UNION INTERNACIONAL DE CIENCIAS GEOLOGICAS (IUGS), EL 6 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "CARAMBIA, JOSÉ MARÍA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "MOVERE POR SANTA CRUZ"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE CIENCIA Y TECNOLOGÍA"
+    ],
+    "fecha": "17/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1993.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CARAMBIA, JOSÉ MARÍA"
+    ],
+    "bloques_caratula": [
+      "MOVERE POR SANTA CRUZ"
+    ]
+  },
+  {
+    "nro": 1992,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLACITO POR LA IDENTIFICACIÓN DE LOS RESTOS DE MARÍA LUISA \"MARA\" SALTO, DETENIDA DESAPARECIDA EN EL EX CENTRO CLANDESTINO \"LA PERLA\", PROV. DE CORDOBA, DURANTE LA ULTIMA DICTADURA CIVICO MILITAR.",
+    "autores": [
+      "SORIA, MARTIN IGNACIO"
+    ],
+    "coautores": [
+      "CAPITANICH, JORGE MILTON",
+      "SALINO, FERNANDO ALDO",
+      "MARKS, ANA INÉS",
+      "LEWANDOWSKI, MARCELO NÉSTOR",
+      "LINARES, CARLOS ALBERTO",
+      "DE PEDRO, EDUARDO ENRIQUE",
+      "LÓPEZ, MARÍA FLORENCIA",
+      "RECALDE, MARIANO",
+      "BAHL, ADÁN HUMBERTO"
+    ],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "RÍO NEGRO"
+    ],
+    "comisiones": [
+      "DE DERECHOS Y GARANTÍAS"
+    ],
+    "fecha": "17/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1992.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "SORIA, MARTIN IGNACIO"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1991,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERES LA REALIZACION DEL PRIMER FORO DE MUJERES RURALES MISIONERAS, EN EL AUDITORIUM \"TIERRA SIN MAL\", EN LA CDAD. DE POSADAS, PROV. DE MISIONES, EL 27 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "ARCE, CARLOS OMAR",
+      "ROJAS DECUT, SONIA ELIZABETH"
+    ],
+    "coautores": [],
+    "bloques": [
+      "MOVIMIENTO POR MISIONES"
+    ],
+    "provincias": [
+      "MISIONES"
+    ],
+    "comisiones": [
+      "BANCA DE LA MUJER"
+    ],
+    "fecha": "17/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1991.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "ARCE, CARLOS OMAR",
+      "ROJAS DECUT, SONIA ELIZABETH"
+    ],
+    "bloques_caratula": [
+      "MOVIMIENTO POR MISIONES",
+      "MOVIMIENTO POR MISIONES"
+    ]
+  },
+  {
+    "nro": 1990,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSOS PUNTOS RESPECTO AL ESTADO ACTUAL Y LAS POLÍTICAS EJECUTADAS PARA GARANTIZAR EL DERECHO HUMANO A LA CONECTIVIDAD.",
+    "autores": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE SISTEMAS, MEDIOS DE COMUNICACIÓN Y LIBERTAD DE EXPRESIÓN"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1990.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "KIRCHNER, ALICIA MARGARITA ANTONIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1989,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "REPRODUCE PROYECTO DE LEY QUE CREA EL RÉGIMEN DE FOMENTO A LAS INVERSIONES Y COMPETITIVIDAD DE LAS MI PYMES.  \r\n(REF. S. 1614/24)",
+    "autores": [
+      "LÓPEZ, MARÍA FLORENCIA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "LA RIOJA"
+    ],
+    "comisiones": [
+      "DE ECONOMÍAS REGIONALES, ECONOMÍA SOCIAL, MICRO, PEQUEÑA Y MEDIANA EMPRESA",
+      "DE TRABAJO Y PREVISIÓN SOCIAL",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1989.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "LÓPEZ, MARÍA FLORENCIA"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1988,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLÁCITO POR LA CONMEMORACIÓN DEL 93° ANIVERSARIO DE LA FUNDACIÓN DE LA CDAD. DE SUMAMPA, PROV. DE SANTIAGO DEL ESTERO, EL 20 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "MORENO, ELIA ESTHER DEL CARMEN"
+    ],
+    "coautores": [],
+    "bloques": [
+      "FRENTE CÍVICO POR SANTIAGO"
+    ],
+    "provincias": [
+      "SANTIAGO DEL ESTERO"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1988.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "MORENO, ELIA ESTHER DEL CARMEN"
+    ],
+    "bloques_caratula": [
+      "FRENTE CÍVICO POR SANTIAGO"
+    ]
+  },
+  {
+    "nro": 1987,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSOS PUNTOS RELACIONADOS A LA REANUDACIÓN DE LA CONEXIÓN MARÍTIMA COMERCIAL DIRECTA ENTRE PUNTA ARENAS, REPÚBLICA DE CHILE, Y LAS ISLAS MALVINAS, MEDIANTE EL BUQUE DANSTAR.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1987.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1986,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY DE MODIFICACION DE LA LEY DE IMPUESTOS INTERNOS - INCORPORACIÓN DE NUEVOS PRODUCTOS DE TABACO Y NICOTINA AL FONDO ESPECIAL DEL TABACO.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE PRESUPUESTO Y HACIENDA",
+      "DE COPARTICIPACIÓN FEDERAL DE IMPUESTOS"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1986.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1985,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE RECONOCE AL DR. JOSÉ BENJAMÍN PÉREZ MATOS, PTE. FUNDADOR DEL CENTRO DEL REINO DE PAZ Y JUSTICIA, AL CUMPLIRSE MÁS DE 25 AÑOS DE SU LABOR SOSTENIDA EN LA REP. ARGENTINA.",
+    "autores": [
+      "SCHNEIDER, SILVANA LORENA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1985.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "SCHNEIDER, SILVANA LORENA"
+    ],
+    "bloques_caratula": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ]
+  },
+  {
+    "nro": 1984,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLACITO POR EL 50° ANIVERSARIO DE LA ASOCIACIÓN COOPERADORA DE LA ESTACIÓN EXPERIMENTAL AGROPECUARIA \"ING. AGR. EMILIO DRUZIANICH\" DEL INTA, DE LA LOC. DE LAS BREÑAS, PROV. DEL CHACO",
+    "autores": [
+      "SCHNEIDER, SILVANA LORENA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE AGRICULTURA, GANADERÍA Y PESCA"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1984.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "SCHNEIDER, SILVANA LORENA"
+    ],
+    "bloques_caratula": [
+      "UCR - UNIÓN CÍVICA RADICAL"
+    ]
+  },
+  {
+    "nro": 1983,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY DE PROTECCIÓN Y DESARROLLO ESTRATÉGICO DEL SISTEMA NUCLEAR ARGENTINO.",
+    "autores": [
+      "BENSUSÁN, DANIEL PABLO"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "LA PAMPA"
+    ],
+    "comisiones": [
+      "DE MINERÍA, ENERGÍA Y COMBUSTIBLES",
+      "DE CIENCIA Y TECNOLOGÍA",
+      "DE ASUNTOS CONSTITUCIONALES"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1983.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "BENSUSÁN, DANIEL PABLO"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1982,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLACITO POR LA VISITA APOSTÓLICA DE SU SANTIDAD EL PAPA LEÓN XIV A LA REP. ARGENTINA, ENTRE EL 8 Y EL 11 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "OLIVERA LUCERO, BRUNO ANTONIO"
+    ],
+    "coautores": [],
+    "bloques": [
+      "LA LIBERTAD AVANZA"
+    ],
+    "provincias": [
+      "SAN JUAN"
+    ],
+    "comisiones": [
+      "DE RELACIONES EXTERIORES Y CULTO"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1982.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "OLIVERA LUCERO, BRUNO ANTONIO"
+    ],
+    "bloques_caratula": [
+      "LA LIBERTAD AVANZA"
+    ]
+  },
+  {
+    "nro": 1981,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSOS PUNTOS RESPECTO AL BENEFICIO TARIFARIO PARA LOS CLUBES DE BARRIO Y PUEBLO.",
+    "autores": [
+      "LEWANDOWSKI, MARCELO NÉSTOR"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "SANTA FE"
+    ],
+    "comisiones": [
+      "DE DEPORTE"
+    ],
+    "fecha": "16/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1981.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "LEWANDOWSKI, MARCELO NÉSTOR"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1980,
+    "anio": 2026,
+    "tipo": "PC",
+    "tipo_label": "Proyecto de Comunicación",
+    "extracto": "PROYECTO DE COMUNICACIÓN QUE SOLICITA INFORME SOBRE DIVERSOS PUNTOS DE LA RESOLUCION N° 16/2026 DEL CONSEJO FEDERAL PESQUERO.",
+    "autores": [
+      "CARAMBIA, JOSÉ MARÍA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "MOVERE POR SANTA CRUZ"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE AGRICULTURA, GANADERÍA Y PESCA"
+    ],
+    "fecha": "13/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1980.26/S/PC",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CARAMBIA, JOSÉ MARÍA"
+    ],
+    "bloques_caratula": [
+      "MOVERE POR SANTA CRUZ"
+    ]
+  },
+  {
+    "nro": 1979,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE DECLARA DE INTERES EL 95° ANIVERSARIO DE VILLA BERTHET, PROV. DEL CHACO, EL 13 DE NOVIEMBRE DE 2026.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE ASUNTOS ADMINISTRATIVOS Y MUNICIPALES"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "90/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1979.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1978,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE REGULA LA EDUCACIÓN SUPERIOR.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1978.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1977,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE CREA EL RÉGIMEN INTEGRADO DE INCENTIVOS A LAS INVERSIONES PRODUCTIVAS, INDUSTRIALES Y COMERCIALES.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE LEGISLACIÓN GENERAL",
+      "DE ECONOMÍA NACIONAL E INVERSIÓN",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1977.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1976,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY DE PRESUPUESTOS MÍNIMOS PARA LA CONSERVACIÓN, RESTAURACIÓN Y RETRIBUCIÓN DE LOS SERVICIOS ECOSISTÉMICOS.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE AMBIENTE Y DESARROLLO SUSTENTABLE",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1976.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1975,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE DECLARA LA EMERGENCIA DEL CABOTAJE NACIONAL EN EL ÁMBITO FLUVIAL",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE INFRAESTRUCTURA, VIVIENDA Y TRANSPORTE",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1975.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1974,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE ESTABLECE UN MARCO REGULATORIO DEL BIOETANOL Y DISPOSICIONES GENERALES SOBRE BIOCOMBUSTIBLES",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE MINERÍA, ENERGÍA Y COMBUSTIBLES",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1974.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
     ]
   },
   {
@@ -275,6 +2410,121 @@
     ]
   },
   {
+    "nro": 1972,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE RESTABLECE EL FONDO NACIONAL PARA LA EDUCACIÓN TÉCNICO PROFESIONAL",
+    "autores": [
+      "DE PEDRO, EDUARDO ENRIQUE"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "BUENOS AIRES"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA",
+      "DE PRESUPUESTO Y HACIENDA"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1972.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "DE PEDRO, EDUARDO ENRIQUE"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
+    ]
+  },
+  {
+    "nro": 1971,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE MODIFICA EL CODIGO PENAL DE LA NACION, RESPECTO DE INCORPORAR UNA AGRAVANTE AL DELITO DE INSTIGACION PUBLICA A COMETER DELITO.",
+    "autores": [
+      "CARAMBIA, JOSÉ MARÍA"
+    ],
+    "coautores": [],
+    "bloques": [
+      "MOVERE POR SANTA CRUZ"
+    ],
+    "provincias": [
+      "SANTA CRUZ"
+    ],
+    "comisiones": [
+      "DE JUSTICIA Y ASUNTOS PENALES"
+    ],
+    "fecha": "12/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1971.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CARAMBIA, JOSÉ MARÍA"
+    ],
+    "bloques_caratula": [
+      "MOVERE POR SANTA CRUZ"
+    ]
+  },
+  {
+    "nro": 1970,
+    "anio": 2026,
+    "tipo": "PD",
+    "tipo_label": "Proyecto de Declaración",
+    "extracto": "PROYECTO DE DECLARACIÓN QUE EXPRESA BENEPLÁCITO POR LA CONMEMORACIÓN DEL 125° ANIVERSARIO DE LA ESCUELA N° 3 \"DOMINGO FAUSTINO SARMIENTO\", DE LA CDAD. DE POSADAS, PROV. DE MISIONES.",
+    "autores": [
+      "ARCE, CARLOS OMAR"
+    ],
+    "coautores": [],
+    "bloques": [
+      "MOVIMIENTO POR MISIONES"
+    ],
+    "provincias": [
+      "MISIONES"
+    ],
+    "comisiones": [
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "fecha": "06/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1970.26/S/PD",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "ARCE, CARLOS OMAR"
+    ],
+    "bloques_caratula": [
+      "MOVIMIENTO POR MISIONES"
+    ]
+  },
+  {
     "nro": 1969,
     "anio": 2026,
     "tipo": "PD",
@@ -310,6 +2560,45 @@
     ],
     "bloques_caratula": [
       "LA LIBERTAD AVANZA"
+    ]
+  },
+  {
+    "nro": 1968,
+    "anio": 2026,
+    "tipo": "PL",
+    "tipo_label": "Proyecto de Ley",
+    "extracto": "PROYECTO DE LEY QUE CREA UN RÉGIMEN DE TARIFA SUSTITUTIVA UNIFICADA (T.S.U.) PARA EL EMPLEO RURAL.",
+    "autores": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "coautores": [],
+    "bloques": [
+      "JUSTICIALISTA"
+    ],
+    "provincias": [
+      "CHACO"
+    ],
+    "comisiones": [
+      "DE TRABAJO Y PREVISIÓN SOCIAL",
+      "DE LEGISLACIÓN GENERAL"
+    ],
+    "fecha": "06/11/2026",
+    "dae": "89/2026",
+    "origen": "S",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1968.26/S/PL",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24",
+    "autores_caratula": [
+      "CAPITANICH, JORGE MILTON"
+    ],
+    "bloques_caratula": [
+      "JUSTICIALISTA"
     ]
   },
   {
@@ -12975,7 +15264,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ROJAS DECUT, SONIA ELIZABETH"
     ],
@@ -13013,7 +15302,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SCHNEIDER, SILVANA LORENA"
     ],
@@ -13051,7 +15340,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SCHNEIDER, SILVANA LORENA"
     ],
@@ -13089,7 +15378,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -13127,7 +15416,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -13165,7 +15454,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -13203,7 +15492,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -13241,7 +15530,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -13279,7 +15568,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -13613,7 +15902,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01"
+    "_ultima_revision": "2026-11-24"
   },
   {
     "nro": 1621,
@@ -13647,7 +15936,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -13685,7 +15974,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -13765,7 +16054,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MORENO, ELIA ESTHER DEL CARMEN",
       "LINARES, CARLOS ALBERTO"
@@ -13835,7 +16124,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -13873,7 +16162,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -13911,7 +16200,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -13949,7 +16238,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -13987,7 +16276,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SCHNEIDER, SILVANA LORENA"
     ],
@@ -14025,7 +16314,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -14063,7 +16352,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LINARES, CARLOS ALBERTO"
     ],
@@ -14105,7 +16394,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LÓPEZ, CÁNDIDA CRISTINA"
     ],
@@ -14144,7 +16433,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -14182,7 +16471,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LÓPEZ, MARÍA FLORENCIA"
     ],
@@ -14220,7 +16509,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SCHNEIDER, SILVANA LORENA"
     ],
@@ -14272,7 +16561,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SORIA, MARTIN IGNACIO"
     ],
@@ -14310,7 +16599,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -14389,7 +16678,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -14427,7 +16716,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ROYON, FLAVIA GABRIELA"
     ],
@@ -14465,7 +16754,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "BENSUSÁN, DANIEL PABLO"
     ],
@@ -14542,7 +16831,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -14580,7 +16869,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CAPITANICH, JORGE MILTON"
     ],
@@ -49767,6 +52056,30 @@
     ]
   },
   {
+    "nro": 563,
+    "anio": 2026,
+    "tipo": "CV",
+    "tipo_label": "Comunicación Varia",
+    "extracto": "EXPRESA PREOCUPACION POR LA INTERRUPCION DEL FINANCIAMIENTO DEL FONDO NACIONAL DE INCENTIVO DOCENTE (FONID).",
+    "autores": [],
+    "coautores": [],
+    "bloques": [],
+    "provincias": [],
+    "comisiones": [],
+    "fecha": "20/11/2026",
+    "dae": "",
+    "origen": "OV",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/563.26/OV/CV",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24"
+  },
+  {
     "nro": 562,
     "anio": 2026,
     "tipo": "PL",
@@ -49818,6 +52131,30 @@
         "fecha": "04/06/2026"
       }
     ]
+  },
+  {
+    "nro": 562,
+    "anio": 2026,
+    "tipo": "CV",
+    "tipo_label": "Comunicación Varia",
+    "extracto": "REPUDIA EL CRECIMIENTO DEL ENDEUDAMIENTO Y MOROSIDAD DE LAS FAMILIAS ARGENTINAS.",
+    "autores": [],
+    "coautores": [],
+    "bloques": [],
+    "provincias": [],
+    "comisiones": [],
+    "fecha": "20/11/2026",
+    "dae": "",
+    "origen": "OV",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/562.26/OV/CV",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24"
   },
   {
     "nro": 561,
@@ -62377,6 +64714,30 @@
     "caduca": false,
     "fecha_caduca": null,
     "_ultima_revision": "2026-09-10"
+  },
+  {
+    "nro": 365,
+    "anio": 2026,
+    "tipo": "CE",
+    "tipo_label": "Comunicación del Poder Ejecutivo",
+    "extracto": "EN CUMPLIMIENTO DEL ART. 101 DE LA CONSTITUCION NACIONAL, ELEVA A CONSIDERACION EL INFORME N° 146 DE LA JEFATURA DE GABINETE DE MINISTROS.",
+    "autores": [],
+    "coautores": [],
+    "bloques": [],
+    "provincias": [],
+    "comisiones": [],
+    "fecha": "24/11/2026",
+    "dae": "",
+    "origen": "PE",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/365.26/PE/CE",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24"
   },
   {
     "nro": 364,
@@ -86498,6 +88859,30 @@
     ]
   },
   {
+    "nro": 38,
+    "anio": 2026,
+    "tipo": "PP",
+    "tipo_label": "Petición",
+    "extracto": "SOLICITA LA APROBACION DEL PROYECTO DE LEY DE PREVENCIÓN DE LA LUDOPATÍA Y LA REGULACIÓN DE LOS JUEGOS DE AZAR Y APUESTAS EN LÍNEA.",
+    "autores": [],
+    "coautores": [],
+    "bloques": [],
+    "provincias": [],
+    "comisiones": [],
+    "fecha": "24/11/2026",
+    "dae": "",
+    "origen": "P",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/38.26/P/PP",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24"
+  },
+  {
     "nro": 37,
     "anio": 2026,
     "tipo": "AC",
@@ -86561,6 +88946,30 @@
     "bloques_caratula": [
       "JUSTICIALISTA"
     ]
+  },
+  {
+    "nro": 37,
+    "anio": 2026,
+    "tipo": "PP",
+    "tipo_label": "Petición",
+    "extracto": "REMITE PROYECTO DE DECLARACIÓN QUE REPUDIA LA POSTURA ADOPTADA POR EL GOBIERNO NACIONAL FRENTE A LA PREVENCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES Y NIÑAS.",
+    "autores": [],
+    "coautores": [],
+    "bloques": [],
+    "provincias": [],
+    "comisiones": [],
+    "fecha": "19/11/2026",
+    "dae": "",
+    "origen": "P",
+    "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/37.26/P/PP",
+    "sancionado": false,
+    "ley_numero": null,
+    "fecha_ley": null,
+    "archivado": false,
+    "fecha_archivo": null,
+    "caduca": false,
+    "fecha_caduca": null,
+    "_ultima_revision": "2026-11-24"
   },
   {
     "nro": 36,
@@ -87727,7 +90136,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01"
+    "_ultima_revision": "2026-11-24"
   },
   {
     "nro": 25,
@@ -123198,7 +125607,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ABDALA, BARTOLOMÉ ESTEBAN"
     ],
@@ -123236,7 +125645,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ABDALA, BARTOLOMÉ ESTEBAN"
     ],
@@ -123274,7 +125683,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ABDALA, BARTOLOMÉ ESTEBAN"
     ],
@@ -123312,7 +125721,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ABDALA, BARTOLOMÉ ESTEBAN"
     ],
@@ -123350,7 +125759,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DURÉ, MARÍA EUGENIA"
     ],
@@ -123391,7 +125800,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DURÉ, MARÍA EUGENIA"
     ],
@@ -123432,7 +125841,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ROMERO, JUAN CARLOS"
     ],
@@ -123476,7 +125885,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CARAMBIA, JOSÉ MARÍA"
     ],
@@ -123517,7 +125926,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CARAMBIA, JOSÉ MARÍA"
     ],
@@ -123556,7 +125965,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CARAMBIA, JOSÉ MARÍA",
       "GADANO, NATALIA ELENA"
@@ -123599,7 +126008,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CARAMBIA, JOSÉ MARÍA"
     ],
@@ -123637,7 +126046,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -123678,7 +126087,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -123719,7 +126128,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -123760,7 +126169,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -123856,7 +126265,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -123900,7 +126309,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DURÉ, MARÍA EUGENIA"
     ],
@@ -123941,7 +126350,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "KIRCHNER, ALICIA MARGARITA ANTONIA"
     ],
@@ -123979,7 +126388,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "KIRCHNER, ALICIA MARGARITA ANTONIA"
     ],
@@ -124018,7 +126427,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CRISTINA, ANDREA MARCELA"
     ],
@@ -124064,7 +126473,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "HUALA, MARÍA VICTORIA"
     ],
@@ -124102,7 +126511,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "HUALA, MARÍA VICTORIA"
     ],
@@ -124144,7 +126553,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO",
       "MOISES, MARÍA CAROLINA"
@@ -124185,7 +126594,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "CORA, STEFANIA"
     ],
@@ -124235,7 +126644,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GARCÍA LARRABURU, SILVINA MARCELA"
     ],
@@ -124285,7 +126694,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GARCÍA LARRABURU, SILVINA MARCELA"
     ],
@@ -124339,7 +126748,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GARCÍA LARRABURU, SILVINA MARCELA"
     ],
@@ -124391,7 +126800,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GARCÍA LARRABURU, SILVINA MARCELA"
     ],
@@ -124432,7 +126841,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "PILATTI VERGARA, MARÍA INÉS"
     ],
@@ -124473,7 +126882,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124511,7 +126920,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124549,7 +126958,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124587,7 +126996,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124625,7 +127034,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124663,7 +127072,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124701,7 +127110,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124739,7 +127148,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -124777,7 +127186,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "OLIVERA LUCERO, BRUNO ANTONIO"
     ],
@@ -124816,7 +127225,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "OLIVERA LUCERO, BRUNO ANTONIO"
     ],
@@ -124862,7 +127271,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "OLIVERA LUCERO, BRUNO ANTONIO"
     ],
@@ -124910,7 +127319,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "KRONEBERGER, DANIEL RICARDO"
     ],
@@ -124962,7 +127371,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SALINO, FERNANDO ALDO"
     ],
@@ -125023,7 +127432,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -125062,7 +127471,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ABAD, MAXIMILIANO"
     ],
@@ -125108,7 +127517,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -125149,7 +127558,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ZIMMERMANN, VICTOR"
     ],
@@ -125190,7 +127599,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "BLANCO, PABLO DANIEL"
     ],
@@ -125293,7 +127702,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "BLANCO, PABLO DANIEL"
     ],
@@ -125452,7 +127861,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "RECALDE, MARIANO"
     ],
@@ -125498,7 +127907,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DURÉ, MARÍA EUGENIA"
     ],
@@ -125547,7 +127956,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DURÉ, MARÍA EUGENIA",
       "MENDOZA, SANDRA MARIELA"
@@ -125595,7 +128004,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DURÉ, MARÍA EUGENIA",
       "MENDOZA, SANDRA MARIELA"
@@ -125635,7 +128044,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "VIGO, ALEJANDRA MARÍA"
     ],
@@ -125674,7 +128083,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "OLALLA, STELLA MARIS"
     ],
@@ -125723,7 +128132,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LEAVY, SERGIO NAPOLEÓN"
     ],
@@ -125766,7 +128175,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "ROJAS DECUT, SONIA ELIZABETH"
     ],
@@ -125807,7 +128216,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "SUÁREZ, RODOLFO ALEJANDRO",
       "JURI, MARIANA"
@@ -125848,7 +128257,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LÓPEZ, CÁNDIDA CRISTINA"
     ],
@@ -125886,7 +128295,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -125925,7 +128334,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GIMÉNEZ NAVARRO, MARÍA CELESTE"
     ],
@@ -125971,7 +128380,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GIMÉNEZ NAVARRO, MARÍA CELESTE"
     ],
@@ -126010,7 +128419,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GIMÉNEZ NAVARRO, MARÍA CELESTE"
     ],
@@ -126048,7 +128457,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "GIMÉNEZ NAVARRO, MARÍA CELESTE"
     ],
@@ -126086,7 +128495,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "MENDOZA, SANDRA MARIELA"
     ],
@@ -126124,7 +128533,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LINARES, CARLOS ALBERTO"
     ],
@@ -126162,7 +128571,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "LÓPEZ, CÁNDIDA CRISTINA"
     ],
@@ -126201,7 +128610,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "PILATTI VERGARA, MARÍA INÉS"
     ],
@@ -126258,7 +128667,7 @@
     "fecha_archivo": null,
     "caduca": false,
     "fecha_caduca": null,
-    "_ultima_revision": "2026-11-01",
+    "_ultima_revision": "2026-11-24",
     "autores_caratula": [
       "DE PEDRO, EDUARDO ENRIQUE"
     ],

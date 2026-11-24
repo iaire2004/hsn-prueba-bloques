@@ -1,5 +1,713 @@
 [
   {
+    "numero": "570",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": "Atauche",
+    "descripcion": "Dictamen en el proyecto de ley del señor senador Atauche, por el que se incorpora el inciso C al artículo 44 de la Ley 25.300 – Fomento para la Micro, Pequeña y Mediana Empresa, respecto a la integración del Consejo Federal. (S- 1143/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1143/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1143.26/S/PL"
+      }
+    ],
+    "comisionCabecera": "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+    "fechaDictamen": "20/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51920/downloadOrdenDia",
+    "comisiones": [
+      "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+      "DE ECONOMÍAS REGIONALES, ECONOMÍA SOCIAL, MICRO, PEQUEÑA Y MEDIANA EMPRESA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Jorge M. Capitanich",
+      "Andrea M. Cristina",
+      "Romina M. Almeida",
+      "Carlos O. Arce",
+      "Joaquín A. Benegas Lynch",
+      "Juan C. Godoy",
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "569",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Ávila",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Ávila, expresando beneplácito por un nuevo aniversario de la creación del Liceo Militar \"General Aráoz Lamadrid\", en la ciudad de San Miguel de Tucumán, provincia de Tucumán. (S-1759/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1759/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1759.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51919/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Ivanna M. Arrascaeta",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "568",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Abdala y otros",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Abdala y otros, expresando pesar por el fallecimiento del senador nacional por la provincia de La Rioja, Dr. Juan Carlos Pagotto. (S-1741/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1741/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1741.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51918/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "567",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Godoy y otros",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Godoy y otros, declarando de interés un nuevo Congreso Internacional Trianual de la Sociedad Internacional para la Física – Química Teórica (ISTCP), en la ciudad de Corrientes, provincia homónima. (S-1737/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1737/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1737.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51917/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "566",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut, adhiriéndose al “Día del Provinciano Misionero”. (S-1730/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1730/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1730.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51916/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "565",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Mendoza",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Mendoza, expresando beneplácito por la conmemoración de un nuevo aniversario de la Escuela Especial \"Malvinas Argentinas\", de la localidad de Famaillá, provincia de Tucumán. (S-1665/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1665/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1665.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51915/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "564",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moisés y otros",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moisés y otros, declarando de interés una nueva edición del Festival del Quesillo y el Folklore, en la provincia de Jujuy. (S-1652/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1652/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1652.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51914/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "563",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moisés y otros",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moisés y otros, declarando de interés la una nueva edición de la Manka Fiesta, en la ciudad de La Quiaca, provincia de Jujuy. (S-1650/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1650/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1650.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51912/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "562",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Royón",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Royón, declarando de interés la \"Movida Cultural del 11 al 14 de septiembre de 2026\", en la ciudad de Rosario de la Frontera, provincia de Salta. (S-1601/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1601/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1601.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51911/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López"
+    ]
+  },
+  {
+    "numero": "561",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senador Rojas Decut, adhiriendo al \"Día Mundial de los Docentes\". (S-1575/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1575/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1575.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51910/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "560",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Coto",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Coto, declarando de interés el proyecto audiovisual \"Brown: entre dos mares\", producido por El Rompehielos, productora argentina fundada por el cineasta Manuel Fernández Arroyo. (S-1512/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1512/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1512.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51909/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "559",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Juri",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Juri, expresando beneplácito por la publicación del libro \"Sitios históricos sanmartinianos: tras los pasos del libertador\", escrito por Fabiana Mastrangelo, Liliana Girini y Juan Marcelo Calabria. (S-1354/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1354/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1354.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51908/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "558",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Salino",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Salino, expresando beneplácito por la selección de María Emilia Sosa Cacacede, música, docente, investigadora, luthier y cineasta puntana, para participar en el International Festival of Youth (IFY), en la ciudad de Ekaterimburgo, Rusia. (S-1290/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1290/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1290.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51907/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "557",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rojas Decut y Arce",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Rojas Decut y del señor senador Arce, declarando de interés la exposición de dibujos y grabados \"Momentos en la historia de la belleza\", de la artista María Nathan, en la ciudad de Posadas, provincia de Misiones. (S-1260/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1260/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1260.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51906/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "556",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rejal",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Rejal, expresando beneplácito por la postulación ante la UNESCO del Cable Carril Chilecito – La Mejicana, de la provincia de La Rioja, como patrimonio histórico y cultural de la humanidad. (S-1213/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1213/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1213.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51905/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "555",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Atauche",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Atauche, declarando de interés la \"Fiesta Provincial y Nacional de la Tradición\", en la provincia de Jujuy. (S-1153/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1153/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1153.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51904/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino PROYECTO DE DECLARACIÓN El Senado de la Nación DECLARA De interés la “Fiesta Provincial y Nacional de la Tradición” a realizarse entre los días 9 a 16 de noviembre del corriente año, en la provincia de Jujuy"
+    ]
+  },
+  {
+    "numero": "554",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Atauche",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Atauche, expresando beneplácito por la conmemoración de un nuevo aniversario de la declaración de la autonomía política de Jujuy. (S-1151/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1151/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1151.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51903/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino PROYECTO DE DECLARACIÓN El Senado de la Nación DECLARA Su beneplácito por la conmemoración de 192º Aniversario de la Declaración de la Autonomía Política de Jujuy, el 18 de noviembre del corriente año"
+    ]
+  },
+  {
+    "numero": "553",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Atauche",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Atauche, declarando de interés la \"Fiesta Patronal en Honor a Nuestra Señora del Rosario de Río Blanco y Paypaya\", en la localidad de Río Blanco, provincia de Jujuy. (S-1147/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1147/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1147.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51902/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino ANTECEDENTE PROYECTO DE DECLARACIÓN El Senado de la Nación DECLARA De interés la “Fiesta Patronal en Honor a Nuestra Señora del Rosario de Río Blanco y Paypaya”, realizándose su peregrinación todos los domingos a partir del 7 de octubre de cada año, en la localidad de Río Blanco, departamento de Palpalá, provincia de Jujuy"
+    ]
+  },
+  {
+    "numero": "552",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Rejal",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Rejal, expresando beneplácito y reconociendo la trayectoria del Dr. Pablo Castro, de la provincia de La Rioja. (S-1066/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1066/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1066.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51901/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "551",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Abdala",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Abdala, declarando de interés el proyecto audiovisual \"Me llamaron Pancha\", ideado por Carlos J. Ortega y basado en la vida de Francisca \"Pancha\" Hernández, de la provincia de San Luis . (S-1042/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1042/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1042.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51900/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "Romina M. Almeida",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
+    "numero": "550",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Abad",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Abad, expresando beneplácito por el 80° aniversario de la creación del Consejo Profesional de Ciencias Económicas de la provincia de Buenos Aires. (S-895/26)",
+    "expedientes": [
+      {
+        "codigo": "S-895/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/895.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Educación y Cultura",
+    "fechaDictamen": "19/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51899/downloadOrdenDia",
+    "comisiones": [
+      "Educación y Cultura",
+      "DE EDUCACIÓN Y CULTURA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Sonia E. Rojas Decut",
+      "Mercedes G. Valenzuela",
+      "Vilma F. Bedia",
+      "María V. Huala",
+      "Flavio S. Fama",
+      "Beatriz L. Ávila",
+      "María T. M. González",
+      "María C. Giménez Navarro",
+      "Cándida C. López",
+      "Fernando A. Salino"
+    ]
+  },
+  {
     "numero": "549",
     "periodo": 2026,
     "origen": "Senado",
