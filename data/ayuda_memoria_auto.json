@@ -1,5 +1,137 @@
 [
   {
+    "numero": "574",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Huala",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Huala, expresando beneplácito a los emprendimientos pampeanos EPONA, Xspertia Custodian y Amielar Argentina, representantes de la provincia de La Pampa en la final nacional del concurso “Emprendimiento Argentino”, en la Ciudad Autónoma de Buenos Aires. (S-1963/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1963/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1963.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+    "fechaDictamen": "25/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51943/downloadOrdenDia",
+    "comisiones": [
+      "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+      "DE ECONOMÍAS REGIONALES, ECONOMÍA SOCIAL, MICRO, PEQUEÑA Y MEDIANA EMPRESA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Jorge M. Capitanich",
+      "Andrea M. Cristina",
+      "Vilma F. Bedia",
+      "Lucía B. Corpacci",
+      "Juan C. Godoy",
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "573",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Moisés",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Moisés, declarando de interés una nueva edición de Expojuy, en la Ciudad Cultural de San Salvador de Jujuy, provincia de Jujuy. (S-1722/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1722/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1722.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+    "fechaDictamen": "25/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51942/downloadOrdenDia",
+    "comisiones": [
+      "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+      "DE ECONOMÍAS REGIONALES, ECONOMÍA SOCIAL, MICRO, PEQUEÑA Y MEDIANA EMPRESA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Jorge M. Capitanich",
+      "Andrea M. Cristina",
+      "Vilma F. Bedia",
+      "Lucía B. Corpacci",
+      "Juan C. Godoy",
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "572",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Marks",
+    "descripcion": "Dictamen en el proyecto de declaración de la señora senadora Marks, declarando de interés una nueva edición de la exposición \"Expo Valle Medio Emprende\", en la localidad de Lamarque, provincia de Río Negro. (S-1579/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1579/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1579.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Economías Regionales, Economía Social, Micro, Pequeña y Mediana",
+    "fechaDictamen": "25/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51941/downloadOrdenDia",
+    "comisiones": [
+      "Economías Regionales, Economía Social, Micro, Pequeña y Mediana",
+      "DE ECONOMÍAS REGIONALES, ECONOMÍA SOCIAL, MICRO, PEQUEÑA Y MEDIANA EMPRESA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Jorge M. Capitanich",
+      "Andrea M. Cristina",
+      "Vilma F. Bedia",
+      "Lucía B. Corpacci",
+      "Juan C. Godoy",
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Gerardo Zamora"
+    ]
+  },
+  {
+    "numero": "571",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Declaración",
+    "autor": "Lewandowski",
+    "descripcion": "Dictamen en el proyecto de declaración del señor senador Lewandowski, declarando de interés el Congreso Internacional de Cooperativas y Mutuales – CICM 2026, en la Estación Fluvial de la ciudad de Rosario, provincia de Santa Fe. (S-1184/26)",
+    "expedientes": [
+      {
+        "codigo": "S-1184/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/1184.26/S/PD"
+      }
+    ],
+    "comisionCabecera": "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+    "fechaDictamen": "25/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51940/downloadOrdenDia",
+    "comisiones": [
+      "Economías Regionales, Economía Social, Micro, Pequeña y Mediana Empresa",
+      "DE ECONOMÍAS REGIONALES, ECONOMÍA SOCIAL, MICRO, PEQUEÑA Y MEDIANA EMPRESA"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": [
+      "Jorge M. Capitanich",
+      "Andrea M. Cristina",
+      "Vilma F. Bedia",
+      "Lucía B. Corpacci",
+      "Juan C. Godoy",
+      "Daniel R. Kroneberger",
+      "Ana I. Marks",
+      "Mercedes G. Valenzuela",
+      "Gerardo Zamora"
+    ]
+  },
+  {
     "numero": "570",
     "periodo": 2026,
     "origen": "Senado",

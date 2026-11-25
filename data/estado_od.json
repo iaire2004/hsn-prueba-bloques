@@ -2848,5 +2848,25 @@
     "estado": "PENDIENTE",
     "fecha": "20-11-2026",
     "expedientes_probados": 1
+  },
+  "571": {
+    "estado": "PENDIENTE",
+    "fecha": "25-11-2026",
+    "expedientes_probados": 1
+  },
+  "572": {
+    "estado": "PENDIENTE",
+    "fecha": "25-11-2026",
+    "expedientes_probados": 1
+  },
+  "573": {
+    "estado": "PENDIENTE",
+    "fecha": "25-11-2026",
+    "expedientes_probados": 1
+  },
+  "574": {
+    "estado": "PENDIENTE",
+    "fecha": "25-11-2026",
+    "expedientes_probados": 1
   }
 }

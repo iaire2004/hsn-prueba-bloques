@@ -122,6 +122,17 @@
     "aprobado_por_el_senado_con_od": false
   },
   {
+    "id": "S-1184/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "571/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
     "id": "S-1200/26",
     "bloques": [
       "Justicia Social Federal"
@@ -172,6 +183,17 @@
     ],
     "orden_del_dia": [
       "533/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-1579/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [
+      "572/2026"
     ],
     "fecha_dictamen": null,
     "aprobado_por_el_senado_con_od": false
@@ -287,6 +309,17 @@
     "aprobado_por_el_senado_con_od": false
   },
   {
+    "id": "S-1722/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [
+      "573/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
     "id": "S-1731/26",
     "bloques": [
       "Movimiento por Misiones"
@@ -392,6 +425,17 @@
     ],
     "orden_del_dia": [
       "547/2026"
+    ],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-1963/26",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [
+      "574/2026"
     ],
     "fecha_dictamen": null,
     "aprobado_por_el_senado_con_od": false
