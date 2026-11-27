@@ -23332,5 +23332,21 @@
     ],
     "url_pdf": "https://www.senado.gob.ar/parlamentario/parlamentaria/51940/downloadOrdenDia",
     "fecha": null
+  },
+  {
+    "nro_od": 575,
+    "anio_od": 2026,
+    "tipo_od": "N",
+    "expedientes": [
+      {
+        "nro": 2053,
+        "anio": 2026,
+        "tipo": "CC",
+        "origen": "S",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2053.26/S/CC"
+      }
+    ],
+    "url_pdf": "https://www.senado.gob.ar/parlamentario/parlamentaria/51944/downloadOrdenDia",
+    "fecha": null
   }
 ]

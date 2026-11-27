@@ -2565,7 +2565,7 @@
     "expedientes_probados": 1
   },
   "514": {
-    "estado": "PENDIENTE",
+    "estado": "APROBADA",
     "fecha": "19-11-2026",
     "expedientes_probados": 1
   },
@@ -2867,6 +2867,11 @@
   "574": {
     "estado": "PENDIENTE",
     "fecha": "25-11-2026",
+    "expedientes_probados": 1
+  },
+  "575": {
+    "estado": "PENDIENTE",
+    "fecha": "26-11-2026",
     "expedientes_probados": 1
   }
 }

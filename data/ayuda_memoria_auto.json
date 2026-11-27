@@ -1,5 +1,28 @@
 [
   {
+    "numero": "575",
+    "periodo": 2026,
+    "origen": "Senado",
+    "categoria": "Proyecto de Ley",
+    "autor": null,
+    "descripcion": "Dictamen comunicando que no ha podido expedirse dentro del plazo fijado por el artículo 5° de la Ley N° 23.847, con respecto a la Cuenta de Inversión correspondiente al Ejercicio 2024. (S-2053/26)",
+    "expedientes": [
+      {
+        "codigo": "S-2053/26",
+        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/2053.26/S/CC"
+      }
+    ],
+    "comisionCabecera": "Comisión Parlamentaria Mixta Revisora de Cuentas",
+    "fechaDictamen": "26/11/2026",
+    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51944/downloadOrdenDia",
+    "comisiones": [
+      "Comisión Parlamentaria Mixta Revisora de Cuentas",
+      "DE COMISIÓN PARLAMENTARIA MIXTA REVISORA DE CUENTAS"
+    ],
+    "tipoOD": "NORMAL",
+    "firmantesMayoria": []
+  },
+  {
     "numero": "574",
     "periodo": 2026,
     "origen": "Senado",
@@ -1552,44 +1575,6 @@
       "Carlos M. Espínola",
       "María V. Huala",
       "Sandra M. Mendoza"
-    ]
-  },
-  {
-    "numero": "514",
-    "periodo": 2026,
-    "origen": "Poder Ejecutivo",
-    "categoria": "Acuerdo",
-    "autor": null,
-    "descripcion": "Dictamen en el mensaje del Poder Ejecutivo Nacional, solicitando acuerdo con el fin de posibilitar la designación del Juez Penal Federal del Juzgado Federal de Garantías con asiento en la ciudad de Venado Tuerto, provincia de Santa Fe, doctor Mariano Javier Camblong. (PE-288/26)",
-    "expedientes": [
-      {
-        "codigo": "PE-288/26",
-        "url": "https://www.senado.gob.ar/parlamentario/comisiones/verExp/288.26/PE/AC"
-      }
-    ],
-    "comisionCabecera": "Acuerdos",
-    "fechaDictamen": "19/11/2026",
-    "odLink": "https://www.senado.gob.ar/parlamentario/parlamentaria/51862/downloadOrdenDia",
-    "comisiones": [
-      "Acuerdos",
-      "DE ACUERDOS"
-    ],
-    "tipoOD": "NORMAL",
-    "firmantesMayoria": [
-      "Maximiliano Abad",
-      "Sandra M. Mendoza",
-      "Carlos O. Arce",
-      "Beatriz L. Ávila",
-      "Patricia Bullrich",
-      "Agustín P. Coto",
-      "Carlos M. Espínola",
-      "Enzo P. Fullone",
-      "Mariana Juri",
-      "Juan C. Godoy",
-      "Enrique M. Goerling Lara",
-      "Carolina Losada",
-      "Nadia J. Marquez",
-      "Flavia G. Royón"
     ]
   },
   {
