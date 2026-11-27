@@ -1,8 +1,8 @@
 {
  "anio": 2026,
- "actualizado": "27-11-2026 07:06",
+ "actualizado": "27-11-2026 18:39",
  "fuente": "https://www.senado.gob.ar/votaciones/actas",
- "total_generales": 63,
+ "total_generales": 75,
  "actas": [
   {
    "id": 2623,
@@ -21041,6 +21041,6694 @@
      "n": 0,
      "b": 0,
      "x": 3
+    }
+   }
+  },
+  {
+   "id": 2891,
+   "fecha": "26-11-2026",
+   "nro_acta": "2",
+   "titulo": "Acuerdo para la designación de jueces, conjueces, fiscales y defensores públicos; y para ascensos de funcionarios del Servicio Exterior de la Nación.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 477,
+     "anio": 2026
+    },
+    {
+     "nro": 478,
+     "anio": 2026
+    },
+    {
+     "nro": 479,
+     "anio": 2026
+    },
+    {
+     "nro": 480,
+     "anio": 2026
+    },
+    {
+     "nro": 481,
+     "anio": 2026
+    },
+    {
+     "nro": 482,
+     "anio": 2026
+    },
+    {
+     "nro": 483,
+     "anio": 2026
+    },
+    {
+     "nro": 484,
+     "anio": 2026
+    },
+    {
+     "nro": 485,
+     "anio": 2026
+    },
+    {
+     "nro": 486,
+     "anio": 2026
+    },
+    {
+     "nro": 487,
+     "anio": 2026
+    },
+    {
+     "nro": 488,
+     "anio": 2026
+    },
+    {
+     "nro": 489,
+     "anio": 2026
+    },
+    {
+     "nro": 490,
+     "anio": 2026
+    },
+    {
+     "nro": 491,
+     "anio": 2026
+    },
+    {
+     "nro": 492,
+     "anio": 2026
+    },
+    {
+     "nro": 493,
+     "anio": 2026
+    },
+    {
+     "nro": 494,
+     "anio": 2026
+    },
+    {
+     "nro": 495,
+     "anio": 2026
+    },
+    {
+     "nro": 496,
+     "anio": 2026
+    },
+    {
+     "nro": 497,
+     "anio": 2026
+    },
+    {
+     "nro": 498,
+     "anio": 2026
+    },
+    {
+     "nro": 499,
+     "anio": 2026
+    },
+    {
+     "nro": 500,
+     "anio": 2026
+    },
+    {
+     "nro": 501,
+     "anio": 2026
+    },
+    {
+     "nro": 502,
+     "anio": 2026
+    },
+    {
+     "nro": 503,
+     "anio": 2026
+    },
+    {
+     "nro": 504,
+     "anio": 2026
+    },
+    {
+     "nro": 505,
+     "anio": 2026
+    },
+    {
+     "nro": 506,
+     "anio": 2026
+    },
+    {
+     "nro": 507,
+     "anio": 2026
+    },
+    {
+     "nro": 508,
+     "anio": 2026
+    },
+    {
+     "nro": 509,
+     "anio": 2026
+    },
+    {
+     "nro": 510,
+     "anio": 2026
+    },
+    {
+     "nro": 511,
+     "anio": 2026
+    },
+    {
+     "nro": 512,
+     "anio": 2026
+    },
+    {
+     "nro": 513,
+     "anio": 2026
+    },
+    {
+     "nro": 514,
+     "anio": 2026
+    },
+    {
+     "nro": 515,
+     "anio": 2026
+    },
+    {
+     "nro": 516,
+     "anio": 2026
+    },
+    {
+     "nro": 517,
+     "anio": 2026
+    },
+    {
+     "nro": 518,
+     "anio": 2026
+    },
+    {
+     "nro": 519,
+     "anio": 2026
+    },
+    {
+     "nro": 520,
+     "anio": 2026
+    },
+    {
+     "nro": 521,
+     "anio": 2026
+    },
+    {
+     "nro": 522,
+     "anio": 2026
+    },
+    {
+     "nro": 523,
+     "anio": 2026
+    },
+    {
+     "nro": 524,
+     "anio": 2026
+    },
+    {
+     "nro": 525,
+     "anio": 2026
+    },
+    {
+     "nro": 526,
+     "anio": 2026
+    },
+    {
+     "nro": 527,
+     "anio": 2026
+    },
+    {
+     "nro": 528,
+     "anio": 2026
+    },
+    {
+     "nro": 529,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "13:38",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "x"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "x"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "x"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "x"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 20,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 19,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2892,
+   "fecha": "26-11-2026",
+   "nro_acta": "3",
+   "titulo": "Reforma electoral.",
+   "tipo": "EN GENERAL",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "ABSOLUTA",
+   "ods": [
+    {
+     "nro": 434,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "18:06",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "n"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "n"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "n"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "n"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "n"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "n"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "n"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "n"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "n"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "n"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "n"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "n"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "n"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "n"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "n"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "n"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "n"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "n"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "n"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "n"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "n"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "n"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "n"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "n"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "n"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "n"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "n"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "n"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "n"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 0,
+     "n": 3,
+     "b": 0,
+     "x": 0
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 0,
+     "n": 2,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 0,
+     "n": 1,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 0,
+     "n": 1,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 0,
+     "n": 22,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 21,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2905,
+   "fecha": "26-11-2026",
+   "nro_acta": "16",
+   "titulo": "Prevención de la ludopatía y regulación de los juegos de azar y apuestas en línea.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [],
+   "expedientes": [
+    {
+     "nro": 26,
+     "anio": 24,
+     "origen": "CD",
+     "tipo": "PL",
+     "texto": "CD-26/24-PL"
+    }
+   ],
+   "hora": "23:05",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 21,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2906,
+   "fecha": "26-11-2026",
+   "nro_acta": "17",
+   "titulo": "Combate contra el juego ilegal.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [],
+   "expedientes": [
+    {
+     "nro": 2044,
+     "anio": 26,
+     "origen": "S",
+     "tipo": "PL",
+     "texto": "S-2044/26-PL"
+    }
+   ],
+   "hora": "23:52",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 21,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2907,
+   "fecha": "26-11-2026",
+   "nro_acta": "18",
+   "titulo": "Institución del 26 de agosto como Día Nacional del Veterano y de los Caídos Indígenas en la Guerra de Malvinas.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 429,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "00:04",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "n"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "n"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "n"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "n"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "n"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "n"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "n"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "n"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "n"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "n"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "n"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "n"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "n"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "x"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 8,
+     "n": 13,
+     "b": 0,
+     "x": 0
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 0,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2908,
+   "fecha": "26-11-2026",
+   "nro_acta": "19",
+   "titulo": "Declaraciones de fiestas nacionales, de bien histórico nacional y de monumentos históricos nacionales.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 432,
+     "anio": 2026
+    },
+    {
+     "nro": 369,
+     "anio": 2026
+    },
+    {
+     "nro": 452,
+     "anio": 2026
+    },
+    {
+     "nro": 457,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [
+    {
+     "nro": 1102,
+     "anio": 26,
+     "origen": "S",
+     "tipo": "PL",
+     "texto": "S-1102/26-PL"
+    }
+   ],
+   "hora": "00:06",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "x"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 21,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 0,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2909,
+   "fecha": "26-11-2026",
+   "nro_acta": "20",
+   "titulo": "Prórroga por un año de la vigencia del Estatuto del Periodista.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [],
+   "expedientes": [
+    {
+     "nro": 1472,
+     "anio": 26,
+     "origen": "S",
+     "tipo": "PL",
+     "texto": "S-1472/26-PL"
+    }
+   ],
+   "hora": "00:10",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "n"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "n"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "n"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 18,
+     "n": 3,
+     "b": 0,
+     "x": 0
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2910,
+   "fecha": "26-11-2026",
+   "nro_acta": "21",
+   "titulo": "Reducción del IVA para productos derivados de la mandioca.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [],
+   "expedientes": [
+    {
+     "nro": 9,
+     "anio": 26,
+     "origen": "CD",
+     "tipo": "PL",
+     "texto": "CD-9/26-PL"
+    }
+   ],
+   "hora": "00:24",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "x"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "x"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "x"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "x"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 19,
+     "n": 0,
+     "b": 0,
+     "x": 3
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 20,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2912,
+   "fecha": "26-11-2026",
+   "nro_acta": "23",
+   "titulo": "Creación del Registro Nacional Único de Alimentantes Morosos.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 417,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "00:43",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "x"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "x"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 19,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2913,
+   "fecha": "26-11-2026",
+   "nro_acta": "24",
+   "titulo": "Transferencia de un inmueble a la provincia de Chaco.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 433,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "00:45",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "x"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "x"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "x"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "x"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "x"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 19,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 0,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2914,
+   "fecha": "26-11-2026",
+   "nro_acta": "25",
+   "titulo": "Establecimiento del 2 de mayo como Día Nacional para la Prevención del Bullying y otras formas de violencia y acoso escolar. Realización anual de la jornada \"Argentina contra el bullying: por una escuela libre de acoso y discriminación\" en los establecimientos educativos del país.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 138,
+     "anio": 2026
+    },
+    {
+     "nro": 357,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "00:58",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "a"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "a"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "x"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "x"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "x"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "x"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 22,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 20,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 0,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    }
+   }
+  },
+  {
+   "id": 2915,
+   "fecha": "26-11-2026",
+   "nro_acta": "26",
+   "titulo": "Modificación del Código Penal sobre vandalismo rural.",
+   "tipo": "EN GENERAL Y EN PARTICULAR",
+   "resultado": "AFIRMATIVO",
+   "mayoria": "SIMPLE",
+   "ods": [
+    {
+     "nro": 430,
+     "anio": 2026
+    }
+   ],
+   "expedientes": [],
+   "hora": "01:43",
+   "votos": [
+    {
+     "senador": "MENDOZA, SANDRA MARIELA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "TUCUMÁN",
+     "voto": "a"
+    },
+    {
+     "senador": "MOISES, MARÍA CAROLINA",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "ANDRADA, GUILLERMO EDUARDO",
+     "bloque": "CONVICCIÓN FEDERAL",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "TERENZI, EDITH ELIZABETH",
+     "bloque": "DESPIERTA CHUBUT",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "MORENO, ELIA ESTHER DEL CARMEN",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "a"
+    },
+    {
+     "senador": "ZAMORA, GERARDO",
+     "bloque": "FRENTE CÍVICO POR SANTIAGO",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "x"
+    },
+    {
+     "senador": "GOERLING LARA, ENRIQUE MARTÍN",
+     "bloque": "FRENTE PRO",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "HUALA, MARÍA VICTORIA",
+     "bloque": "FRENTE PRO",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "CRISTINA, ANDREA MARCELA",
+     "bloque": "FRENTE PRO",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "AVILA, BEATRIZ LUISA",
+     "bloque": "INDEPENDENCIA",
+     "provincia": "TUCUMÁN",
+     "voto": "x"
+    },
+    {
+     "senador": "SALINO, FERNANDO ALDO",
+     "bloque": "JUSTICIA SOCIAL FEDERAL",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "MANZUR, JUAN LUIS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TUCUMÁN",
+     "voto": "n"
+    },
+    {
+     "senador": "BAHL, ADÁN HUMBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "LEWANDOWSKI, MARCELO NÉSTOR",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "RECALDE, MARIANO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "n"
+    },
+    {
+     "senador": "BENSUSÁN, DANIEL PABLO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "MAYANS, JOSÉ MIGUEL ÁNGEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "n"
+    },
+    {
+     "senador": "GONZÁLEZ, MARÍA TERESA MARGARITA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "FORMOSA",
+     "voto": "n"
+    },
+    {
+     "senador": "CAPITANICH, JORGE MILTON",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHACO",
+     "voto": "n"
+    },
+    {
+     "senador": "UÑAC, SERGIO MAURICIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "GIMÉNEZ NAVARRO, MARÍA CELESTE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SAN JUAN",
+     "voto": "n"
+    },
+    {
+     "senador": "LÓPEZ, MARÍA FLORENCIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "n"
+    },
+    {
+     "senador": "REJAL, JESÚS FERNANDO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "LA RIOJA",
+     "voto": "x"
+    },
+    {
+     "senador": "KIRCHNER, ALICIA MARGARITA ANTONIA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTA CRUZ",
+     "voto": "n"
+    },
+    {
+     "senador": "LINARES, CARLOS ALBERTO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CHUBUT",
+     "voto": "a"
+    },
+    {
+     "senador": "MARKS, ANA INÉS",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "n"
+    },
+    {
+     "senador": "SORIA, MARTIN IGNACIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "RÍO NEGRO",
+     "voto": "x"
+    },
+    {
+     "senador": "LÓPEZ, CÁNDIDA CRISTINA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "CORPACCI, LUCÍA BENIGNA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "CATAMARCA",
+     "voto": "x"
+    },
+    {
+     "senador": "DI TULLIO, JULIANA",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "x"
+    },
+    {
+     "senador": "DE PEDRO, EDUARDO ENRIQUE",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "BUENOS AIRES",
+     "voto": "x"
+    },
+    {
+     "senador": "NEDER, JOSÉ EMILIO",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "SANTIAGO DEL ESTERO",
+     "voto": "x"
+    },
+    {
+     "senador": "FERNÁNDEZ SAGASTI, ANABEL",
+     "bloque": "JUSTICIALISTA",
+     "provincia": "MENDOZA",
+     "voto": "x"
+    },
+    {
+     "senador": "JUEZ, LUIS ALFREDO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ALVAREZ RIVERO, CARMEN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CÓRDOBA",
+     "voto": "a"
+    },
+    {
+     "senador": "ATAUCHE, EZEQUIEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BEDIA, VILMA FACUNDA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "JUJUY",
+     "voto": "a"
+    },
+    {
+     "senador": "BENEGAS LYNCH, JOAQUÍN ALBERTO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "ALMEIDA, ROMINA MARÍA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "ENTRE RÍOS",
+     "voto": "a"
+    },
+    {
+     "senador": "BULLRICH, PATRICIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTEVERDE, AGUSTÍN ANÍBAL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "GUZMÁN CORAITA, GONZALO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "OROZCO, MARÍA EMILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "PAOLTRONI, FRANCISCO MANUEL",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "FORMOSA",
+     "voto": "a"
+    },
+    {
+     "senador": "GODOY, JUAN CRUZ",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "OLIVERA LUCERO, BRUNO ANTONIO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN JUAN",
+     "voto": "a"
+    },
+    {
+     "senador": "LÓPEZ, CLAUDIA CECILIA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "LA RIOJA",
+     "voto": "x"
+    },
+    {
+     "senador": "FULLONE, ENZO PAOLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "RÍO NEGRO",
+     "voto": "a"
+    },
+    {
+     "senador": "MÁRQUEZ, NADIA JUDITH",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CERVI, MARIO PABLO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "COTO, AGUSTÍN PEDRO",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "MONTE DE OCA, MARÍA BELÉN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+     "voto": "a"
+    },
+    {
+     "senador": "ABDALA, BARTOLOMÉ ESTEBAN",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "ARRASCAETA, IVANNA MARCELA",
+     "bloque": "LA LIBERTAD AVANZA",
+     "provincia": "SAN LUIS",
+     "voto": "a"
+    },
+    {
+     "senador": "CORROZA, JULIETA",
+     "bloque": "LA NEUQUINIDAD",
+     "provincia": "NEUQUÉN",
+     "voto": "a"
+    },
+    {
+     "senador": "CARAMBIA, JOSÉ MARÍA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "x"
+    },
+    {
+     "senador": "GADANO, NATALIA ELENA",
+     "bloque": "MOVERE SANTA CRUZ",
+     "provincia": "SANTA CRUZ",
+     "voto": "x"
+    },
+    {
+     "senador": "ARCE, CARLOS OMAR",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROJAS DECUT, SONIA ELIZABETH",
+     "bloque": "MOVIMIENTO POR MISIONES",
+     "provincia": "MISIONES",
+     "voto": "a"
+    },
+    {
+     "senador": "ROYON, FLAVIA GABRIELA",
+     "bloque": "PRIMERO LOS SALTEÑOS",
+     "provincia": "SALTA",
+     "voto": "a"
+    },
+    {
+     "senador": "VIGO, ALEJANDRA MARÍA",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CÓRDOBA",
+     "voto": "x"
+    },
+    {
+     "senador": "ESPÍNOLA, CARLOS MAURICIO",
+     "bloque": "PROVINCIAS UNIDAS",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "GALARETTO, EDUARDO HORACIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "LOSADA, CAROLINA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "SANTA FE",
+     "voto": "a"
+    },
+    {
+     "senador": "VISCHI, EDUARDO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "VALENZUELA, MERCEDES GABRIELA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CORRIENTES",
+     "voto": "a"
+    },
+    {
+     "senador": "KRONEBERGER, DANIEL RICARDO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "LA PAMPA",
+     "voto": "a"
+    },
+    {
+     "senador": "SCHNEIDER, SILVANA LORENA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CHACO",
+     "voto": "a"
+    },
+    {
+     "senador": "FAMA, FLAVIO SERGIO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "CATAMARCA",
+     "voto": "a"
+    },
+    {
+     "senador": "ABAD, MAXIMILIANO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "BUENOS AIRES",
+     "voto": "a"
+    },
+    {
+     "senador": "JURI, MARIANA",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    },
+    {
+     "senador": "SUÁREZ, RODOLFO ALEJANDRO",
+     "bloque": "UCR - UNIÓN CÍVICA RADICAL",
+     "provincia": "MENDOZA",
+     "voto": "a"
+    }
+   ],
+   "por_bloque": {
+    "CONVICCIÓN FEDERAL": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "DESPIERTA CHUBUT": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "FRENTE CÍVICO POR SANTIAGO": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "FRENTE PRO": {
+     "a": 3,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "INDEPENDENCIA": {
+     "a": 0,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "JUSTICIA SOCIAL FEDERAL": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "JUSTICIALISTA": {
+     "a": 6,
+     "n": 9,
+     "b": 0,
+     "x": 7
+    },
+    "LA LIBERTAD AVANZA": {
+     "a": 20,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "LA NEUQUINIDAD": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "MOVERE SANTA CRUZ": {
+     "a": 0,
+     "n": 0,
+     "b": 0,
+     "x": 2
+    },
+    "MOVIMIENTO POR MISIONES": {
+     "a": 2,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PRIMERO LOS SALTEÑOS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 0
+    },
+    "PROVINCIAS UNIDAS": {
+     "a": 1,
+     "n": 0,
+     "b": 0,
+     "x": 1
+    },
+    "UCR - UNIÓN CÍVICA RADICAL": {
+     "a": 10,
+     "n": 0,
+     "b": 0,
+     "x": 0
     }
    }
   }
