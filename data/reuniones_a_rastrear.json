@@ -119,7 +119,7 @@
       "327/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-1184/26",
@@ -131,6 +131,51 @@
     ],
     "fecha_dictamen": null,
     "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-1200/26",
+    "bloques": [
+      "Justicia Social Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1201/26",
+    "bloques": [
+      "Justicia Social Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1321/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1428/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1436/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-1579/26",
@@ -155,6 +200,87 @@
     "aprobado_por_el_senado_con_od": true
   },
   {
+    "id": "S-1615/26",
+    "bloques": [
+      "Justicia Social Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1616/26",
+    "bloques": [
+      "Justicia Social Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1632/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1636/26",
+    "bloques": [
+      "Convicción Federal"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1660/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1672/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1683/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1697/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1715/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
     "id": "S-1722/26",
     "bloques": [
       "Convicción Federal"
@@ -166,6 +292,96 @@
     "aprobado_por_el_senado_con_od": false
   },
   {
+    "id": "S-1731/26",
+    "bloques": [
+      "Movimiento por Misiones"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1774/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1775/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1780/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1782/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1807/26",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1826/26",
+    "bloques": [
+      "Primero los Salteños"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1874/26",
+    "bloques": [
+      "Justicialista"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1929/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1931/26",
+    "bloques": [
+      "UCR - Unión Cívica Radical"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
     "id": "S-1963/26",
     "bloques": [
       "Frente PRO"
@@ -175,6 +391,33 @@
     ],
     "fecha_dictamen": null,
     "aprobado_por_el_senado_con_od": false
+  },
+  {
+    "id": "S-1964/26",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1965/26",
+    "bloques": [
+      "Frente PRO"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-1969/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-209/26",
@@ -196,7 +439,7 @@
       "328/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-227/26",
@@ -240,7 +483,7 @@
       "325/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-297/25",
@@ -306,7 +549,16 @@
       "329/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
+  },
+  {
+    "id": "S-427/26",
+    "bloques": [
+      "La Libertad Avanza"
+    ],
+    "orden_del_dia": [],
+    "fecha_dictamen": null,
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-429/26",
@@ -317,7 +569,7 @@
       "330/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-457/26",
@@ -328,7 +580,7 @@
       "323/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-465/26",
@@ -351,7 +603,7 @@
       "331/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-50/26",
@@ -384,7 +636,7 @@
       "332/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-545/26",
@@ -428,7 +680,7 @@
       "333/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-564/26",
@@ -461,7 +713,7 @@
       "334/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-579/25",
@@ -505,7 +757,7 @@
       "335/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-613/26",
@@ -516,7 +768,7 @@
       "332/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-620/26",
@@ -527,7 +779,7 @@
       "336/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-623/26",
@@ -538,7 +790,7 @@
       "333/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-657/26",
@@ -595,7 +847,7 @@
       "326/2026"
     ],
     "fecha_dictamen": "25/08/2026",
-    "aprobado_por_el_senado_con_od": false
+    "aprobado_por_el_senado_con_od": true
   },
   {
     "id": "S-926/25",
